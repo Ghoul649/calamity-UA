@@ -1,0 +1,169 @@
+// Boss Bags
+AquaticScourgeBag: {
+    DisplayName: Мішок скарбів (Водяний Поглинач)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+AstrumAureusBag: {
+    DisplayName: Мішок скарбів (Аструм Ауреус)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+AstrumDeusBag: {
+    DisplayName: Мішок скарбів (Аструм Деус)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+BrimstoneWaifuBag: {
+    DisplayName: Мішок скарбів (Елементаль Сірки)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CalamitasCloneBag: {
+    DisplayName: Мішок скарбів (Клон Каламіти)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CalamitasCoffer: {
+    DisplayName: Скриня скарбів (Каламіта)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CeaselessVoidBag: {
+    DisplayName: Мішок скарбів (Безкінечна Порожнеча)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CrabulonBag: {
+    DisplayName: Мішок скарбів (Крабулон)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CryogenBag: {
+    DisplayName: Мішок скарбів (Кріоген)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+DesertScourgeBag: {
+    DisplayName: Мішок скарбів (Пустельний Поглинач)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+DevourerofGodsBag: {
+    DisplayName: Мішок скарбів (Пожирач Богів)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+DraedonBag: {
+    DisplayName: Скриня скарбів (Екзо-мехи)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+DragonfollyBag: {
+    DisplayName: Мішок скарбів (Драконфоллі)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+HiveMindBag: {
+    DisplayName: Мішок скарбів (Розум Вулика)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+LeviathanBag: {
+    DisplayName: Мішок скарбів (Левіафан і Анахіта)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+OldDukeBag: {
+    DisplayName: Мішок скарбів (Старий Герцог)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+PerforatorBag: {
+    DisplayName: Мішок скарбів (Перфоратори)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+PlaguebringerGoliathBag: {
+    DisplayName: Мішок скарбів (Голіаф-Чума)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+PolterghastBag: {
+    DisplayName: Мішок скарбів (Полтергаст)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+ProvidenceBag: {
+    DisplayName: Мішок скарбів (Провіденс, Осквернена Богиня)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+RavagerBag: {
+    DisplayName: Мішок скарбів (Равагер)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SignusBag: {
+    DisplayName: Мішок скарбів (Сігнус, Посланець Пожирача)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SlimeGodBag: {
+    DisplayName: Мішок скарбів (Бог Слизу)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+StormWeaverBag: {
+    DisplayName: Мішок скарбів (Штормовий Ткач)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+YharonBag: {
+    DisplayName: Мішок скарбів (Ярон)
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+// Miscellaneous Bags
+AbyssalTreasure: {
+    DisplayName: Безодневий скарб
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+BleachedAnglingKit: {
+    DisplayName: Вибілений рибальський набір
+    Tooltip:
+        '''
+        Може містити різне рибальське спорядження
+        {$CommonItemTooltip.RightClickToOpen}
+        '''
+}
+
+FleshyGeode: {
+    DisplayName: М'ясистий геод
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+NecromanticGeode: {
+    DisplayName: Некромантичний геод
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SandyAnglingKit: {
+    DisplayName: Піщаний рибальський набір
+    Tooltip:
+        '''
+        Може містити різне рибальське спорядження
+        {$CommonItemTooltip.RightClickToOpen}
+        '''
+}
+
+StarterBag: {
+    DisplayName: Стартовий мішок
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SulphuricTreasure: {
+    DisplayName: Сірчаний скарб
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
