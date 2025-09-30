@@ -1,0 +1,363 @@
+AerialiteBar: {
+    DisplayName: Аерелітовий Злиток
+    Tooltip: ""
+}
+
+AncientBoneDust: {
+    DisplayName: Давній Кістковий Пил
+    Tooltip: ""
+}
+
+ArmoredShell: {
+    DisplayName: Броньований Панцир
+    Tooltip: ""
+}
+
+AscendantSpiritEssence: {
+    DisplayName: Сутність Висхідного Духу
+    Tooltip: Каталізатор найвищого ґатунку, створений шляхом злиття могутніх душ
+}
+
+AshesofAnnihilation: {
+    DisplayName: Попіл Знищення
+    Tooltip: Палаюча сутність гніву Відьми
+}
+
+AshesofCalamity: {
+    DisplayName: Попіл Лиха
+    Tooltip: ""
+}
+
+AstralBar: {
+    DisplayName: Астральний Злиток
+    Tooltip: ""
+}
+
+AuricBar: {
+    DisplayName: Ауричний Злиток
+    Tooltip: Безмежна сила випромінюється з цього металу
+}
+
+BeetleJuice: {
+    DisplayName: Жук-Сік
+    Tooltip: ""
+}
+
+BlightedGel: {
+    DisplayName: Заражений Гель
+    Tooltip: ""
+}
+
+BloodOrb: {
+    DisplayName: Кров'яна Сфера
+    Tooltip: ""
+}
+
+BloodSample: {
+    DisplayName: Зразок Крові
+    Tooltip: ""
+}
+
+Bloodstone: {
+    DisplayName: Кривавий Камінь
+    Tooltip: ""
+}
+
+BloodstoneCore: {
+    DisplayName: Серцевина Кривавого Каменю
+    Tooltip: ""
+}
+
+CoreofCalamity: {
+    DisplayName: Серцевина Лиха
+    Tooltip: ""
+}
+
+CoreofEleum: {
+    DisplayName: Серцевина Елеуму
+    Tooltip: ""
+}
+
+CoreofHavoc: {
+    DisplayName: Серцевина Хаосу
+    Tooltip: ""
+}
+
+CoreofSunlight: {
+    DisplayName: Серцевина Сонячного Світла
+    Tooltip: ""
+}
+
+CorrodedFossil: {
+    DisplayName: Корродований Викопний
+    Tooltip: Він дуже міцний
+}
+
+CosmiliteBar: {
+    DisplayName: Космілітовий Злиток
+    Tooltip: Кусень міцної та надзвичайно стійкої космічної сталі
+}
+
+CryonicBar: {
+    DisplayName: Кріонічний Злиток
+    Tooltip: ""
+}
+
+DarkPlasma: {
+    DisplayName: Темна Плазма
+    Tooltip: ""
+}
+
+DarksunFragment: {
+    DisplayName: Фрагмент Темного Сонця
+    Tooltip: Кристал, пронизаний протилежними небесними енергіями
+}
+
+DemonicBoneAsh: {
+    DisplayName: Демонічний Кістковий Попіл
+    Tooltip: ""
+}
+
+DepthCells: {
+    DisplayName: Глибинні Клітини
+    Tooltip: Клітини абісальних істот
+}
+
+DivineGeode: {
+    DisplayName: Божественний Геод
+    Tooltip: Кусень кристалізованої святої енергії
+}
+
+DubiousPlating: {
+    DisplayName: Сумнівна Обшивка
+    Tooltip: ""
+}
+
+EffulgentFeather: {
+    DisplayName: Сяюче Перо
+    Tooltip: Воно вібрує пухнастою золотою енергією
+}
+
+EndothermicEnergy: {
+    DisplayName: Ендотермічна Енергія
+    Tooltip: Її смертельний холод висмоктує життя з оточення
+}
+
+EnergyCore: {
+    DisplayName: Ядро Енергії
+    Tooltip: Воно пульсує енергією
+}
+
+EssenceofEleum: {
+    DisplayName: Сутність Елеуму
+    Tooltip: Сутність холодних істот
+}
+
+EssenceofHavoc: {
+    DisplayName: Сутність Хаосу
+    Tooltip: Сутність спустошених істот
+}
+
+EssenceofSunlight: {
+    DisplayName: Сутність Сонячного Світла
+    Tooltip: Сутність небесних, світлих і штормових істот
+}
+
+ExoPrism: {
+    DisplayName: Екзо-Призма
+    Tooltip: Фрактальні енергії мерехтять на її поверхні
+}
+
+GalacticaSingularity: {
+    DisplayName: Галактична Сингулярність
+    Tooltip: Осколок космосу
+}
+
+GrandScale: {
+    DisplayName: Велика Луска
+    Tooltip: Велика луска вершини хижака
+}
+
+InfectedArmorPlating: {
+    DisplayName: Заражена Броня
+    Tooltip: ""
+}
+
+LifeAlloy: {
+    DisplayName: Сплав Життя
+    Tooltip: ""
+}
+
+LivingShard: {
+    DisplayName: Живий Осколок
+    Tooltip: ""
+}
+
+Lumenyl: {
+    DisplayName: Луменіл
+    Tooltip: Осколок світлої енергії
+}
+
+MeldBlob: {
+    DisplayName: Згусток Злиття
+    Tooltip: ""
+}
+
+MeldConstruct: {
+    DisplayName: Конструкт Злиття
+    Tooltip: ""
+}
+
+MiracleMatter: {
+    DisplayName: Матерія Дива
+    Tooltip:
+        '''
+        Її аморфна форма містить невимовний потенціал
+        Потрібна для кожної Екзо-Зброї
+        '''
+}
+
+MolluskHusk: {
+    DisplayName: Панцир Молюска
+    Tooltip: Залишки молюска
+}
+
+MurkyPaste: {
+    DisplayName: Каламутна Паста
+    Tooltip: ""
+}
+
+MysteriousCircuitry: {
+    DisplayName: Таємнича Схема
+    Tooltip: ""
+}
+
+Necroplasm: {
+    DisplayName: Некроплазма
+    Tooltip: Вона вирує й кипить зловісною люттю
+}
+
+NightmareFuel: {
+    DisplayName: Паливо Кошмару
+    Tooltip: Може виснажити твій розум
+}
+
+PearlShard: {
+    DisplayName: Перлинний Осколок
+    Tooltip: ""
+}
+
+PerennialBar: {
+    DisplayName: Перенніальний Злиток
+    Tooltip: ""
+}
+
+PlagueCellCanister: {
+    DisplayName: Каністра Чумних Клітин
+    Tooltip: ""
+}
+
+PlasmaDriveCore: {
+    DisplayName: Прототип Ядра Плазмового Двигуна
+    Tooltip: Незважаючи на роки зберігання, його піч досі палає
+}
+
+PurifiedGel: {
+    DisplayName: Очищений Гель
+    Tooltip: ""
+}
+
+ReaperTooth: {
+    DisplayName: Зуб Жнеця
+    Tooltip: Гострий настільки, що може розрізати діаманти
+}
+
+RottenMatter: {
+    DisplayName: Гнила Матерія
+    Tooltip: ""
+}
+
+RuinousSoul: {
+    DisplayName: Руїнівна Душа
+    Tooltip: Осколок далекого минулого
+}
+
+ScoriaBar: {
+    DisplayName: Скарієвий Злиток
+    Tooltip: Дим здається теплим
+}
+
+SeaRemains: {
+    DisplayName: Морські Залишки
+    Tooltip: ""
+}
+
+ShadowspecBar: {
+    DisplayName: Тіньовий Злиток
+    Tooltip: Огидний чорний метал, настільки жахливий і потужний, що не піддається поясненню
+}
+
+SolarVeil: {
+    DisplayName: Сонячна Вуаль
+    Tooltip: Сонячне світло не може проникнути крізь тканину цієї матерії
+}
+
+StarblightSoot: {
+    DisplayName: Зоряний Саж
+    Tooltip: ""
+}
+
+StormlionMandible: {
+    DisplayName: Мандибула Грозового Лева
+    Tooltip: ""
+}
+
+SulphuricScale: {
+    DisplayName: Сірчана Луска
+    Tooltip: ""
+}
+
+SuspiciousScrap: {
+    DisplayName: Підозрілий Лом
+    Tooltip: Схоже, це частина чогось більшого...
+}
+
+TitanHeart: {
+    DisplayName: Серце Титана
+    Tooltip: Може бути принесене до Астрального Маяка
+}
+
+TrapperBulb: {
+    DisplayName: Ловильна Цибулина
+    Tooltip: ""
+}
+
+TwistingNether: {
+    DisplayName: Вируючий Піть
+    Tooltip: ""
+}
+
+UelibloomBar: {
+    DisplayName: Уеліблумовий Злиток
+    Tooltip: ""
+}
+
+UnholyCore: {
+    DisplayName: Нечестива Серцевина
+    Tooltip: ""
+}
+
+UnholyEssence: {
+    DisplayName: Нечестива Сутність
+    Tooltip: Сутність осквернених істот
+}
+
+WulfrumMetalScrap: {
+    DisplayName: Вульфрумовий Металобрухт
+    Tooltip: ""
+}
+
+YharonSoulFragment: {
+    DisplayName: Фрагмент Душі Ярона
+    Tooltip: Осколок драконічної Ауричної Душі
+}
