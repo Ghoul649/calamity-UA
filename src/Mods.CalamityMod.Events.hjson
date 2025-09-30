@@ -1,0 +1,56 @@
+AcidRain: Кислотний дощ
+AcidRainStart: Отруйна злива падає на пустельні моря!
+AcidRainEnd: Сірчані небеса починають прояснюватися...
+BossRush: Бос-Раш
+// Boss Rush Xeroc Dialogue
+// Intro text
+BossRushStartText_1: ...Скільки часу минуло? Століття? Можливо, навіть тисяча років?
+BossRushStartText_2: Я занурив цей артефакт у найглибші глибини світу, щоб його більше ніколи не використали.
+BossRushStartText_3: Мало хто знає про його існування, а ті, хто знає?
+BossRushStartText_4: Вони знають, що безмежна сила, яку він колись давав, більше недоступна.
+BossRushStartText_5: Дивно бачити ще когось, хто наважився його знайти, особливо за таких обставин.
+BossRushStartText_6: Смертний цього разу, до того ж! Як цікаво...
+BossRushStartText_7: Що саме змусило тебе прагнути здобути те, що тепер є лише гнилою кам'яною табличкою?
+BossRushStartText_8: ...Можливо, це можливість. Заволодіти цією реліквією — нелегке завдання, і я бачив уривки твоєї подорожі.
+BossRushStartText_9: Ти, хто здобув цей артефакт, що завершив одну епоху у своєму прагненні завершити іншу...
+// Extra text based on defeated bosses
+// You should see all of these if you are at the right progression point for Boss Rush
+BossRushStartText_DoG: Той, хто вбив безіменного змія...
+BossRushStartText_Yharon: Той, хто переміг навіть мого старого друга, Фенікса...
+BossRushStartText_DraedonSCal: Чия сила може зрівнятися з єдиним смертним, який змусив мене сумніватися у собі...
+// Further intro text
+BossRushStartText_10: Я бажаю випробувати твою силу, використовуючи фрагменти мого Первісного Світла у формі твоїх минулих ворогів.
+BossRushStartText_11: Це буде нелегко, але якщо ти доведеш свою силу, я матиму для тебе пропозицію.
+BossRushStartText_12: Чи вважаєш ти себе здатним подолати таке випробування?
+// Shortened intro text for repeat attempts
+BossRushStartText_Repeat: Бажаєш прийняти мій виклик?
+// Player responses. Death is if you somehow die while Xeroc is waiting
+BossRushStartText_Decline: Розумію. Можливо, я помилився у тобі. Прощавай.
+BossRushStartText_Accept: Добре. Нехай випробування почнеться!
+BossRushStartText_Death: ...Невже я справді повернувся заради цього?
+// Sequential text at the end of Boss Rush Tier 1
+BossRushTierOneEndText_1: Поки що прийнятна демонстрація, але цього недостатньо, щоб виправдати мої очікування.
+BossRushTierOneEndText_2: Підготуй тіло і душу до того, що ще попереду.
+// Sequential text at the end of Boss Rush Tier 2
+BossRushTierTwoEndText_1: Я не помилився. Ти справді гідний воїн.
+BossRushTierTwoEndText_2: Але ти ще не показав достатньо. Продовжимо?
+// Sequential text at the end of Boss Rush Tier 3
+BossRushTierThreeEndText_1: Твоя рішучість і прагнення ставати сильнішим... Це нагадує мені мене самого, коли я був смертним.
+BossRushTierThreeEndText_2: Але найважчі випробування ще попереду. Не втрачай пильності ні на мить.
+// Sequential text at the end of Boss Rush Tier 4
+BossRushTierFourEndText_1: Випробування скоро досягне кульмінації.
+BossRushTierFourEndText_2: Зараз час показати свою відданість і справжню силу та волю.
+BossRushTierFourEndText_3: Доведи мені, що ти здатен перевершити навіть себе.
+// Victory text
+BossRushEndText_1: Справді чудова демонстрація. Я бачу, що не помилився! Ти справді можеш бути наймогутнішим воїном цього світу. Однак...
+BossRushEndText_2: Здається, навіть цієї сили... недостатньо. Боюся, я не поділюся з тобою своєю пропозицією.
+BossRushEndText_3: Але, як втішний приз, я хочу, щоб ти взяв цей древній камінь, який я вирізав з Ері.
+BossRushEndText_4: Я довго зберігав його як... сувенір, так би мовити.
+BossRushEndText_5: Хоча ти не зміг виправдати мої вимоги, навряд чи це останній раз, коли наші шляхи перетнуться!
+BossRushEndText_6: Продовжуй шукати більшу силу, і коли ми зустрінемось знову, можливо, ти станеш достатньо сильним, щоб бути гідним.
+BossRushEndText_7: Тим часом у мене є власні справи, якими я маю зайнятися.
+BossRushEndText_8: Прощавай, поки що.
+// Shortened victory text for repeat attempts
+BossRushEndText_Repeat: Ти довів, що є грізним воїном, але цього недостатньо. Шукай нових висот сили, щоб одного дня стати гідним.
+// Dying during Xeroc's victory monologue gives you this
+BossRushEndText_Death: ...Схоже, я мав рацію, думаючи, що цей світ не може допомогти собі, а тим більше мені.
