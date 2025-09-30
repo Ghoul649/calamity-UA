@@ -1,0 +1,2425 @@
+AbsoluteZero: {
+	// DisplayName: Absolute Zero
+	/* Tooltip:
+	'''
+	Shoots dark ice crystals
+	The blade creates frost explosions on direct hits
+	Ancient blade imbued with the Archmage of Ice's magic
+	''' */
+	
+	DisplayName: Абсолютний Нуль
+	Tooltip:
+		'''
+		Стріляє темними кристалами льоду
+		Лезо створює морозний вибух при прямому влучанні
+		Стародавній клинок, пронизаний магією Архімага Льоду
+		'''
+}
+
+AbyssBlade: {
+	// DisplayName: Abyss Blade
+	/* Tooltip:
+	'''
+	Fires short-range tridents
+	Hitting enemies will inflict the crush depth debuff
+	The lower the enemies' defense, the more damage they take from this debuff
+	''' */
+	
+	DisplayName: Клинок Безодні
+	Tooltip:
+		'''
+		Стріляє тризубами малого радіусу дії
+		Влучаючи у ворогів, ви накладаєте дебафф Глибинне Роздавлювання
+		Чим нижчий захист ворогів, тим більше шкоди вони отримують від цього дебаффа
+		'''
+}
+
+AegisBlade: {
+	// DisplayName: Aegis Blade
+	/* Tooltip:
+	'''
+	Striking an enemy with the blade causes an earthen eruption
+	Press <right> to fire an aegis bolt
+	''' */
+	
+	DisplayName: Клинок Егіди
+	Tooltip:
+		'''
+		Удар лезом по ворогу викликає виверження землі
+		Натисніть ПКМ, щоб вистрілити стрілою Егіди
+		'''
+}
+
+Aftershock: {
+	// DisplayName: Aftershock
+	// Tooltip: Summons boulders from the sky on enemy hits
+	
+	DisplayName: Поштовх
+	Tooltip: При влучанні у ворога, викликає валуни з неба
+}
+
+AirSpinner: {
+	// DisplayName: Air Spinner
+	/* Tooltip:
+	'''
+	Fires feathers when enemies are near
+	A very agile yoyo
+	''' */
+	
+	DisplayName: Повітряна Дзига
+	Tooltip:
+		'''
+		Вистрілює пір'ям, коли вороги поруч
+		Дуже рухливе йо-йо
+		'''
+}
+
+AmidiasTrident: {
+	// DisplayName: Amidias' Trident
+	// Tooltip: Shoots homing whirlpools
+	
+	DisplayName: Тризуб Амідіаса
+	Tooltip: Стріляє самонавідними водоворотами
+}
+
+AnarchyBlade: {
+	// DisplayName: Anarchy Blade
+	/* Tooltip:
+	'''
+	The lower your life the more damage this blade does
+	Your hits will generate a large explosion
+	While below 50% life your hits have a chance to instantly kill regular enemies
+	''' */
+	
+	DisplayName: Клинок Анархії
+	Tooltip:
+		'''
+		Чим меньше у вас ОЗ, тим більше шкоди завдає клинок
+		Ваші удари генерують великий вибух
+		Якщо кількість вашого ОЗ меньше 50%, ваші удари мають шанс моментально вбити ворога
+		'''
+}
+
+Aorta: {
+	// DisplayName: Aorta
+	/* Tooltip:
+	'''
+	Fires homing blood when enemies are near
+	A very agile yoyo
+	''' */
+	
+	DisplayName: Аорта
+	Tooltip:
+		'''
+		Стріляє кров'ю, коли вороги поруч
+		Дуже рухливе йо-йо
+		'''
+}
+
+AquaticDischarge: {
+	// DisplayName: Aquatic Discharge
+	// Tooltip: Enemies release electric sparks on hit
+	
+	DisplayName: Водяний Розряд
+	Tooltip: Вороги випускають електричні іскри при ударі
+}
+
+ArkoftheCosmos: {
+	// DisplayName: Ark of the Cosmos
+	/* Tooltip:
+	'''
+	[COMBO]
+	[PARRY]
+	[BLAST]
+	The physical culmination of your journey, capable of rending gods asunder
+	''' */
+	/* ComboInfo:
+	'''
+	<left> to perform a 5-swing combo that ends by throwing the blade
+	The thrown blade will follow your cursor
+	Releasing while the blade is out will cause an exploding snap
+	''' */
+	/* ParryInfo:
+	'''
+	<right> to snip out the scissor blades in front of you
+	Hitting an enemy with it will parry them, granting you brief invulnerability
+	You can parry projectiles to make them deal 160 less damage for a short period
+	Parrying anything will empower the next 10 swings of the sword
+	''' */
+	/* BlastInfo:
+	'''
+	Pressing <right> while holding UP with empowered charges will provoke a Big Rip in spacetime and use all charges
+	If more than 5 charges were used, you can dash across the rip by holding UP
+	''' */
+	
+	DisplayName: Ковчег Космосу
+	Tooltip:
+		'''
+		[КОМБО]
+		[ВІДБИТТЯ]
+		[ВИБУХ]
+		Фізична кульмінація вашої подорожі, здатна зруйнувати богів
+		'''
+	ComboInfo:
+		'''
+		ЛКМ, щоб виконати комбінацію з 5 замахів, яка закінчується кидком леза
+		Кинуте лезо буде слідувати за вашим курсором
+		Відпускання, коли лезо випущено, призведе до вибухового клацання
+		'''
+	ParryInfo:
+		'''
+		ПКМ, шоб витягнути леза ножиць перед собою
+		Якщо вдарити ним ворога, він відбиває удар, надаючи вам короткочасну невразливість
+		Ви можете відбивати снаряди, щоб вони завдавали на 160 менше шкоди на короткий час
+		Відбиття будь-якого удару посилить наступні 10 змахів меча
+		'''
+	BlastInfo:
+		'''
+		Натискання ПКМ, утримуючи ВГОРУ з зарядженими зарядами, спровокує Великий Розрив у просторі-часі і використає всі заряди
+		Якщо було використано більше 5 зарядів, ви можете пройти через розрив, утримуючи кнопку ВГОРУ
+		'''
+}
+
+ArkoftheElements: {
+	// DisplayName: Ark of the Elements
+	/* Tooltip:
+	'''
+	[COMBO]
+	[PARRY]
+	[BLAST]
+	A heavenly pair of blades infused with the essence of Terraria, powerful enough to cut through the fabric of reality
+	''' */
+	/* ComboInfo:
+	'''
+	<left> to perform a 5-swing combo that ends by throwing the blade
+	Releasing while the blade is out will deal extra damage and give 2 charges
+	''' */
+	/* ParryInfo:
+	'''
+	<right> to snip out the scissor blades in front of you
+	Hitting an enemy with it will parry them, granting you brief invulnerability
+	You can parry projectiles to make them deal 100 less damage for a short period
+	Parrying will empower the next 10 swings of the sword, letting you use both blades at once
+	''' */
+	// BlastInfo: Pressing <right> while holding UP with empowered charges will provoke a Big Rip in spacetime and use all charges
+	
+	DisplayName: Ковчег Елементів
+	Tooltip:
+		'''
+		[КОМБО]
+		[ВІДБИТТЯ]
+		[ВИБУХ]
+		Небесна пара лез, наповнена сутністю Террарії, достатньо потужна, щоб розрізати тканину простору-часу
+		'''
+	ComboInfo:
+		'''
+		ЛКМ, щоб виконати комбінацію з 5 замахів, яка закінчується кидком леза
+		Відпускання, коли лезо вийшло, завдасть додаткової шкоди і дасть 2 заряди
+		'''
+	ParryInfo:
+		'''
+		ПКМ, щоб витягнути леза ножиць перед собою
+		Якщо вдарити ним ворога, він відбиває удар, надаючи вам короткочасну невразливість
+		Ви можете відбивати снаряди, щоб вони завдавали на 100 менше шкоди на короткий час
+		Відбиття посилить наступні 10 змахів меча, що дозволить вам використовувати обидва леза одночасно
+		'''
+	BlastInfo: Натискання ПКМ, утримуючи ВГОРУ з зарядженими зарядами, спровокує Великий Розрив у просторі-часі і використає всі заряди
+}
+
+AstralBlade: {
+	// DisplayName: Astral Blade
+	// Tooltip: Deals more damage the more life an enemy has left
+	
+	DisplayName: Астральний Клинок
+	Tooltip: Чим більше ОЗ залишилось у ворога, тим більше шкоди завдасть клинок
+}
+
+AstralPike: {
+	// DisplayName: Astral Pike
+	// Tooltip: Summons astral star swarms on critical hits
+	
+	DisplayName: Астральна Піка
+	Tooltip: Викликає астральний зорепад, при критичному ударі
+}
+
+AstralScythe: {
+	// DisplayName: Astral Scythe
+	// Tooltip: Shoots a scythe ring that accelerates over time
+	
+	DisplayName: Астральна Коса
+	Tooltip: Стріляє кільцевою косою, яка з часом присорюється
+}
+
+Ataraxia: {
+	// DisplayName: Ataraxia
+	// Tooltip: Equanimity
+	
+	DisplayName: Атараксія
+	Tooltip: Незворушність
+}
+
+Avalanche: {
+	// DisplayName: Avalanche
+	// Tooltip: Spawns ice bombs that explode after 3 seconds into ice shards on hit
+	
+	DisplayName: Лавина
+	Tooltip: Створює крижані бомби, які вибухають на осколки льоду через 3 секунди при ударі
+}
+
+Azathoth: {
+	// DisplayName: Azathoth
+	/* Tooltip:
+	'''
+	Fires cosmic orbs that blast nearby enemies with lasers
+	An exceptionally agile yoyo
+	'Destroy the universe in the blink of an eye'
+	''' */
+	
+	DisplayName: Азатот
+	Tooltip:
+		'''
+		Стріляє космічними кулями, які підриває найближчих ворогів лазерами
+		Надзвичайно рухливе йойо
+		'Знищити всесвіт за одну мить'
+		'''
+}
+
+BalefulHarvester: {
+	// DisplayName: Baleful Harvester
+	// Tooltip: Summons flaming pumpkins and skulls that split into homing fire orbs on enemy hits
+	
+	DisplayName: Зловісний Жнець
+	Tooltip: Викликає палаючі гарбузи та черепи, які розпадаються на самонавідні вогняні кулі при попаданні в ворога
+}
+
+BallOFugu: {
+	// DisplayName: Ball O' Fugu
+	// Tooltip: Throws a fish that spews homing spikes
+	
+	DisplayName: Куля Фугу
+	Tooltip: Кидає рибу, яка вивергає самонавідні шипи
+}
+
+BansheeHook: {
+	// DisplayName: Banshee Hook
+	// Tooltip: Swings a banshee hook that fires blades and explodes on hit
+	
+	DisplayName: Гак Банші
+	Tooltip: Розмахує Гаком Банші, який вистрілює лезами і вибухає від удару
+}
+
+Basher: {
+	// DisplayName: Basher
+	// Tooltip: Inflicts irradiated on enemy hits
+	
+	DisplayName: Молотильник
+	Tooltip: Накладає дебафф "Опромінений"
+}
+
+BladecrestOathsword: {
+	// DisplayName: Bladecrest Oathsword
+	// Tooltip: Fires bursts of demonic blades that exponentially decelerate and explode
+	
+	DisplayName: Меч Обітниці Гострокрила
+	Tooltip: Вистрілює спалахами демонічних лез, які сповільнюються і вибухають
+}
+
+Bonebreaker: {
+	// DisplayName: Bonebreaker
+	// Tooltip: Fires javelins that stick to enemies before bursting into shrapnel
+	
+	DisplayName: Костолом
+	Tooltip: Стріляє списами, які прилипають до ворогів, а потім розлітаються на шрапнель
+}
+
+Brimlance: {
+	DisplayName: Сіркоспис
+	Tooltip: Створює сірчасті вибухи при ударі
+}
+
+Brimlash: {
+	// DisplayName: Brimlash
+	// Tooltip: Fires a brimstone bolt that explodes into more bolts on death
+	
+	DisplayName: Сіркопліт
+	Tooltip: Стріляє сірчастим снарядом, який розпадається на ще більше снярдів при влучанні
+}
+
+BrimstoneSword: {
+	// DisplayName: Brimstone Sword
+	/* Tooltip:
+	'''
+	Summons brimstone geysers on hit
+	Press <right> to throw the sword like a javelin that explodes on hit
+	''' */
+	
+	DisplayName: Сірчастий Меч
+	Tooltip:
+		'''
+		Викликає сірчастий гейзер при ударі
+		Натисніть ПКМ, щоб кинути як спис, який вибухне при ударі
+		'''
+}
+
+BrinyBaron: {
+	// DisplayName: Briny Baron
+	/* Tooltip:
+	'''
+	Striking an enemy with the blade causes a briny typhoon to appear
+	Press <right> to fire a razorwind aqua blade
+	''' */
+	
+	DisplayName: Солоний Барон
+	Tooltip:
+		'''
+		Удари по ворогу викликає морський тайфун
+		Натисніть ПКМ, щоб вистрілити шквальним водоклином
+		'''
+}
+
+BrokenBiomeBlade: {
+	// DisplayName: Broken Biome Blade
+	// See the attunement file for each attunement
+	/* Tooltip:
+	'''
+	[FUNC]
+	Hold down <right> while standing still on flat ground to attune the weapon to the powers of the surrounding biome
+	Pressing <right> otherwise switches between the current attunement and an extra stored one
+	Main Attunement : [ATT1]
+	Secondary Attunement: [ATT2]
+	''' */
+	// DefaultFunction: Does nothing... yet
+	
+	DisplayName: Зламаний Клинок Біому
+	Tooltip:
+		'''
+		[FUNC]
+		Утримуйте ПКМ, стоячи нерухомо на рівному місці, щоб налаштувати зброю на сили навколишнього біома
+		Натисніть ПКМ щоб перемкнути резонанс на додатковий збережений
+		Основний резонанс: [ATT1]
+		Додатковий резонанс: [ATT2]
+		'''
+	DefaultFunction: Нічого не робить... поки що
+}
+
+BurntSienna: {
+	// DisplayName: Burnt Sienna
+	// Tooltip: Causes enemies to erupt into healing projectiles on death
+	
+	DisplayName: Спалена Сієна
+	Tooltip: Змушує ворогів вибухати цілющими снарядами після смерті
+}
+
+Carnage: {
+	// DisplayName: Carnage
+	// Tooltip: Enemies explode into homing blood on death
+	
+	DisplayName: Різанина
+	Tooltip: Вороги вибухають самонавідною кров'ю після смерті
+}
+
+CatastropheClaymore: {
+	// DisplayName: Catastrophe Claymore
+	// Tooltip: Fires sparkles which inflict Frostbite, Hellfire, or Ichor
+	
+	DisplayName: Клеймор Катастрофи
+	Tooltip: Стріляє іскрами, які накладають Обмороження, Пекельний вогонь або Іхор
+}
+
+TaintedBlade: {
+	// DisplayName: Tainted Blade
+	// Tooltip: Inflicts poison on enemy hits
+	
+	DisplayName: Заплямований Клинок
+	Tooltip: Отруює ворогів при ударі
+}
+
+CelestialClaymore: {
+	// DisplayName: Celestial Claymore
+	// Tooltip: Spawns cosmic energy flames near the player that generate large explosions
+	
+	DisplayName: Небесний Клеймор
+	Tooltip: Породжує поблизу гравця полум'я космічної енергії, яке генерує великі вибухи
+}
+
+ClamCrusher: {
+	// DisplayName: Clam Crusher
+	/* Tooltip:
+	'''
+	Launches a huge clam that stuns enemies for a short amount of time
+	Starts being affected by gravity and does much more damage after being airborne for a while
+	''' */
+	
+	DisplayName: Руйнівник Молюсків
+	Tooltip:
+		'''
+
+		Запускає величезного молюска, який на короткий час оглушує ворогів
+		Починає піддаватися впливу гравітації і завдає набагато більшої шкоди після того, як деякий час перебуває в повітрі
+		'''
+}
+
+CometQuasher: {
+	// DisplayName: Comet Quasher
+	// Tooltip: Summons a swarm of meteors from the sky on enemy hits
+	
+	DisplayName: Кометний Руйнівник
+	Tooltip: Викликає рій метеорів з неба на ворога при ударі
+}
+
+CosmicDischarge: {
+	// DisplayName: Cosmic Discharge
+	/* Tooltip:
+	'''
+	Striking an enemy with the whip causes glacial explosions and grants the player the cosmic freeze buff
+	This buff gives the player increased life regen while standing still and freezes enemies near the player
+	''' */
+	
+	DisplayName: Космічна Розрядка
+	Tooltip:
+		'''
+		Удар батогом по ворогу спричиняє вибухи льодовиків і дає гравцеві бафф космічного заморожування
+		Цей бафф дає гравцеві збільшену регенерацію життя, коли він стоїть на місці, і заморожує ворогів поблизу гравця
+		'''
+}
+
+CosmicShiv: {
+	// DisplayName: Cosmic Shiv
+	/* Tooltip:
+	'''
+	Fires a cosmic beam that homes in on enemies
+	Upon hitting an enemy, a barrage of offscreen objects home in on the enemy as well as raining stars
+	''' */
+	
+	DisplayName: Космічна Заточка
+	Tooltip:
+		'''
+		Вистрілює космічним променем, який націлюється на ворогів
+		При зіткненні з ворогом на нього обрушується шквал позаекранних об'єктів, а також зоряний дощ
+		'''
+}
+
+CrescentMoon: {
+	// DisplayName: Crescent Moon
+	/* Tooltip:
+	'''
+	Fires a whip sword that summons homing crescent moons
+	'People wanted the moon, let's bring the moon to them'
+	''' */
+	
+	DisplayName: Півмісяць
+	Tooltip:
+		'''
+		Стріляє мечем-батогом, який викликає самонавідні півмісяці
+		'Люди хотіли місяць, давайте принесемо їм місяць'
+		'''
+}
+
+DarklightGreatsword: {
+	// DisplayName: Darklight Greatsword
+	// Tooltip: Fires darklight blades that split on death
+	
+	DisplayName: Великий Меч Світла та Пітьми
+	Tooltip: Випускає леза темносвітла, які розділяються після смерті
+}
+
+DeathsAscension: {
+	// DisplayName: Death's Ascension
+	/* Tooltip:
+	'''
+	Press <right> to launch a barrage of homing scythes
+	You can feel the hands of Death himself onto yours
+	''' */
+	
+	DisplayName: Вознесіння Смерті
+	Tooltip:
+		'''
+		Натисніть ПКМ, щоб запустити шквал самонавідних кос
+		Ви відчуваєте руки самої Смерті на собі
+		'''
+}
+
+DepthCrusher: {
+	// DisplayName: Depth Crusher
+	/* Tooltip:
+	'''
+	Hitting enemies will inflict the Riptide debuff
+	Press <right> to use without hammering down walls
+	''' */
+	
+	DisplayName: Нищівник Глибин
+	Tooltip:
+		'''
+		При ударі ворога, він отримує дебафф Тиск Глибини
+		Натисніть ПКМ, щоб використовувати як звичайну зброю, не руйнуючи стіни
+		'''
+}
+
+Devastation: {
+	// DisplayName: Devastation
+	// Tooltip: Fires galaxy blasts that explode
+	
+	DisplayName: Спустошення
+	Tooltip: Випускає галактичні вибухи
+}
+
+DevilsDevastation: {
+	// DisplayName: Devil's Devastation
+	/* Tooltip:
+	'''
+	Fires a spread of demonic scythes
+	Pitchforks rise from the underworld to skewer your foes
+	Critical hits cause shadowflame explosions
+	''' */
+	
+	DisplayName: Диявольське Спустошення
+	Tooltip:
+		'''
+		Випускає демонічні коси
+		Вила піднімаються з підземного світу, щоб нанизувати ваших ворогів
+		Критичні удари викликають вибухи тіньового полум'я
+		'''
+}
+
+DevilsSunrise: {
+	// DisplayName: Devil's Sunrise
+	// Tooltip: Balls? Smalls.
+	
+	DisplayName: Диявольський Cвітанок
+	Tooltip: Яйця? В мене більші.
+}
+
+DiseasedPike: {
+	// DisplayName: Diseased Pike
+	// Tooltip: Fires plague seekers on hit
+	
+	DisplayName: Заражена Піка
+	Tooltip: СТріляє чумними блукачами при ударі
+}
+
+DraconicDestruction: {
+	// DisplayName: Draconic Destruction
+	/* Tooltip:
+	'''
+	Fires a draconic sword beam that explodes into additional beams
+	Additional beams fly up and down to shred enemies
+	''' */
+	
+	DisplayName: Драконяче Знищення
+	Tooltip:
+		'''
+		Вистрілює променем драконячого меча, який розпадається на додаткові промені
+		Додаткові промені злітають вгору і вниз, щоб шматувати ворогів
+		'''
+}
+
+DragonPow: {
+	// DisplayName: Dragon Pow
+	/* Tooltip:
+	'''
+	Fires a dragon head that releases draconic sparks
+	Summons a barrage of petals and waterfalls on enemy hits
+	''' */
+	
+	DisplayName: Драконячий Бах
+	Tooltip:
+		'''
+		Вистрілює головою дракона, яка випускає драконячі іскри
+		Викликає шквал пелюсток і водоспадів при ударі
+		'''
+}
+
+DragonRage: {
+	// DisplayName: Dragon Rage
+	/* Tooltip:
+	'''
+	Twirls a baton that causes explosions on enemy hits
+	Every ten hits will summon a ring of fireballs
+	''' */
+	
+	DisplayName: Лять Дракона
+	Tooltip:
+		'''
+		Обертає кийок, який спричиняє вибухи при влучанні у ворога
+		Кожні 10 ударів викликає кільце вогняних куль
+		'''
+}
+
+Earth: {
+	// DisplayName: Earth
+	/* Tooltip:
+	'''
+	Lowers enemy defense by 1 with every strike
+	Your attacks will heal you a lot
+	Rains RGB meteors that explode into more meteors after a short time on enemy hits
+	Ice meteors freeze enemies
+	Flame meteors explode
+	Green meteors spawn healing orbs
+	''' */
+	
+	
+	DisplayName: Земля
+	Tooltip:
+		'''
+		Знижує броню ворга на 1 при кожному ударі
+		Ваші атаки лікують вас
+		Вистрілює різнокольоровими метеорами, які розпадаються на більше метеорів при кожному ударі
+		Крижані метеори заморожують ворогів
+		Полум'яні метеори вибухають
+		Зелені метеори викликають лікувальні сфери
+		'''
+}
+
+EarthenPike: {
+	// DisplayName: Earthen Pike
+	/* Tooltip:
+	'''
+	Sprays fossil shards on swing
+	Crushes enemy defenses
+	''' */
+	
+	DisplayName: Земляна Піка
+	Tooltip:
+		'''
+		Розпорошує скам'янілі осколки при використанні
+		Розбиває захист ворога
+		'''
+}
+
+ElementalLance: {
+	DisplayName: Елементальний Спис
+	Tooltip:
+		'''
+		Стріляє променем списа, який розщеплюється на кілька частин під час польоту
+		'Розірвіть космос на частини!'
+		'''
+}
+
+ElementalShiv: {
+	// DisplayName: Elemental Shiv
+	// Tooltip: Shoots a rainbow shiv that spawns additional shivs on hit
+	
+	DisplayName: Елементальна Заточка
+	Tooltip: Вистрілює різнокольоровою заточкою, яка викликає більше заточок при ударі
+}
+
+EmpyreanKnives: {
+	// DisplayName: Empyrean Knives
+	// Tooltip: Throws a flurry of bouncing knives that can heal the user
+	
+	DisplayName: Емпірейські Ножі
+	Tooltip: Кидає шквал ножів, що можуть відстрибувати і зцілювати гравця
+}
+
+EntropicClaymore: {
+	// DisplayName: Entropic Claymore
+	// Tooltip: Fires a spread of homing plasma balls
+	
+	DisplayName: Клеймор Ентропії
+	Tooltip: Випускає низку самонавідних плазмових куль
+}
+
+EssenceFlayer: {
+	// DisplayName: Essence Flayer
+	// Tooltip: Shoots an essence scythe that generates healing spirits on enemy kills
+	
+	DisplayName: Сутність живодера
+	Tooltip: Стріляє есенціальною косою, яка генерує духів зцілення за вбитих ворогів
+}
+
+EutrophicScimitar: {
+	// DisplayName: Eutrophic Scimitar
+	// Tooltip: Fires two beams that stun enemies
+	
+	DisplayName: Етрофна Сабля
+	Tooltip: Стріляє двома променями, які оглушують ворогів
+}
+
+EvilSmasher: {
+	// DisplayName: Evil Smasher
+	/* Tooltip:
+	'''
+	For every enemy you kill this hammer gains stat bonuses
+	These bonuses stack until a cap is reached
+	The bonus stacks will reset if you select a different item
+	The bonus stacks will be reduced by 1 every time you get hit
+	'EViL! sMaSH eVIl! SmAsh... ER!'
+	''' */
+	
+	DisplayName: Ворогобій
+	Tooltip:
+		'''
+		За кожного вбитого ворога молот отримує бонус до характеристик
+		Бонуси сумуються, поки не досягнуть максимуму
+		Бонусні характеристики скидаються, якщо перемкнутись на інший предмет
+		Бонусні характеристики зменшуються на 1 пілся кожного отриманого удару
+		'ЗЛоооо! рУйнУвАти злО! Руйнувати... Аррр!'
+		'''
+}
+
+ExaltedOathblade: {
+	// DisplayName: Exalted Oathblade
+	// Tooltip: Fires a spread of demonic scythes and critical hits cause shadowflame explosions
+	
+	DisplayName: Піднесений Клинок Клятви
+	Tooltip: Викликає демонічні коси, а критичні удари викликають вибухи тіньового полум'я
+}
+
+Excelsus: {
+	// DisplayName: Excelsus
+	/* Tooltip:
+	'''
+	Fires a spread of spinning blades
+	Summons laser fountains on hit
+	''' */
+	
+	DisplayName: Екскельсус
+	Tooltip:
+		'''
+		Викликає клинки, які крутяться
+		Викликає лазерний фонтан при ударі
+		'''
+}
+
+Exoblade: {
+	// DisplayName: Exoblade
+	/* Tooltip:
+	'''
+	Press <left> to release multiple energy beams that home in on enemies and slice them on hit
+	Press <right> to dash in the direction of the cursor with the blade
+	Enemy hits from the blade during the dash result in massive damage and a rebound
+	Press <left> immediately after a rebound to perform a powerful slash that explodes on enemy hits
+	''' */
+	
+	DisplayName: Екзомеч
+	Tooltip:
+		'''
+		Натисніть ЛКМ, щоб випускати кілька енергетичних променів, які націлюються на ворогів і розрізають їх при ударі
+		Натискання ПКМ спрямовує вас в напрямку курсора
+		Удари противника клинком під час ривка призводять до масивного пошкодження та відскоку
+		Натисніть ЛКМ, щоб відразу після відскоку виконати потужний удар, який вибухає від ударів супротивника
+		'''
+}
+
+FallenPaladinsHammer: {
+	// DisplayName: Fallen Paladin's Hammer
+	/* Tooltip:
+	'''
+	Throws a heavy, gravity-affected hammer that will return to you after striking an enemy
+	After returning three times, a homing spectral hammer is summoned with devastating impact
+	''' */
+	
+	DisplayName: Молот Полеглого Паладина
+	Tooltip:
+		'''
+		Кидає важкий молот з гравітаційною дією, який повертається до вас після удару по ворогу
+		Після триразового повернення викликається самонавідний спектральний молот, який завдає нищівного удару
+		'''
+}
+
+FaultLine: {
+	// DisplayName: Fault Line
+	/* Tooltip:
+	'''
+	Explodes on enemy hits
+	A very agile yoyo
+	''' */
+	
+	DisplayName: Лінія Розлому
+	Tooltip:
+		'''
+		Вибухає при ударі
+		Дуже рухливе йойо
+		'''
+}
+
+FeralthornClaymore: {
+	// DisplayName: Feralthorn Claymore
+	// Tooltip: Summons thorns on enemy hits
+	
+	DisplayName: Клеймор Дикошип
+	Tooltip: Викликаэ шипи при удары
+}
+
+FlarefrostBlade: {
+	// DisplayName: Flarefrost Blade
+	// Tooltip: Fires a homing flarefrost orb
+	
+	DisplayName: Меч Морозного Полум'я
+	Tooltip: Стріляє самонавідною сферою морозного полум'я
+}
+
+Floodtide: {
+	// DisplayName: Floodtide
+	// Tooltip: Launches sharks, because sharks are awesome!
+	
+	DisplayName: Приплив
+	Tooltip: Запускає акул, бо акули круті!
+}
+
+ForbiddenOathblade: {
+	// DisplayName: Forbidden Oathblade
+	// Tooltip: Fires a demonic scythe and critical hits cause shadowflame explosions
+	
+	DisplayName: Забутий Клинок Клятви
+	Tooltip: Стріляє демонічною косою, а критичні попадання викликають вибухи тіньового полум'я
+}
+
+ForsakenSaber: {
+	// DisplayName: Forsaken Saber
+	// Tooltip: Shoots two sand blades that alter their velocity as they travel
+	
+	DisplayName: Забута Шабля
+	Tooltip: Стріляє двома піщаними клинками, які змінюють свою швидкість під час руху
+}
+
+FourSeasonsGalaxia: {
+	// DisplayName: Galaxia
+	// See the attunement file for each attunement
+	/* Tooltip:
+	'''
+	[FUNC]
+	[PASS]
+	Freed from earthly shackles and coursing with cosmic power
+	Has access to all of the attunements at all times
+	Press <right> to cycle the sword's attunement depending on the cursor's position
+	Active Attunement : [ATT]
+	Passive Blessing : [BLE]
+	''' */
+	
+	DisplayName: Галаксія
+	Tooltip:
+		'''
+		[FUNC]
+		[PASS]
+		Звільнений від земних кайданів і наповнений космічною силою
+		ає доступ до всіх резонансів у будь-який час
+		Натисніть ПКМ, щоб циклічно змінювати резонанс меча залежно від положення курсору
+		Активний резонанс: [ATT]
+		Пасивне благословення : [BLE]
+		'''
+}
+
+FracturedArk: {
+	// DisplayName: Fractured Ark
+	/* Tooltip:
+	'''
+	[PARRY]
+	A worn down and rusty blade once wielded against the evil of this world, ready to be of use once more
+	''' */
+	/* ParryInfo:
+	'''
+	<right> to extend the Ark out in front of you
+	Hitting an enemy with it will parry them, granting you a small window of invulnerability
+	You can also parry projectiles and temporarily make them deal 50 less damage
+	Parrying empowers the next 10 swings of the sword, boosting damage and letting them throw projectiles
+	''' */
+	
+	DisplayName: Розколутий Ковчег
+	Tooltip:
+		'''
+		[Відбиття]
+		Зношений та іржавий клинок, що колись боровся зі злом цього світу, готовий знову стати корисним
+		'''
+	ParryInfo:
+		'''
+		ПКМ, щоб витягнути ковчег перед собою
+		Вдаривши ним ворога, ви відбиваєте його атаку, це надає вам тимчасову невразливість
+		Ви також можете відбивати снаряди і тимчасово змусити їх завдавати на 50 одиниць менше шкоди
+		Відбиття підсилює наступні 10 ударів меча, збільшуючи шкоду і дозволяючи кидати метальні снаряди
+		'''
+}
+
+GaelsGreatsword: {
+	// DisplayName: Gael's Greatsword
+	/* Tooltip:
+	'''
+	First swing fires homing skulls
+	Second swing fires a giant, powerful skull
+	Third swing has no projectiles
+	Constantly generates rage when in use
+	Swings leave behind exploding blood trails when below 50% health
+	Occasionally summons a barrage of lightning bolts when below 50% health
+	Replaces Rage Mode with an enormous barrage of skulls
+	'Hand it over, that thing. Your dark soul'
+	''' */
+	
+	DisplayName: Великий меч Гаеля
+	Tooltip:
+		'''
+		Перший змах запускає самонавідний череп
+		Другий змах випускає гігантський, могутній череп
+		У третього змаху немає снаряду
+		Постійно генерує лють при використанні
+		Змахи залишають після себе вибухаючі сліди крові, якщо у вас меньше 50% ОЗ
+		Замінює режим люті на шквал черепів
+		'Віддай, так цю річ. Твою темну душу'
+		'''
+}
+
+GalactusBlade: {
+	// DisplayName: Galactus Blade
+	/* Tooltip:
+	'''
+	Launches a barrage of comets from the sky
+	Forged with the fury of nuclear chaos
+	''' */
+	
+	DisplayName: Меч Галактуса
+	Tooltip:
+		'''
+		Запускає з неба шквал комет
+		Викуваний у люті ядерного хаосу
+		'''
+}
+
+GalaxySmasher: {
+	// DisplayName: Galaxy Smasher
+	/* Tooltip:
+	'''
+	Throws a heavy, gravity-affected hammer that will return to you after striking an enemy
+	Consecutive hits summon more and more cosmic hammers
+	After hitting eight times, the hammer supercharges itself with galactic energies,
+	delivering an apocalyptic strike that reverberates through space and time
+	''' */
+	
+	DisplayName: Руйнівник галактик
+	Tooltip:
+		'''
+		Кидає важкий молот з гравітаційною дією, який повертається до вас після удару по ворогу
+		Послідовні удари викликають все більше і більше космічних молотів
+		Після восьми ударів молот перезаряджається галактичними енергіями,
+		завдаючи апокаліптичного удару, який відлунює у просторі та часі
+		'''
+}
+
+GalileoGladius: {
+	// DisplayName: Galileo Gladius
+	/* Tooltip:
+	'''
+	Shoots a homing crescent moon
+	Spawns planetoids on enemy hits
+	'Don't underestimate the power of small space swords'
+	''' */
+	
+	DisplayName: Галілео Гладіус
+	Tooltip:
+		'''
+		Стріляє самонавідним півмісяцем
+		Викликає планетоїди при ударі
+		'Не варто недооцінювати силу маленьких космічних мечів'
+		'''
+}
+
+GeliticBlade: {
+	// DisplayName: Gelitic Blade
+	// Tooltip: Fires a gel wave that slows down on enemy hits
+	
+	DisplayName: Гелевий Клинок
+	Tooltip: При ударі вистрілює гелевою хвилею яка сповільнює
+}
+
+GildedProboscis: {
+	// DisplayName: Gilded Proboscis
+	// Tooltip: Heals the player on hit
+	
+	DisplayName: Позолочений Хоботок
+	Tooltip: Лікує гравця при ударі
+}
+
+GoldplumeSpear: {
+	// DisplayName: Goldplume Spear
+	// Tooltip: Shoots falling feathers
+	
+	DisplayName: Золотий Шлейф
+	Tooltip: Стріляє падаючим пір'ям
+}
+
+GrandGuardian: {
+	// DisplayName: Grand Guardian
+	/* Tooltip:
+	'''
+	Lowers enemy defense by 1 with every strike
+	If enemy defense is 0 or below your attacks will heal you
+	Striking enemies causes a large explosion
+	Striking enemies that are under half life will cause them to release rainbow bolts
+	Enemies spawn healing orbs on death
+	''' */
+	
+	DisplayName: Великий Хранитель
+	Tooltip:
+		'''
+		Знижеє захист ворога на 1 при кожному влучанні
+		Якщо захист ворога 0 або менше, атаки будуть лікувати вас
+		Влучання у ворога викликає великий вибух
+		Влучання у ворога, що має меньше половини ОЗ, викликає веселкові снаряди
+		При смерті ворогів випадають лікувальні сфери
+		'''
+}
+
+GreatswordofJudgement: {
+	// DisplayName: Greatsword of Judgement
+	/* Tooltip:
+	'''
+	Fires a white orb that emits white rain on death for a time
+	A pale white sword from a forgotten land
+	You can hear faint yet comforting whispers emanating from the blade
+	'No matter where you may be you are never alone
+	I shall always be at your side, my lord'
+	''' */
+	
+	DisplayName: Величний Меч Правосуддя
+	Tooltip:
+		'''
+		Стріляє білими сферами, яка випромінює білий дощ
+		Блідо-білий меч із забутих земель
+		Ви чуєте слабкий, але заспокійливий голос, що звучить з леза
+		'Не важливо де, не важливо коли, ти не будеш самотнім
+		Я буду завжди на вашому боці, мій лорд'
+		'''
+}
+
+Greentide: {
+	// DisplayName: Greentide
+	// Tooltip: Summons teeth from the sky on hit
+	
+	DisplayName: Грінтайд
+	Tooltip: Викликає зуби з неба при ударі
+}
+
+HellfireFlamberge: {
+	// DisplayName: Hellfire Flamberge
+	// Tooltip: Fires a spread of volcanic fireballs
+	
+	DisplayName: Пекельний Вогонь Пламберг
+	Tooltip: Стріляє скупченням вулканічних куль
+}
+
+HellionFlowerSpear: {
+	// DisplayName: Hellion Flower Spear
+	/* Tooltip:
+	'''
+	Shoots a flower spear tip
+	Summons petals from the sky on critical hits
+	''' */
+	
+	DisplayName: Квітковий Спис Геліонії
+	Tooltip:
+		'''
+		Стріляє шипом квітки
+		Викликає пелюстки з неба при критичному ударі
+		'''
+}
+
+Hellkite: {
+	// DisplayName: Hellkite
+	// Tooltip: "[GFB]"
+	/* TooltipNormal:
+	'''
+	Summons flame geyser explosions on enemy hits
+	Contains the power of an ancient drake
+	''' */
+	// TooltipGFB: "'My Beloved <3'"
+	
+	DisplayName: Пекельний Змій
+	Tooltip: "[GFB]"
+	TooltipNormal:
+		'''
+		Викликає вибухи полум'яних гейзерів при ударі
+		Містить силу стародавнього дракона
+		'''
+	TooltipGFB: "'Мій Коханий <3'"
+}
+
+HolyCollider: {
+	// DisplayName: Holy Collider
+	// Tooltip: Striking enemies will cause them to explode into holy fire
+	
+	DisplayName: Священний Колайдер
+	Tooltip: Вдаривши ворогів, ви змусите їх вибухнути священним вогнем
+}
+
+IllustriousKnives: {
+	// DisplayName: Illustrious Knives
+	// Tooltip: Throws a flurry of homing knives that can heal the user
+	
+	DisplayName: Видатні Ножі
+	Tooltip: Кидає шквал самонавідних ножів, які можуть зцілити вас
+}
+
+InsidiousImpaler: {
+	// DisplayName: Insidious Impaler
+	// Tooltip: Fires a harpoon that sticks to enemies and explodes
+	
+	DisplayName: Підступний Проколювач
+	Tooltip: Вистрілює гарпуном, який прилипає до ворогів і вибухає
+}
+
+IridescentExcalibur: {
+	// DisplayName: Iridescent Excalibur
+	/* Tooltip:
+	'''
+	Freezes enemies and heals the player on hit
+	Fires rainbow beams that change their behavior based on their color
+	Press <right> for true melee
+	''' */
+	
+	DisplayName: Переливчастий Екскалібур
+	Tooltip:
+		'''
+		Морозить ворогів і лікує гравця при ударі
+		Стиріляє веселковими променями, які змінюють поведінку в залежності від кольору
+		Натисніть ПКМ для взмаху мечем
+		'''
+}
+
+Lacerator: {
+	// DisplayName: Lacerator
+	/* Tooltip:
+	'''
+	Enemies that are hit by the yoyo will have their life drained
+	An exceptionally agile yoyo
+	[GFB]
+	''' */
+	// TooltipNormal: Someone thought this was a viable weapon against DoG at one point lol
+	// TooltipGFB: May be a viable weapon against DoG...
+	
+	DisplayName: Лацератор
+	Tooltip:
+		'''
+		Вороги, яких зачепить йо-йо вичерпають час свого життя
+		Надзвичайно рухливий йойо
+		[GFB]
+		'''
+	TooltipNormal: Хтось колись думав, що це життєздатна зброя проти DoG, лол
+	TooltipGFB: Може бути гарною зброєю проти DoG...
+}
+
+LifefruitScythe: {
+	// DisplayName: Lifehunt Scythe
+	// Tooltip: Heals you on hit and shoots an energy scythe
+	
+	DisplayName: Коса Полювання на Життя
+	Tooltip: Лікує вас при ударі і випускає енергетичну косу
+}
+
+LionHeart: {
+	// DisplayName: Lion Heart
+	/* Tooltip:
+	'''
+	Summons an energy explosion on enemy hits
+	Press <right> to summon an energy shell for a few seconds that halves all damage sources
+	This has a 45 second cooldown
+	''' */
+	
+	DisplayName: Серце Лева
+	Tooltip:
+		'''
+		Викликає енергетичний вибух при ударі
+		Натисніть ПКМ, щоб викликати енергетичну оболонку на декілька секунд, що зменшує весь урон по вам на половину
+		Час перезарядки 45 секунд
+		'''
+}
+
+Lucrecia: {
+	// DisplayName: Lucrecia
+	/* Tooltip:
+	'''
+	Striking an enemy makes you immune for a short time
+	Fires a DNA chain
+	Finesse
+	''' */
+	
+	DisplayName: Лукреція
+	Tooltip:
+		'''
+		Удари по ворогу, роблять вас не вразливим на деякий час
+		Запускає ланцюг ДНК
+		Вишуканість
+		'''
+}
+
+MajesticGuard: {
+	// DisplayName: Majestic Guard
+	/* Tooltip:
+	'''
+	Lowers enemy defense by 1 with every strike
+	If enemy defense is 0 or below your attacks will heal you
+	''' */
+	
+	DisplayName: Величний Хранитель
+	Tooltip:
+		'''
+		Зменшує захист ворога на 1 при кожному ударі
+		Якщо захист ворога 0 і нижче, ваші атаки стають цілющими
+		'''
+}
+
+MantisClaws: {
+	// DisplayName: Mantis Claws
+	/* Tooltip:
+	'''
+	Explodes on enemy hits
+	'It's just that shrimple'
+	''' */
+	
+	DisplayName: Кігті Богомола
+	Tooltip: Вибухає при ударі
+}
+
+MirrorBlade: {
+	// DisplayName: Mirror Blade
+	/* Tooltip:
+	'''
+	The amount of contact damage an enemy does is added to this weapons' damage
+	You must hit an enemy with the blade to trigger this effect
+	''' */
+	
+	DisplayName: Зеркальний Клинок
+	Tooltip:
+		'''
+		Кількість контактної шкоди, яку завдає ворог, додається до шкоди від цієї зброї
+		Ви повинні вдарити ворога клинком, щоб викликати цей ефект
+		'''
+}
+
+MonstrousKnives: {
+	// DisplayName: Monstrous Knives
+	// Tooltip: Throws a spread of knives that can heal the user
+	
+	DisplayName: Ножі-Чудовиська
+	Tooltip: Кидає залп з ножів, що можуть лікувати вас
+}
+
+Mourningstar: {
+	// DisplayName: Mourningstar
+	// Tooltip: Launches two solar whip swords that explode on hit
+	
+	DisplayName: Ранкова Зірка
+	Tooltip: Запускає два сонячні мечі-батоги, які вибухають від ударі
+}
+
+Murasama: {
+	// DisplayName: Murasama
+	/* Tooltip:
+	'''
+	A high-frequency blade that can cleanly slice through even the mightiest foe
+	Prove your worth by slaying Yharon, Dragon of Rebirth to unsheath this sword
+	[c/F41A31:'There will be blood!']
+	''' */
+	
+	DisplayName: Мурасама
+	Tooltip:
+		'''
+		Високочастотне лезо, здатне розрізати навіть наймогутнішого ворога
+		Доведи свою гідність, вбивши Ярона, Дракона Відродження, щоб витягти цей меч з піхов
+		[c/F41A31:'Подати мені крові!']
+		'''
+}
+
+MycelialClaws: {
+	// DisplayName: Mycelial Claws
+	// Tooltip: Grants the Mushy buff for 6 seconds on enemy hits
+	
+	DisplayName: Міцеліальні Кігті
+	Tooltip: Дає ефект "Кашоподібний" на 6 секунд при ударі
+}
+
+Nadir: {
+	// DisplayName: Nadir
+	/* Tooltip:
+	'''
+	Fires void essences which flay nearby enemies with tentacles
+	Ignores immunity frames
+	'The abyss has stared back at you long enough. It now speaks, and it does not speak softly'
+	''' */
+	
+	DisplayName: Надір
+	Tooltip:
+		'''
+		Стріляє есенціями порожнечі, які щупальцями здирають шкіру з найближчих ворогів
+		Ігнорує кадри не вразливості
+		'Безодня дивилася на тебе досить довго. Тепер вона заговорила, і говорить вона зовсім не тихенько.'
+		'''
+}
+
+Nebulash: {
+	// DisplayName: Nebulash
+	// Tooltip: Fires a whip sword that emits particle explosions on hit
+	
+	DisplayName: Небулаш
+	Tooltip: Стріляє мечем-батогом, який випускає вибухові частинки при ударі
+}
+
+NeptunesBounty: {
+	// DisplayName: Neptune's Bounty
+	/* Tooltip:
+	'''
+	Fires a trident that rains additional tridents as it travels
+	Hitting enemies will inflict the crush depth debuff
+	''' */
+	
+	DisplayName: Подарунок Нептуна
+	Tooltip:
+		'''
+		Вистрілює тризубом, який випускає інші тризубці під час польоту
+		Накладає на дебафф "Тиск Глибин"
+		'''
+}
+
+Oblivion: {
+	// DisplayName: Oblivion
+	/* Tooltip:
+	'''
+	Fires brimstone lasers when enemies are near
+	A very agile yoyo
+	''' */
+	
+	DisplayName: Забуття
+	Tooltip:
+		'''
+		Стріляє сірчастими лазерами, коли вороги поруч
+		Дуже рухливе йо-йо
+		'''
+}
+
+OldLordClaymore: {
+	// DisplayName: Old Lord Claymore
+	/* Tooltip:
+	'''
+	Holding <right> rapidly absorbs energy into the blade until it is charged
+	Press <left> while charged to fly in the direction of the cursor
+	Using the lunge resets the blade's charge to zero
+	''' */
+	
+	DisplayName: Клеймор Старого Лорда
+	Tooltip:
+		'''
+		Утримуйте ПКМ, щоб лезо швидко поглинало енергію
+		Натисніть ЛКМ, якщо лезо заряджене, ви полетите в напрямку курсору
+		Використання випаду обнуляє заряд леза
+		'''
+}
+
+OmegaBiomeBlade: {
+	// DisplayName: True Biome Blade
+	// See the attunement file for each attunement
+	/* Tooltip:
+	'''
+	[FUNC]
+	[PASS]
+	Holding down <right> for 2 seconds attunes the weapon to the powers of the surrounding biome
+	Pressing <right> for a shorter period of time switches your active and passive attunements around
+	Active Attunement : [ATT1]
+	Passive Attunement: [ATT2]
+	''' */
+	/* DefaultFunction:
+	'''
+	Does nothing... yet
+	It seems that upgrading the blade expanded the scope of the previous attunements
+	''' */
+	// DefaultPassive: Your secondary attunement can now provide passive bonuses
+	
+	DisplayName: Справжній меч Біому
+	// See the attunement file for each attunement
+	Tooltip:
+		'''
+		[FUNC]
+		[PASS]
+		Утримуйте ПКМ 2 секунди, щоб налаштувати зброю на сили оточуючого біому
+		Натисніть ПКМ на короткий період часу, щоб змінити активні і пасивні атрибути
+		Активний Атрибут: [ATT1]
+		Пасивний Атрибут: [ATT2]
+		'''
+	DefaultFunction:
+		'''
+		Нічого не робить... поки що.
+		Здається, що модернізація леза розширила сферу застосування попередніх атрибутів
+		'''
+	DefaultPassive: Ваш вторинний атрибут тепер може надавати пасивні бонуси
+}
+
+Omniblade: {
+	// DisplayName: Omniblade
+	// Tooltip: An ancient blade forged by the legendary Omnir
+	
+	DisplayName: Омніблейд
+	Tooltip: Стародавній меч, викуваний легендарним Омніром
+}
+
+Oracle: {
+	// DisplayName: The Oracle
+	/* Tooltip:
+	'''
+	Emits an aura of red lightning which charges up when hitting enemies
+	Fires auric orbs when supercharged
+	An exceptionally agile yoyo
+	'Gaze into the past, the present, the future... and the circumstances of your inevitable demise'
+	''' */
+	
+	
+	DisplayName: Оракул
+	Tooltip:
+		'''
+		Випромінює ауру червоної блискавки, яка заряджається, коли вражає ворогів
+		Стріляє сферами при зарядці
+		Надзвичайно рухливе йо-йо
+		'Вдивіться в минуле, теперішнє, майбутнє... і обставини вашої неминучої смерті'
+		'''
+}
+
+Orderbringer: {
+	// DisplayName: Orderbringer
+	/* Tooltip:
+	'''
+	Fires a rainbow blade that emits rainbow rain on death for a time
+	A pale white sword from a forgotten land
+	You can hear faint yet comforting whispers emanating from the blade
+	'No matter where you may be you are never alone
+	I shall always be at your side, my lord'
+	''' */
+	
+	DisplayName: Повелитель Порядку
+	Tooltip:
+		'''
+		Вистрілює райдужним лезом, який на деякий час випромінює райдужний дощ та сіє смерть
+		Блідо-білий меч із забутої землі
+		Ви можете почути слабкий, але заспокійливий шепіт, що виходить від леза
+		'Де б ви не були, ви ніколи не будете самотні
+		Я завжди буду поруч з вами, мій лорд.'
+		'''
+}
+
+Pandemic: {
+	// DisplayName: Pandemic
+	/* Tooltip:
+	'''
+	Fires plague seekers when enemies are near
+	A very agile yoyo
+	''' */
+	
+	DisplayName: Пандемія
+	Tooltip:
+		'''
+		Випускає шукачів чуми, коли вороги близько
+		Дуже рухливе йо-йо
+		'''
+}
+
+PerfectDark: {
+	// DisplayName: Perfect Dark
+	// Tooltip: Fires a vile ball that sticks to tiles and explodes
+	
+	DisplayName: Ідеальна Темрява
+	Tooltip: Вистрілює огидною кулею, яка прилипає до плиток і вибухає
+}
+
+PhosphorescentGauntlet: {
+	// DisplayName: Phosphorescent Gauntlet
+	/* Tooltip:
+	'''
+	Releases rapid sulphurous punches
+	On use, you lunge in the direction of the mouse
+	On collision, you are knocked back
+	''' */
+	
+	DisplayName: Фосфоресцентна Рукавиця
+	Tooltip:
+		'''
+		Випускає швидкі сірчані удари
+		Під час використання ви робите випад у напрямку миші
+		При зіткненні вас відкине назад
+		'''
+}
+
+PhotonRipper: {
+	// DisplayName: Photon Ripper
+	/* Tooltip:
+	'''
+	Projects a directed stream of hardlight teeth at ultra high velocity
+	This weapon and its projectiles function as a chainsaw
+	''' */
+	
+	DisplayName: Фотонний Потрошитель
+	Tooltip:
+		'''
+		Проектує спрямований потік зубців жорсткого світла з надвисокою швидкістю
+		Ця зброя та її снаряди працюють як бензопила
+		'''
+}
+
+PlagueKeeper: {
+	// DisplayName: Plague Keeper
+	// Tooltip: Fires a plague and bee cloud
+	
+	DisplayName: Хранитель Чуми
+	Tooltip: Випускає чуму і бджолину хмару
+}
+
+PrismaticBreaker: {
+	// DisplayName: Prismatic Breaker
+	/* Tooltip:
+	'''
+	Fire to charge for a powerful rainbow laser
+	Press <right> to instead swing the sword and fire rainbow colored waves
+	The sword is boosted by both melee and ranged damage
+	Seems to belong to a certain magical girl. Radiates with intense cosmic energy
+	''' */
+	
+	DisplayName: Призматичний Вимикач
+	Tooltip:
+		'''
+		Стріляйте, щоб зарядити потужний райдужний лазер
+		Натисніть ПКМ, щоб замість цього змахнути мечем і вистрілити райдужними хвилями
+		Меч збільшує шкоду як у ближньому, так і в дальньому бою
+		Здається, належить якійсь чарівній дівчині. Випромінює інтенсивну космічну енергію
+		'''
+}
+
+Pwnagehammer: {
+	// DisplayName: Pwnagehammer
+	/* Tooltip:
+	'''
+	Throws a heavy, gravity-affected hammer that creates a loud blast of hallowed energy when it hits something
+	After hitting four times, a spectral hammer will be summoned to strike the enemy
+	''' */
+	
+	DisplayName: Молоток для Зачистки
+	Tooltip:
+		'''
+		Кидає важкий молот під дією гравітації, який створює гучний вибух священної енергії, коли вдаряється об щось
+		Після чотирьох ударів буде викликано спектральний молот, який завдасть удару по ворогу
+		'''
+}
+
+Quagmire: {
+	// DisplayName: Quagmire
+	/* Tooltip:
+	'''
+	Fires spore clouds
+	A very agile yoyo
+	''' */
+	
+	DisplayName: Трясовина
+	Tooltip:
+		'''
+		Випускає хмару спор
+		Дуже рухливе йо-йо
+		'''
+}
+
+RedSun: {
+	// DisplayName: Red Sun
+	/* Tooltip:
+	'''
+	Drops a barrage of solar flares from the sky
+	'Over paradise'
+	''' */
+	
+	DisplayName: Червоне Сонце
+	Tooltip:
+		'''
+		З неба падає шквал сонячних спалахів
+		'Над раєм'
+		'''
+}
+
+RedtideSpear: {
+	// DisplayName: Redtide Spear
+	/* Tooltip:
+	'''
+	Poisons enemies on hit
+	Aiming the spear in front of you while running holds it down with increased knockback
+	Releasing the attack button after the charge makes an upwards slash, sending enemies flying into the air
+	[c/5C95A1:'The people of the sea were adept hunters, but they abhorred unnecessary violence.]
+	[c/5C95A1:Unfortunately, neighboring nations were brutish, so they fashioned their tools for war.']
+	''' */
+	
+	DisplayName: Спис Червонокнижника
+	Tooltip:
+		'''
+		Отруює ворогів при ударі
+		Направлення списа перед собою під час бігу збільшує відкидання
+		Відпускання кнопки атаки після заряду, підкине ворогів у повітря
+		[c/5C95A1:'Люди моря були вправними мисливцями, але вони ненавиділи непотрібне насильство.]
+		[c/5C95A1:На жаль, сусідні народи були жорстокими, тому вони створювали свої знаряддя для війни.']
+		'''
+}
+
+RemsRevenge: {
+	// DisplayName: Rem's Revenge
+	/* Tooltip:
+	'''
+	Summons blood explosions and lowers enemy defense on hit
+	Wielded by the most powerful fighter
+	''' */
+	
+	DisplayName: Помста Рем
+	Tooltip:
+		'''
+		Викликає криваві вибухи та знижує захист ворога при ударі
+		Володіє найпотужніший боєць
+		'''
+}
+
+Riptide: {
+	// DisplayName: Riptide
+	// Tooltip: Sprays a spiral of aqua streams
+	
+	DisplayName: Приливна хвиля
+	Tooltip: Розпорошує спіралеподібні водяні струмені
+}
+
+Roxcalibur: {
+	// DisplayName: Roxcalibur
+	// The WOF tag generates a new line above when placed at the start of a line
+	/* Tooltip:
+	'''
+	[WOF]Press <left> to shoot several rock shards
+	Press <right> to dive downwards and bounce off enemies
+	Diving into blocks creates a shockwave
+	You couldn't get it out of the rock, so you just brought the rock instead
+	''' */
+	// LockedInfo: The hellish Wall of Flesh holds the key to this weapon's power
+	
+	
+	DisplayName: Рокскалібур
+	// The WOF tag generates a new line above when placed at the start of a line
+	Tooltip:
+		'''
+		[WOF]Натисніть ЛКМ, щоб вистрілити кількома осколками скелі
+		Натисніть ПКМ, щоб пірнути вниз і відскочити від ворогів
+		Занурення в блоки створює ударну хвилю
+		Ви не змогли дістати його зі скелі, тож просто принесли камінь замість цього
+		'''
+	LockedInfo: Пекельна Стіна Плоті тримає ключ до сили цієї зброї
+}
+
+SausageMaker: {
+	// DisplayName: Sausage Maker
+	// Tooltip: Sprays homing blood on hit
+	
+	DisplayName: Сосисочниця
+	Tooltip: Випускає самонавідну кров при влучанні
+}
+
+ScourgeoftheCosmos: {
+	// DisplayName: Scourge of the Cosmos
+	// Tooltip: Throws a bouncing cosmic scourge that emits tiny homing cosmic scourges on death and tile hits
+	
+	DisplayName: Космічний Бич
+	Tooltip: Кидає стрибаючий космічний бич, який випускає крихітні самонавідні космічні бичі при смерті і попаданні в тайли
+}
+
+SeashineSword: {
+	// DisplayName: Seashine Sword
+	// Tooltip: Shoots an aqua sword beam
+	
+	DisplayName: Морський Меч
+	Tooltip: Стріляє променем аква-меча
+}
+
+SeekingScorcher: {
+	// DisplayName: Seeking Scorcher
+	/* Tooltip:
+	'''
+	Throws a holy boomerang that seeks out up to four enemies before returning to the player
+	'May your enemies burn in hell for the sins they have committed'
+	''' */
+	
+	DisplayName: Шукач Пекла
+	Tooltip:
+		'''
+		Кидає святий бумеранг, який шукає до чотирьох ворогів, перш ніж повернутися до гравця
+		'Нехай ваші вороги горять у пеклі за скоєні ними гріхи'
+		'''
+}
+
+Shimmerspark: {
+	// DisplayName: Shimmerspark
+	/* Tooltip:
+	'''
+	Fires stars when enemies are near
+	A very agile yoyo
+	''' */
+	
+	DisplayName: Мерехтлива Іскра
+	Tooltip:
+		'''
+		Випускає зірки, коли вороги близько
+		Дуже рухливе йо-йо
+		'''
+}
+
+SmokingComet: {
+	// DisplayName: Smoking Comet
+	// Tooltip: Rains stars from the sky
+	
+	DisplayName: Димляча Комета
+	Tooltip: З неба сиплеться зоряний дощ
+}
+
+SolarFlare: {
+	// DisplayName: Solar Flare
+	/* Tooltip:
+	'''
+	Emits large holy explosions on hit
+	An exceptionally agile yoyo
+	''' */
+	
+	DisplayName: Сонячний Спалах
+	Tooltip:
+		'''
+		Випускає великі священні вибухи при ударі
+		Надзвичайно рухливе йойо
+		'''
+}
+
+SolsticeClaymore: {
+	// DisplayName: Solstice Claymore
+	/* Tooltip:
+	'''
+	Changes projectile color based on the time of year
+	Inflicts daybroken during the day and nightwither during the night
+	''' */
+	
+	DisplayName: Клеймор Сонцестояння
+	Tooltip:
+		'''
+		Змінює колір снаряду залежно від пори року
+		Завдає вдень - денне в'янення, вночі - нічне в'янення
+		'''
+}
+
+SoulEdge: {
+	// DisplayName: Soul Edge
+	// Tooltip: Fires the ghastly souls of long-deceased abyss dwellers
+	
+	DisplayName: Край Душі
+	Tooltip: Випускає жахливі душі давно померлих мешканців безодні
+}
+
+SoulHarvester: {
+	// DisplayName: Soul Harvester
+	/* Tooltip:
+	'''
+	Shoots a soul scythe
+	Enemies explode when on low health, spreading the plague
+	''' */
+	
+	DisplayName: Збирач Душ
+	Tooltip:
+		'''
+		Стріляє косою душі
+		Вороги вибухають при низькому рівні здоров'я, поширюючи чуму
+		'''
+}
+
+SpineOfThanatos: {
+	// DisplayName: Spine of Thanatos
+	/* Tooltip:
+	'''
+	Releases 3 fast metallic whips outward
+	Once all three collide, a prism of light is shot outward
+	If an enemy is within the line of sight of the whips on collision, the light will fire towards it
+	''' */
+	
+	DisplayName: Хребет Танатоса
+	Tooltip:
+		'''
+		Випускає 3 швидкі металеві батоги назовні
+		Коли всі три зіштовхуються, призма світла вистрілює назовні
+		Якщо ворог знаходиться в зоні видимості батогів при зіткненні, світло вистрілить в його бік
+		'''
+}
+
+StarnightLance: {
+	// DisplayName: Starnight Lance
+	// Tooltip: Shoots a frigid starnight beam
+	
+	DisplayName: Спис Зоряної Ночі
+	Tooltip: Стріляє холодним зоряним променем
+}
+
+StellarContempt: {
+	// DisplayName: Stellar Contempt
+	/* Tooltip:
+	'''
+	Throws a heavy, gravity-affected hammer that will return to you after striking an enemy
+	Consecutive hits call down more and more lunar flares from the sky
+	After hitting five times, the hammer supercharges with lunar energy to pulverize your target
+	''' */
+	
+	DisplayName: Зоряне Прозріння
+	Tooltip:
+		'''
+		Кидає важкий молот з гравітаційною дією, який повертається до вас після удару по ворогу
+		Послідовні удари викликають все більше і більше місячних спалахів з неба
+		Після п'яти ударів молот заряджається місячною енергією, щоб розбити вашу ціль на друзки
+		'''
+}
+
+StellarStriker: {
+	// DisplayName: Stellar Striker
+	// Tooltip: Summons a swarm of lunar flares from the sky on enemy hits
+	
+	DisplayName: Зоряний Ударник
+	Tooltip: Викликає рій місячних спалахів з неба на ворожі удари
+}
+
+StormRuler: {
+	// DisplayName: Storm Ruler
+	/* Tooltip:
+	'''
+	Fires beams that generate tornadoes on death
+	Tornadoes suck enemies in
+	'Only a storm can fell a greatwood'
+	''' */
+	
+	DisplayName: Повелитель бурі
+	Tooltip:
+		'''
+		Випускає вогняні промені, які генерують торнадо при смерті
+		Торнадо засмоктує ворогів
+		'Тільки буря може зрубати великий ліс'
+		'''
+}
+
+StormSaber: {
+	// DisplayName: Storm Saber
+	/* Tooltip:
+	'''
+	Fires two homing storm beams
+	One from blade and one from the sky
+	''' */
+	
+	DisplayName: Штормова Шабля
+	Tooltip:
+		'''
+		Випускає два самонавідних штормових промені
+		Один з леза і один з неба
+		'''
+}
+
+StreamGouge: {
+	// DisplayName: Stream Gouge
+	/* Tooltip:
+	'''
+	Summons a portal that the spear crosses through
+	Shortly after going through the portal, portals appear near the mouse that release copies of the spear's cutting edge
+	Enemies hit by the copies create lacerations in space, revealing a cosmic background
+	''' */
+	
+	DisplayName: Витискач Потоків
+	Tooltip:
+		'''
+		Викликає портал, через який проходить спис
+		Невдовзі після проходження через портал біля миші з'являються портали, які випускають копії вістря списа
+		Вороги, уражені копіями, створюють розриви в просторі, відкриваючи космічне тло
+		'''
+}
+
+StygianShield: {
+	// DisplayName: Stygian Shield
+	/* Tooltip:
+	'''
+	Hold <left> to charge an omni-directional dash which slams through enemies
+	<right> to throw a buckler which bounces towards a nearby foe upon collision
+	Grants knockback immunity and {0} defense while held
+	However, dashes are disabled until you stop holding this weapon for {1} seconds
+	''' */
+	
+	DisplayName: Стигійський Щит
+	Tooltip:
+		'''
+		Утримуйте ЛКМ, щоб зарядити всеспрямовану риску, яка пробиває ворогів наскрізь
+		ПКМ, щоб кинути пряжку, яка при зіткненні відскакує до найближчого супротивника
+		Надає імунітет до відкату та {0} захисту під час утримання
+		Однак тире вимкнено доти, доки ви не припините утримувати цю зброю протягом {1} секунд
+		'''
+}
+
+SubmarineShocker: {
+	// DisplayName: Submarine Shocker
+	// Tooltip: Enemies release electric sparks on hit
+	
+	DisplayName: Підводний Шокер
+	Tooltip: Вороги випускають електричні іскри при ударі
+}
+
+SulphurousGrabber: {
+	// DisplayName: Sulphurous Grabber
+	/* Tooltip:
+	'''
+	Occasionally releases a ring of colored bubbles
+	The yoyo powers up after touching a green bubble
+	A very agile yoyo
+	''' */
+	
+	DisplayName: Сірчаний Грабіжник
+	Tooltip:
+		'''
+		Іноді випускає кільце кольорових бульбашок
+		Йо-йо вмикається після дотику до зеленої бульбашки
+		Дуже рухливе йо-йо
+		'''
+}
+
+Swordsplosion: {
+	// DisplayName: Swordsplosion
+	/* Tooltip:
+	'''
+	Fires multiple rainbow beam swords that rain from the sky
+	Sword swarm
+	''' */
+	
+	DisplayName: Мечобух
+	Tooltip:
+		'''
+		Випускає кілька райдужних променевих мечів, які сиплються з неба
+		Рій мечів
+		'''
+}
+
+TeardropCleaver: {
+	// DisplayName: Teardrop Cleaver
+	// Tooltip: Makes your enemies cry
+	
+	DisplayName: Сльозопускач
+	Tooltip: Змусить ворогів заплакати
+}
+
+TenebreusTides: {
+	// DisplayName: Tenebreus Tides
+	/* Tooltip:
+	'''
+	Shoots a water spear that pierces enemies and terrain
+	Striking enemies summon liquid blades and spears to assault the struck foe
+	'Inundatio ex Laminis'
+	''' */
+	
+	DisplayName: Похмурі Припливи
+	Tooltip:
+		'''
+		Стріляє водяним списом, який пронизує ворогів і місцевість
+		Вороги, що наносять удари, викликають рідкі леза та списи, щоб атакувати враженого супротивника
+		'Inundatio ex Laminis'
+		'''
+}
+
+TerraLance: {
+	// DisplayName: Terra Lance
+	// Tooltip: Fires a terra energy beam
+	
+	DisplayName: Терра Спис
+	Tooltip: Вистрілює променем тера-енергії
+}
+
+Terratomere: {
+	// DisplayName: Terratomere
+	/* Tooltip:
+	'''
+	Heals the player on true melee hits
+	Fires a piercing energy bolt that causes hit targets to explode and be slashed
+	'Linked to the essence of Terraria'
+	''' */
+	
+	DisplayName: Тератомір
+	Tooltip:
+		'''
+		Зцілює гравця від справжніх ударах ближньому бою
+		Вистрілює проникаючу енергетичну кулю, яка спричиняє вибухи та розрізи на уражених цілях
+		'Пов'язано з суттю Terraria'
+		'''
+}
+
+TerrorBlade: {
+	// DisplayName: Terror Blade
+	/* Tooltip:
+	'''
+	Fires a terror beam that bounces off tiles
+	On every bounce it emits an explosion
+	''' */
+	
+	DisplayName: Лезо Терору
+	Tooltip:
+		'''
+		Стріляє променем жаху, який відскакує від плиток
+		При кожному відскоку він породжує вибух
+		'''
+}
+
+TheBurningSky: {
+	// DisplayName: The Burning Sky
+	/* Tooltip:
+	'''
+	Rains down a stream of draconic fire at the cursor
+	'Hold the blade to the sky, and witness Armageddon'
+	''' */
+	
+	DisplayName: Палаюче небо
+	Tooltip:
+		'''
+		Виливає на курсор потік драконівського вогню
+		'Піднесіть лезо до неба і станьте свідком Армагеддону'
+		'''
+}
+
+TheEnforcer: {
+	// DisplayName: The Enforcer
+	// Tooltip: Spawns essence flames on hit
+	
+	DisplayName: Головоріз
+	Tooltip: Породжує полум'я есенції при ударі
+}
+
+TheGodsGambit: {
+	// DisplayName: The God's Gambit
+	/* Tooltip:
+	'''
+	Fires a stream of slime when enemies are near
+	A very agile yoyo
+	''' */
+	
+	DisplayName: Гамбіт Господній
+	Tooltip:
+		'''
+		Вистрілює струменем слизу, коли вороги поруч
+		Дуже рухливе йо-йо
+		'''
+}
+
+TheLastMourning: {
+	// DisplayName: The Last Mourning
+	// Tooltip: Summons flaming pumpkins and mourning skulls that split into fire orbs on enemy hits
+	
+	DisplayName: Останній Траур
+	Tooltip: Викликає палаючі гарбузи та траурні черепи, які розпадаються на вогняні кулі від ударів супротивника
+}
+
+TheMicrowave: {
+	// DisplayName: The Microwave
+	/* Tooltip:
+	'''
+	Fries nearby enemies with radiation
+	An exceptionally agile yoyo
+	'Cooking, Astral Infection style'
+	''' */
+	
+	DisplayName: Мікрохвильовка
+	Tooltip:
+		'''
+		Смажить ворогів поблизу радіацією
+		Винятково рухливе йо-йо
+		'Кулінарія в стилі: Астральна Інфекція'
+		'''
+}
+
+TheMutilator: {
+	// DisplayName: The Mutilator
+	/* Tooltip:
+	'''
+	Striking an enemy below 20% life will trigger a bloodsplosion
+	Bloodsplosions cause hearts to drop that can be picked up to heal you
+	''' */
+	
+	DisplayName: Кат
+	Tooltip:
+		'''
+		Удар по ворогу, у якого залишилося менше 20% життя, спричинить кровбабах
+		Кровбабах змушуює падати серця, які можна підняти, щоб зцілити вас
+		'''
+}
+
+TheObliterator: {
+	// DisplayName: The Obliterator
+	/* Tooltip:
+	'''
+	Ruins nearby enemies with death lasers
+	An exceptionally agile yoyo
+	''' */
+	
+	DisplayName: Нищівник
+	Tooltip:
+		'''
+		Знищує ворогів поблизу лазерами смерті
+		Винятково рухливе йо-йо
+		'''
+}
+
+TitanArm: {
+	// DisplayName: Titan Arm
+	/* Tooltip:
+	'''
+	Sends enemies straight to the stars at the speed of light
+	Slap Hand but better
+	''' */
+	
+	DisplayName: Рука Титана
+	Tooltip: Відправляє ворогів прямо до зірок зі швидкістю світла
+}
+
+TriactisTruePaladinianMageHammerofMightMelee: {
+	// DisplayName: Triactis' True Paladinian Mage-Hammer of Might
+	// Tooltip: Explodes on enemy hits
+	
+	DisplayName: Тріактіс - Молот Могутності
+	Tooltip: Вибухає при ударі ворога
+}
+
+TrueArkoftheAncients: {
+	// DisplayName: Ark of the Ancients
+	/* Tooltip:
+	'''
+	[PARRY]
+	A heavenly blade forged to vanquish all evil
+	''' */
+	/* ParryInfo:
+	'''
+	<right> to extend the Ark out in front of you
+	Hitting an enemy with it will parry them, granting you brief invulnerability
+	You can also parry projectiles to make them deal 80 less damage for a short period
+	Parrying empowers the next 10 swings of the sword, letting them throw stronger projectiles
+	Pressing <right> while holding UP will release all empowered charges in a powerful burst of energy
+	''' */
+	
+	DisplayName: Ковчег Древніх
+	Tooltip:
+		'''
+		[PARRY]
+		Небесний клинок, викуваний для перемоги над усім злом
+		'''
+	ParryInfo:
+		'''
+		ПКМ, щоб витягнути ковчег перед собою
+		Якщо вдарити ним ворога, він відбиває удар, надаючи вам короткочасну невразливість
+		Ви також можете відбивати снаряди, щоб вони на короткий час завдавали на 80 одиниць менше шкоди
+		Відбивання підсилює наступні 10 змахів меча, дозволяючи кидати сильніші снаряди
+		Натискання клавіші ПКМ, утримуючи клавішу ВГОРУ, вивільнить усі заряджені заряди у потужному сплеску енергії
+		'''
+}
+
+TrueBiomeBlade: {
+	// DisplayName: Biome Blade
+	// See the attunement file for each attunement
+	/* Tooltip:
+	'''
+	[FUNC]
+	Hold down <right> while standing still on flat ground to attune the weapon to the powers of the surrounding biome
+	Pressing <right> otherwise switches between the current attunement and an extra stored one
+	Main Attunement : [ATT1]
+	Secondary Attunement: [ATT2]
+	''' */
+	/* DefaultFunction:
+	'''
+	Does nothing... yet
+	Repairing the blade seems to have improved its attuning capacities
+	''' */
+	
+	DisplayName: Клинок Біому
+	Tooltip:
+		'''
+		[FUNC]
+		Утримуйте клавішу ПКМ, стоячи нерухомо на рівній поверхні, щоб налаштувати зброю на силу навколишнього біома
+		Натискання клавіші ПКМ перемикає між поточною властивістю та додатковою.
+		Основна властивість: [ATT1]
+		Додаткова властивість: [ATT2]
+		'''
+	DefaultFunction:
+		'''
+		Не робить нічого... поки що
+		Ремонт леза, схоже, покращив його здатність до налаштування
+		'''
+}
+
+TrueCausticEdge: {
+	// DisplayName: Caustic Edge
+	/* Tooltip:
+	'''
+	Fires a bouncing caustic beam
+	Inflicts poison and venom
+	''' */
+	
+	DisplayName: Їдкий Край
+	Tooltip:
+		'''
+		Вистрілює їдким стрибаючим променем
+		Наносить отруту та яд
+		'''
+}
+
+DefiledGreatsword: {
+	// DisplayName: Defiled Greatsword
+	/* Tooltip:
+	'''
+	Fires blazing, hyper, and sunlight blades
+	Gives the player the tyrant's fury buff on enemy hits
+	This buff increases melee damage by 30% and melee crit chance by 10%
+	''' */
+	
+	DisplayName: Осквернений Великий Меч
+	Tooltip:
+		'''
+		Випускає палаючі, гіпер та сонячні леза
+		Дає гравцеві бафф люті тирана при ударі ворога
+		Цей бафф збільшує шкоду в ближньому бою на 30% і шанс криту в ближньому бою на 10%
+		'''
+}
+
+Tumbleweed: {
+	// DisplayName: Tumbleweed
+	// Tooltip: Releases a rolling tumbleweed on hit
+	
+	DisplayName: Перекотиполе
+	Tooltip: Випускає перекотиполе при ударі
+}
+
+TyphonsGreed: {
+	// DisplayName: Typhon's Greed
+	// Tooltip: Summons water spirits while in use
+	
+	DisplayName: Жадібність Тайфуну
+	Tooltip: Викликає водяних духів під час використання
+}
+
+BlightedCleaver: {
+	// DisplayName: Blighted Cleaver
+	/* Tooltip:
+	'''
+	Fires homing blazing blades
+	Gives the player the tyrant's fury buff on enemy hits
+	This buff increases melee damage by 30% and melee crit chance by 10%
+	''' */
+	
+	DisplayName: Проклятий Тесак
+	Tooltip:
+		'''
+		Випускає самонавідні палаючі леза
+		Дає гравцеві бафф люті тирана при ударі ворога
+		Цей бафф збільшує шкоду в ближньому бою на 30% і шанс криту в ближньому бою на 10%
+		'''
+}
+
+UltimusCleaver: {
+	// DisplayName: Ultimus Cleaver
+	// Tooltip: Launches damaging homing sparks and explodes on enemy hits
+	
+	DisplayName: Тесак-Ультимус
+	Tooltip: Випускає уражаючі самонавідні іскри, які вибухають при влучанні у ворога
+}
+
+UrchinFlail: {
+	// DisplayName: Urchin Flail
+	// Tooltip: Launch an urchin ball, which shoots a spike on contact with an enemy
+	
+	DisplayName: Колючий Ціпок
+	Tooltip: Запускайте м'ячик-їжачка, який вистрілює шипом при контакті з ворогом
+}
+
+UrchinMace: {
+	// DisplayName: Urchin Mace
+	// Tooltip: Throws out a whirlpool when released at full charge
+	
+	DisplayName: Колюча Булава
+	Tooltip: Випускає вир при повному заряді
+}
+
+VeinBurster: {
+	// DisplayName: Vein Burster
+	// Tooltip: Fires a blood ball that sticks to tiles and explodes
+	
+	DisplayName: Розривач Вен
+	Tooltip: Вистрілює кров'яною сферою, яка прилипає до плиток і вибухає
+}
+
+Violence: {
+	// DisplayName: Violence
+	// Tooltip: Releases a blazing fork which stays near the mouse and shreds enemies
+	
+	DisplayName: Насильство
+	Tooltip: Випускає палаючу виделку, яка залишається біля миші та шматує ворогів
+}
+
+Virulence: {
+	// DisplayName: Virulence
+	// Tooltip: Fires a plague cloud
+	
+	DisplayName: Віруленція
+	Tooltip: Випускає чумну хмару
+}
+
+VulcaniteLance: {
+	// DisplayName: Vulcanite Lance
+	// Tooltip: Explodes on enemy hits and summons homing flares on critical hits
+	
+	DisplayName: Вулканічний Спис
+	Tooltip: Вибухає при влучанні у ворога та викликає самонавідні ракети при критичному ударі
+}
+
+WindBlade: {
+	// DisplayName: Wind Blade
+	// Tooltip: Fires cyclones that suck enemies in
+	
+	DisplayName: Вітряне Лезо
+	Tooltip: Випускає циклони, які засмоктують ворогів
+}
+
+WulfrumScrewdriver: {
+	// DisplayName: Wulfrum Screwdriver
+	/* Tooltip:
+	'''
+	Can be used to rapidly and royally screw over foes
+	Striking an enemy sometimes gives you a wulfrum screw that you can throw with <right>
+	Hit a thrown screw with the screwdriver to launch it forward at high speed
+	[c/83B87E:'Who makes flatheads this large?? The hell am I supposed to use it for?!]
+	[c/83B87E:This thing could take an eye out!']
+	[c/83B87E:'...Ah.']
+	''' */
+	
+	DisplayName: Вульфрумова Викрутка
+	Tooltip:
+		'''
+		Можна використовувати, щоб швидко та ефективно перехитрити ворогів
+		Іноді при ударі ворогів, ви отримуєте вульфрумовий гвинт, який можна кинути з допомогою ПКМ
+		Вдарте викруткою по кинутому гвинту, щоб запустити його вперед на високій швидкості
+		[c/83B87E:'Хто робить такі великі викрутки Для чого це, можна використовувати?!]
+		[c/83B87E:Ця штука може вибити око!']
+		[c/83B87E:'...Ааа.']
+		'''
+}
+
+YateveoBloom: {
+	// DisplayName: Yateveo Bloom
+	/* Tooltip:
+	'''
+	A synthesis of jungle flora
+	Throws a powerful rose flail
+	Press <right> to stab with a flower spear
+	''' */
+	
+	DisplayName: Квітка Ятевео
+	Tooltip:
+		'''
+		Синтез флори джунглів
+		Кидає потужний трояндовий ціпок
+		Натисніть ПКМ, щоб вдарити квітковим списом
+		'''
+}
+
+YinYo: {
+	// DisplayName: Yin-Yo
+	/* Tooltip:
+	'''
+	Fires light or dark shards when enemies are near
+	Shards fly back and forth
+	A very agile yoyo
+	''' */
+	
+	DisplayName: Їнь-Йо
+	Tooltip:
+		'''
+		Стріляє осколками світла та пітьми, коли вороги поруч
+		Осколки летять туди-сюди
+		Дуже рухливе йо-йо
+		'''
+}

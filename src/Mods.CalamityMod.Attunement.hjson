@@ -1,0 +1,66 @@
+// Broken Biome Blade
+DefaultAttunement: {
+}
+
+HotAttunement: {
+}
+
+ColdAttunement: {
+}
+
+TropicalAttunement: {
+}
+
+EvilAttunement: {
+}
+
+// Mended Biome Blade
+TrueDefaultAttunement: {
+}
+
+TrueHotAttunement: {
+}
+
+TrueColdAttunement: {
+}
+
+TrueTropicalAttunement: {
+}
+
+TrueEvilAttunement: {
+}
+
+HolyAttunement: {
+}
+
+AstralAttunement: {
+}
+
+MarineAttunement: {
+}
+
+// True Biome Blade
+WhirlwindAttunement: {
+}
+
+FlailBladeAttunement: {
+}
+
+SuperPogoAttunement: {
+}
+
+ShockwaveAttunement: {
+}
+
+// Galaxia
+PhoenixAttunement: {
+}
+
+AriesAttunement: {
+}
+
+PolarisAttunement: {
+}
+
+AndromedaAttunement: {
+}

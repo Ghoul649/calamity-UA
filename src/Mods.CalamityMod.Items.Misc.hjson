@@ -1,0 +1,123 @@
+// Critters
+AndroombaItem: {
+}
+
+BabyFlakCrabItem: {
+}
+
+BabyGhostBellItem: {
+}
+
+NanodroidDysfunctionalItem: {
+}
+
+NanodroidItem: {
+}
+
+NanodroidPlagueGreenItem: {
+}
+
+NanodroidPlagueRedItem: {
+}
+
+PiggyItem: {
+}
+
+RepairUnitItem: {
+}
+
+SeaMinnowItem: {
+}
+
+TwinklerItem: {
+}
+
+// Permanent Boosters
+BloodOrange: {
+}
+
+CelestialOnion: {
+}
+
+CometShard: {
+}
+
+Dragonfruit: {
+}
+
+Ectoheart: {
+}
+
+Elderberry: {
+}
+
+ElectrolyteGelPack: {
+}
+
+EtherealCore: {
+}
+
+InfernalBlood: {
+}
+
+MiracleFruit: {
+}
+
+MushroomPlasmaRoot: {
+}
+
+PhantomHeart: {
+}
+
+RedLightningContainer: {
+}
+
+StarlightFuelCell: {
+}
+
+// Spawn Blockers
+AntiCystOintment: {
+}
+
+AntiTumorOintment: {
+}
+
+BleachBall: {
+}
+
+BrokenWaterFilter: {
+}
+
+SirenproofEarMuffs: {
+}
+
+VoodooDemonVoodooDoll: {
+}
+
+// Uncategorized
+AlicornonaStick: {
+}
+
+BallAndChain: {
+}
+
+BrimstoneLocus: {
+}
+
+MomentumCapacitor: {
+}
+
+NormalityRelocator: {
+}
+
+RelicOfConvergence: {
+}
+
+Rock: {
+}
+
+SulphurousSeaWorldSideChanger: {
+}
+
+SuperDummy: {
+}

@@ -1,0 +1,50 @@
+// For general uses
+// Abyss: Abyss
+// AstralInfection: Astral Infection
+// AstralDesert: Astral Desert
+// AstralSnow: Astral Snow
+// BrimstoneCrags: Brimstone Crags
+// SulphurousSea: Sulphurous Sea
+// SunkenSea: Sunken Sea
+
+AbovegroundAstralBiome: {
+}
+
+AbovegroundAstralBiomeSurface: {
+}
+
+AbovegroundAstralDesertBiome: {
+}
+
+AbovegroundAstralSnowBiome: {
+}
+
+AbyssLayer1Biome: {
+}
+
+AbyssLayer2Biome: {
+}
+
+AbyssLayer3Biome: {
+}
+
+AbyssLayer4Biome: {
+}
+
+AcidRainBiome: {
+}
+
+ArsenalLabBiome: {
+}
+
+BrimstoneCragsBiome: {
+}
+
+SulphurousSeaBiome: {
+}
+
+SunkenSeaBiome: {
+}
+
+UndergroundAstralBiome: {
+}

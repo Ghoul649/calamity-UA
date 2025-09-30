@@ -1,0 +1,147 @@
+CalamityConfig: {
+	// DisplayName: Main Config
+	
+	Headers: {
+	}
+
+	AdrenalineMeterPosX: {
+	}
+
+	AdrenalineMeterPosY: {
+	}
+
+	Afterimages: {
+	}
+
+	BossesStopWeather: {
+	}
+
+	BossHealthBarExtraInfo: {
+	}
+
+	BossHealthBoost: {
+	}
+
+	DefaultDashEnabled: {
+	}
+
+	BossZen: {
+	}
+
+	ChargeMeter: {
+	}
+
+	ChargeMeterPosX: {
+	}
+
+	ChargeMeterPosY: {
+	}
+
+	ChilledWaterRework: {
+	}
+
+	CooldownDisplay: {
+	}
+
+	DebuffDisplay: {
+	}
+
+	EarlyHardmodeProgressionRework: {
+	}
+
+	FasterBaseSpeed: {
+	}
+
+	FasterFallHotkey: {
+	}
+
+	FasterJumpSpeed: {
+	}
+
+	FasterTilePlacement: {
+	}
+
+	FlightBar: {
+	}
+
+	FlightBarPosX: {
+	}
+
+	FlightBarPosY: {
+	}
+
+	ForceTownSafety: {
+	}
+
+	HigherJumpHeight: {
+	}
+
+	MeterPosLock: {
+	}
+
+	NerfExpertDebuffs: {
+	}
+
+	ParticleLimit: {
+	}
+
+	RageMeterPosX: {
+	}
+
+	RageMeterPosY: {
+	}
+
+	RemoveReforgeRNG: {
+	}
+
+	RipperMeterShake: {
+	}
+
+	Screenshake: {
+	}
+
+	ShopNewAlert: {
+	}
+
+	SpeedrunTimer: {
+	}
+
+	SpeedrunTimerPosX: {
+	}
+
+	SpeedrunTimerPosY: {
+	}
+
+	StealthInvisibility: {
+	}
+
+	StealthMeter: {
+	}
+
+	StealthMeterPosX: {
+	}
+
+	StealthMeterPosY: {
+	}
+
+	SulphuricWaterMeterPosX: {
+	}
+
+	SulphuricWaterMeterPosY: {
+	}
+
+	PotionSelling: {
+	}
+
+	TownNPCSpawnRateMultiplier: {
+	}
+
+	TownNPCsSpawnAtNight: {
+	}
+
+	VanillaCooldownDisplay: {
+	}
+
+	WikiStatusMessage: {
+	}
+}

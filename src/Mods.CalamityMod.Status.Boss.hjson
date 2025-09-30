@@ -1,0 +1,121 @@
+// Slime God
+SlimeGodRun: Бог Слизу тікає, щоб битися наступного разу...
+// Cryogen
+CryogenBossText: Кріоген вийшов з ладу!
+PyrogenBossText: Піроген вийшов з ладу!
+// Calamitas Clone
+CalamitasBossText: Ти недооцінюєш мою силу...
+CalamitasBossText2: Повстаньте, брати і сестри мої.
+CalamitasBossText3: Вражаюче дитя, дуже вражаюче...
+// Great Sand Shark
+SandSharkText: Щось ворушиться в теплих пісках пустелі...
+SandSharkText2: Наближається величаезний надхижак
+// Plaguebringer Goliath
+PlagueBossText: ЗАГОРОДЖУВАЛЬНА ЯДЕРНА БАТАРЕЯ ЗАРЯДЖЕНА, ГОТУЄТЬСЯ ДО ЗАПУСКУ!!!
+PlagueBossText2: РАКЕТИ ЗАПУЩЕНО, РОЗПОЧАТО ПРОЦЕДУРУ НАВЕДЕННЯ НА ЦІЛЬ!!!
+// Astrum Deus
+DeusAltarRejectNightText: Бог зірок відкидає вашу жертву. Ритуал можна проводити тільки вночі.
+// Providence
+ProfanedBossText: Святе полум'я згорає на твоїх крилах...
+// Polterghast
+GhostBossText2: Плач відлунює у напівзруйнованих залах підземелля...
+GhostBossText3: Давно мертві в'язні прагнуть ревної помсти...
+// Devourer of Gods
+EdgyBossText: Не будь самовпевненим!
+EdgyBossText2: Фатальна помилка!
+EdgyBossText3: Дуже смачно...
+EdgyBossText4: Боляче?
+EdgyBossText5: Це ще не кінець!
+EdgyBossText6: БОГ НЕ БОЇТЬСЯ СМЕРТІ!
+EdgyBossText7: Ти не бог... але я все одно буду бенкетувати твоєю сутністю!
+EdgyBossText8: Ти думаєш, що можеш вбити мене?
+// Yharon
+FlameText: Повітря навколо вас стає теплішим.
+// Draedon (introduction)
+DraedonIntroductionText1: Я довго чекав цього моменту.
+DraedonIntroductionText2: Твоя природа зачаровує мене, бо я її не розумію.
+DraedonIntroductionText3: Ти побачиш мої творіння, які перевершили богів.
+DraedonIntroductionText4: І ви покажете Мені свою вдачу в бою.
+DraedonIntroductionText5: Тепер, зроби вибір.
+DraedonResummonText: Зробіть свій вибір.
+DraedonBossRushText: Зробіть свій вибір. У вас є 20 секунд.
+// Draedon (Exo Mechs mid-battle dialogue)
+DraedonExoPhase1Text1: Дизайн, що вдосконалюється з часом і знаннями, є суттю моєї роботи.
+DraedonExoPhase1Text2: Жодним іншим способом я не можу наблизитися до досконалості.
+DraedonExoPhase2Text1: Ваш результат знаходиться в межах похибки.
+DraedonExoPhase2Text2: Це цілком задовільно. Переходимо до наступного етапу тестування.
+DraedonExoPhase3Text1: Відтоді, як я дізнався про вашу присутність, я досліджував ваші битви, щоб зробити свої машини сильнішими.
+DraedonExoPhase3Text2: Навіть зараз я стежу за вашими діями. Ніщо не повинно вислизнути від моїх розрахунків.
+DraedonExoPhase4Text1: Цікаво. Дуже цікаво.
+DraedonExoPhase4Text2: Ви постійно прогресуєте, незважаючи на більш складні виклики.
+DraedonExoPhase5Text1: Твоя природа залишається мені невідомою. Так не піде.
+DraedonExoPhase5Text2: ...я прагнув досконалості. Доля, мабуть, прихильна до іронії, бо це, мабуть, була моя перша помилка.
+DraedonExoPhase6Text1: Абсурд.
+DraedonExoPhase6Text2: Я більше не дозволю своїм розрахункам заважати мені спостерігати за цією битвою.
+DraedonExoPhase6Text3: Я покажу вам всю лють моєї останньої машини.
+DraedonAresEnrageText: Як нерозумно. Тобі не втекти.
+// Draedon (ending)
+DraedonEndText1: Невідомий фактор, каталізатор - це те, ким ви є.
+DraedonEndText2: Майже так само відірваний від цієї землі та її історії, як і я.
+DraedonEndText3: ...Вибачте за самоаналіз. Я мушу зібратися з думками після цього бою.
+DraedonEndText4: Ця земля стала черствою і жорсткою від крові, яка пролилася до цього часу.
+DraedonEndText5: Ви також пролили кров, але, можливо, цього буде достатньо, щоб розпочати нову епоху... Якої, я не знаю. Але це те, чого я дуже хочу побачити.
+DraedonEndText6: Зараз ти хочеш дістатися до Тирана. Я не можу тобі це дозволити.
+DraedonEndText7: Це не є питанням злоби, бо я не бажав би нічого більшого, ніж спостерігати такий конфлікт.
+DraedonEndText8: Але тобі це вдавалося і раніше. Зрештою, ти знайдеш спосіб.
+DraedonEndText9: Мушу визнати ваш тріумф, але повернуся до своєї техніки.
+DraedonEndKillAttemptText: ...Зовсім непотрібної.
+// Draedon (GFB)
+DraedonMechdusaBeginText: ...помри.
+DraedonMechdusaEndText1: Зачекай, що? Як це?
+DraedonMechdusaEndText2: Ні
+// SCal (First Battle)
+SCalSummonText: Тобі подобається проходити через пекло?
+SCalStartText: Ти мав би просто померти...
+SCalBH2Text: Не так давно тобі ледве вдалося перемогти мого двійника. Це була справжня поразка, чи не так?
+SCalBH3Text: Ти опанував велику силу, але користуєшся нею ні для кого, окрім себе.
+SCalBrothersText: Хочеш познайомитися з моєю родиною? Жахливо, правда?
+SCalPhase2Text: Ти будеш сильно страждати.
+SCalBH4Text: Абсурдно навіть думати про те, щоб спробувати втекти. Поки ти живий, ти будеш страждати.
+SCalSeekerRingText: Вискочка, який бездумно крав і вбивав, прокладаючи собі шлях до влади. Цікаво, кого це мені нагадує...?
+SCalBH5Text: Ти не маєш жодного стосунку до цієї битви. Ніхто не давав тобі права голосу в цьому питанні!
+SCalSepulcher2Text: Коли пил вляжеться і залишиться тільки один, якщо це будеш ти, яку цінність це матиме?!
+SCalDesparationText1: Просто зупинись!
+SCalDesparationText2: В мене немає майбутнього, якщо я програю.
+SCalDesparationText3: Після того, як ти переможеш мене, у тебе буде тільки один шлях вперед.
+SCalDesparationText4: І цей шлях... також не має майбутнього.
+SCalAcceptanceText1: Навіть якщо він відкинув усе інше, його сила залишається.
+SCalAcceptanceText2: У мене більше не залишилося сил ображатися на нього чи на тебе...
+SCalAcceptanceText3: Тепер все буде в твоїх руках.
+// SCal (Rematch)
+SCalSummonTextRematch: Якщо тобі потрібні опіки четвертого ступеня, ти звернувся до правильної людини.
+/SCalStartTextRematch: Коли прийде час, чи хотів би ти приєднатися до мого творіння?
+SCalBH2TextRematch: Заради цієї перемоги тобі ще доведеться багато працювати.
+SCalBH3TextRematch: Давно у мене не було такого цікавого манекена-мішені, на якому можна було б випробувати свою магію.
+SCalBrothersTextRematch: Порожні оболонки їхніх колишніх "я". Сумніваюся, що в них залишилася хоч крихта духу.
+SCalPhase2TextRematch: Ну ось, знову.
+SCalBH4TextRematch: Цікаво, чи бачив ти їх у своїх кошмарах після нашої першої битви?
+SCalSeekerRingTextRematch: Твоя майстерність анітрохи не похитнулася.
+SCalBH5TextRematch: Хіба це не захоплююче?
+SCalSepulcher2TextRematch: А ось і повзуча могила, востаннє.
+SCalDesparationText1Rematch: Приголомшлива вистава, я віддаю вам перемогу.
+SCalDesparationText2Rematch: Без сумніву, ти зіткнетешся з ворогами, сильнішими за мене.
+SCalDesparationText3Rematch: Я вірю, що ти не повториш його помилок.
+SCalDesparationText4Rematch: Я не можу уявити, яке майбутнє чекає на тебе зараз
+// Cirrus (GFB)
+CirrusSummonText: Чи готові ви до сізіфової роботи?
+CirrusBirbSwarmText: Ці серця трохи занадто гострі. Як щодо рою птахів замість них?
+CirrusBH2Text: Хочеш пити? Я можу це виправити!
+CirrusBH3Text: Заціни, яку класну іграшку я знайшов!
+CirrusDoGText: Я ж казав, що черв'яки, які розмовляють, існують! Але ти мені не вірив!
+CirrusPhase2Text: Час для перетворень!
+CirrusBH4Text: Настав час ХАДЖ!
+CirrusHallowBossSpamText: У мене більше друзів, ніж ти можеш собі уявити!
+CirrusBH5Text: Ха! Ти не поганий, але я кращий!
+CirrusSecondBirbSwarmText: Час для нового рою!
+CirrusNonchalantText: Я втомлююся...
+CirrusBruhText: Жартую! Час для моєї особливої атаки!
+CirrusGiveUpText: Неважливо, я трохи втомився від цього.
+// April Fools
+AprilFools: Наближається ЛОРД...
+AprilFoolsGFB: Наближається Ла Руга...

@@ -1,0 +1,71 @@
+// Buff Descriptions
+BuffDescription: {
+}
+
+// Vanilla NPC dialogues added by Calamity
+// AnglerChat.SeaKing: Someone tell {0} to quit trying to throw me out of town, it's not going to work.
+
+ArmsDealerChat: {
+}
+
+ClothierChat: {
+}
+
+CyborgChat: {
+}
+
+// DemolitionistChat.DoGDefeated: God Slayer Dynamite? Boy do I like the sound of that!
+
+DryadChat: {
+}
+
+DyeTraderChat: {
+}
+
+GoblinTinkererChat: {
+}
+
+GuideChat: {
+}
+
+MechanicChat: {
+}
+
+MerchantChat: {
+}
+
+// NurseChat.HealNotAllowed: Now is not the time!
+
+PainterChat: {
+}
+
+PartyGirlChat: {
+}
+
+PirateChat: {
+}
+
+// SkeletonMerchantChat.Normal: What'dya buyin'?
+
+SteampunkerChat: {
+}
+
+StylistChat: {
+}
+
+TavernkeepChat: {
+}
+
+TaxCollectorChat: {
+}
+
+// TravellingMerchantChat.DrunkPrincessMerchant: Tell {0} I'll take up her offer and meet with her at the back of {1}'s house.
+
+TruffleChat: {
+}
+
+WitchDoctorChat: {
+}
+
+WizardChat: {
+}

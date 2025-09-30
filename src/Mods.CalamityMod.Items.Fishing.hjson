@@ -1,0 +1,150 @@
+// Quest fish tooltips
+// CaughtInAstral: "'Caught in the Astral Infection'"
+// CaughtInBrimstoneCrag: "'Caught in the Brimstone Crag'"
+// CaughtInSunkenSea: "'Caught in the Sunken Sea'"
+
+// Astral Infection Catches
+AldebaranAlewife: {
+}
+
+ArcturusAstroidean: {
+}
+
+AstralCrate: {
+}
+
+AstrophageItem: {
+}
+
+ProcyonidPrawn: {
+}
+
+TwinklingPollox: {
+}
+
+UrsaSergeant: {
+}
+
+// Brimstone Crag Catches
+Bloodfin: {
+}
+
+Brimlish: {
+}
+
+BrimstoneCrate: {
+}
+
+CharredLasher: {
+}
+
+CoastalDemonfish: {
+}
+
+CragBullhead: {
+}
+
+DragoonDrizzlefish: {
+}
+
+Havocfish: {
+}
+
+Shadowfish: {
+}
+
+Slurpfish: {
+}
+
+// Sunken Sea Catches
+EutrophicSandfish: {
+}
+
+GreenwaveLoach: {
+}
+
+PrismaticGuppy: {
+}
+
+RustedJingleBell: {
+}
+
+SerpentsBite: {
+}
+
+Serpentuna: {
+}
+
+SparklingEmpress: {
+}
+
+SunkenCrate: {
+}
+
+SunkenSailfish: {
+}
+
+SurfClam: {
+}
+
+// Other Catches
+EnchantedStarfish: {
+}
+
+FishofEleum: {
+}
+
+FishofFlight: {
+}
+
+FishofLight: {
+}
+
+FishofNight: {
+}
+
+GlimmeringGemfish: {
+}
+
+Gorecodile: {
+}
+
+Spadefish: {
+}
+
+StuffedFish: {
+}
+
+SulphurousCrate: {
+}
+
+SunbeamFish: {
+}
+
+// Fishing Rods
+EarlyBloomRod: {
+}
+
+FeralDoubleRod: {
+}
+
+HeronRod: {
+}
+
+NavyFishingRod: {
+}
+
+RiftReeler: {
+}
+
+SlurperPole: {
+}
+
+TheDevourerofCods: {
+}
+
+VerstaltiteFishingRod: {
+}
+
+WulfrumRod: {
+}

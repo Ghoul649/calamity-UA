@@ -1,0 +1,82 @@
+DraedonPowerCell: {
+}
+
+// Codebreaker Pieces
+AdvancedDisplay: {
+}
+
+AuricQuantumCoolingCell: {
+}
+
+CodebreakerBase: {
+}
+
+DecryptionComputer: {
+}
+
+LongRangedSensorArray: {
+}
+
+VoltageRegulationSystem: {
+}
+
+// Draedon Logs
+DraedonsLogHell: {
+}
+
+DraedonsLogJungle: {
+}
+
+DraedonsLogPlanetoid: {
+}
+
+DraedonsLogSnowBiome: {
+}
+
+DraedonsLogSunkenSea: {
+}
+
+// Lab Finders
+CyanSeekingMechanism: {
+}
+
+GreenSeekingMechanism: {
+}
+
+LabSeekingMechanism: {
+}
+
+OnyxSeekingMechanism: {
+}
+
+RedSeekingMechanism: {
+}
+
+WhiteSeekingMechanism: {
+}
+
+YellowSeekingMechanism: {
+}
+
+// Schematics
+/* SchematicUnlocked:
+'''
+Has already been decrypted.
+Click to view its contents.
+Unlocked recipes:
+''' */
+
+EncryptedSchematicHell: {
+}
+
+EncryptedSchematicIce: {
+}
+
+EncryptedSchematicJungle: {
+}
+
+EncryptedSchematicPlanetoid: {
+}
+
+EncryptedSchematicSunkenSea: {
+}

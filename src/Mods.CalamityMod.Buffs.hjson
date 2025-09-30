@@ -1,0 +1,886 @@
+AlcoholPoisoning: {
+	DisplayName: Алкогольне отруєння
+	Description: Ви випили забагато і тепер помираєте
+}
+
+BloodyMaryBuff: {
+}
+
+CaribbeanRumBuff: {
+}
+
+CinnamonRollBuff: {
+}
+
+EverclearBuff: {
+}
+
+EvergreenGinBuff: {
+}
+
+FabsolVodkaBuff: {
+}
+
+FireballBuff: {
+}
+
+GrapeBeerBuff: {
+	DisplayName: Виноградне Пиво
+	Description: Захист зменшено
+}
+
+MargaritaBuff: {
+}
+
+MoonshineBuff: {
+}
+
+MoscowMuleBuff: {
+}
+
+RedWineBuff: {
+	DisplayName: Червоне вино
+	Description: Зменшено регенерацію здоров'я
+}
+
+RumBuff: {
+}
+
+ScrewdriverBuff: {
+}
+
+StarBeamRyeBuff: {
+}
+
+TequilaBuff: {
+}
+
+TequilaSunriseBuff: {
+}
+
+Trippy: {
+}
+
+VodkaBuff: {
+}
+
+WhiskeyBuff: {
+}
+
+WhiteWineBuff: {
+}
+
+Withered: {
+}
+
+AstralInfectionDebuff: {
+}
+
+BanishingFire: {
+}
+
+BrimstoneFlames: {
+}
+
+BurningBlood: {
+}
+
+CrushDepth: {
+}
+
+RiptideDebuff: {
+}
+
+Dragonfire: {
+}
+
+GodSlayerInferno: {
+}
+
+HolyFlames: {
+}
+
+HolyInferno: {
+}
+
+ManaBurn: {
+}
+
+MiracleBlight: {
+}
+
+Nightwither: {
+}
+
+Plague: {
+}
+
+SagePoison: {
+}
+
+SearingLava: {
+}
+
+ShellfishClaps: {
+}
+
+Shred: {
+}
+
+SnapClamDebuff: {
+}
+
+SulphuricPoisoning: {
+}
+
+Vaporfied: {
+}
+
+VulnerabilityHex: {
+}
+
+WeakBrimstoneFlames: {
+}
+
+AlicornBuff: {
+}
+
+AndromedaBuff: {
+}
+
+AndromedaSmallBuff: {
+}
+
+BrimroseMount: {
+}
+
+BumbledogeMount: {
+}
+
+DraedonGamerChairBuff: {
+}
+
+GazeOfCrysthamyrBuff: {
+}
+
+MarniteLiftBuff: {
+}
+
+OnyxExcavatorBuff: {
+}
+
+RimehoundBuff: {
+}
+
+SquishyBeanBuff: {
+}
+
+TheCartofGodsBuff: {
+}
+
+AkatoBuff: {
+}
+
+ArcherofLunamoon: {
+}
+
+AstrophageBuff: {
+}
+
+BabyGhostBellBuff: {
+}
+
+BearBuff: {
+}
+
+BloodBound: {
+}
+
+BrimlingBuff: {
+}
+
+ChibiiDoGBuff: {
+}
+
+ClassicSCalPetBuff: {
+}
+
+DannyDevito: {
+}
+
+Dreamfog: {
+}
+
+EidolonSnailBuff: {
+}
+
+ElectricTroublemaker: {
+}
+
+FlakHermitBuff: {
+}
+
+FoxPetBuff: {
+}
+
+FurtasticDuoBuff: {
+}
+
+GoldieBuff: {
+}
+
+Kendra: {
+}
+
+LadBuff: {
+}
+
+LeviBuff: {
+}
+
+LittleLightBuff: {
+}
+
+MiniMindBuff: {
+}
+
+OceanSpiritBuff: {
+}
+
+PineappleBuff: {
+}
+
+PlaguebringerBabBuff: {
+}
+
+RadiatorBuff: {
+}
+
+ReaverOrbBuff: {
+}
+
+SparksBuff: {
+}
+
+ThirdSageBuff: {
+}
+
+YharonSonBuff: {
+}
+
+ChaosCandleBuff: {
+}
+
+CirrusBlueCandleBuff: {
+}
+
+CirrusPinkCandleBuff: {
+}
+
+CirrusPurpleCandleBuff: {
+}
+
+CirrusYellowCandleBuff: {
+}
+
+CorruptionEffigyBuff: {
+}
+
+CrimsonEffigyBuff: {
+}
+
+EffigyOfDecayBuff: {
+}
+
+TranquilityCandleBuff: {
+}
+
+PopoBuff: {
+}
+
+PopoNoselessBuff: {
+}
+
+AnechoicCoatingBuff: {
+}
+
+AstralInjectionBuff: {
+}
+
+BaguetteBuff: {
+}
+
+BloodfinBoost: {
+}
+
+BoundingBuff: {
+}
+
+CalciumBuff: {
+}
+
+CeaselessHunger: {
+}
+
+GravityNormalizerBuff: {
+}
+
+Omniscience: {
+}
+
+PhotosynthesisBuff: {
+}
+
+ShadowBuff: {
+}
+
+Soaring: {
+}
+
+SulphurskinBuff: {
+}
+
+TeslaBuff: {
+}
+
+WeaponImbueBrimstone: {
+}
+
+WeaponImbueCrumbling: {
+}
+
+WeaponImbueHolyFlames: {
+}
+
+Zen: {
+}
+
+Zerg: {
+}
+
+RancorBurn: {
+}
+
+AbyssalDivingSuitBuff: {
+}
+
+AbyssalDivingSuitPlates: {
+}
+
+AbyssalMadness: {
+}
+
+AdrenalineMode: {
+}
+
+Afflicted: {
+}
+
+AmidiasBlessing: {
+}
+
+AquaticHeartBuff: {
+}
+
+AquaticHeartWaterSpeed: {
+}
+
+AvertorBonus: {
+}
+
+BloodflareBloodFrenzy: {
+}
+
+BloodyBoost: {
+}
+
+BossEffects: {
+}
+
+BrimflameFrenzyBuff: {
+}
+
+ChiBuff: {
+}
+
+ChiRegenBuff: {
+}
+
+CoralSymbiosis: {
+}
+
+CosmicFreeze: {
+}
+
+DivineBless: {
+}
+
+EmpyreanRage: {
+}
+
+EmpyreanWrath: {
+}
+
+Encased: {
+}
+
+GraxBoost: {
+}
+
+HallowedRuneDefense: {
+}
+
+HallowedRunePower: {
+}
+
+HallowedRuneRegeneration: {
+}
+
+IceShieldBuff: {
+}
+
+KamiBuff: {
+}
+
+Mushy: {
+}
+
+PhantomicEmpowerment: {
+}
+
+PhantomicRegen: {
+}
+
+PhantomicShield: {
+}
+
+PolarisBuff: {
+}
+
+ProfanedCrystalBuff: {
+}
+
+RageMode: {
+}
+
+ReaverRage: {
+}
+
+ShellBoost: {
+}
+
+SilvaRevival: {
+}
+
+SpiritDefense: {
+}
+
+SpiritPower: {
+}
+
+SpiritRegen: {
+}
+
+TarragonCloak: {
+}
+
+TarragonImmunity: {
+}
+
+TarraLifeRegen: {
+}
+
+TyrantsFury: {
+}
+
+AndromedaCripple: {
+}
+
+ArmorCrunch: {
+}
+
+Crumbling: {
+}
+
+Clamity: {
+}
+
+DoGExtremeGravity: {
+}
+
+Enraged: {
+}
+
+Eutrophication: {
+}
+
+ExoFreeze: {
+}
+
+FishAlert: {
+}
+
+FrozenLungs: {
+}
+
+GalvanicCorrosion: {
+}
+
+GlacialState: {
+}
+
+IcarusFolly: {
+}
+
+Irradiated: {
+}
+
+KamiFlu: {
+}
+
+MarkedforDeath: {
+}
+
+PearlAura: {
+}
+
+ProfanedWeakness: {
+}
+
+TemporalSadness: {
+}
+
+TimeDistortion: {
+}
+
+Warped: {
+}
+
+WeakPetrification: {
+}
+
+WhisperingDeath: {
+}
+
+WitherDebuff: {
+}
+
+AbandonedSlimeBuff: {
+}
+
+AncientMineralSharkBuff: {
+}
+
+AquaticStar: {
+}
+
+AstralProbeBuff: {
+}
+
+BabyBloodCrawlerBuff: {
+}
+
+BabySlimeGodBuff: {
+}
+
+BabyStormlionBuff: {
+}
+
+BelladonnaSpiritBuff: {
+}
+
+BlackHawkBuff: {
+}
+
+BloodClot: {
+}
+
+BrimseekerBuff: {
+}
+
+BrimstoneWaifu: {
+}
+
+BrittleStar: {
+}
+
+Calamari: {
+}
+
+CausticStaffBuff: {
+}
+
+CinderBlossomBuff: {
+}
+
+CloudyWaifu: {
+}
+
+GlacialEmbraceBuff: {
+}
+
+Corroslime: {
+}
+
+CorvidHarbringerBuff: {
+}
+
+CosmicEnergy: {
+}
+
+CosmicViperEngineBuff: {
+}
+
+CosmilampBuff: {
+}
+
+Crimslime: {
+}
+
+DaedalusCrystalBuff: {
+}
+
+DaedalusGolemBuff: {
+}
+
+DankCreeperBuff: {
+}
+
+DazzlingStabberBuff: {
+}
+
+DemonshadeSetDevilBuff: {
+}
+
+ElementalAxeBuff: {
+}
+
+EndoCooperBuff: {
+}
+
+EndoHydraBuff: {
+}
+
+EntropysVigilBuff: {
+}
+
+ExoskeletonCannons: {
+}
+
+EyeOfNightBuff: {
+}
+
+FieryDraconidBuff: {
+}
+
+FleshBallBuff: {
+}
+
+FlowersOfMortalityBuff: {
+}
+
+FrostBlossomBuff: {
+}
+
+FungalClumpBuff: {
+}
+
+GammaHydraBuff: {
+}
+
+GastricAberrationBuff: {
+}
+
+HauntedDishesBuff: {
+}
+
+HermitCrab: {
+}
+
+Herring: {
+}
+
+HotE: {
+}
+
+HowlTrio: {
+}
+
+HydrothermicVentBuff: {
+}
+
+IceClasperBuff: {
+}
+
+IgneousExaltationBuff: {
+}
+
+KalandraMirrorBuff: {
+}
+
+KingofConstellationsBuff: {
+}
+
+LilPlaguebringerBuff: {
+}
+
+LordeBuff: {
+}
+
+MagicHatBuff: {
+}
+
+Mechworm: {
+}
+
+MidnightSunBuff: {
+}
+
+MiniatureEyeofCthulhu: {
+}
+
+MiniOldDukeBuff: {
+}
+
+MiniPlaguebringerBuff: {
+}
+
+MoonFistBuff: {
+}
+
+MountedScannerBuff: {
+	DisplayName: Вбудований сканер
+	Description: Вас оточує потужна техніка
+}
+
+NOU: {
+	DisplayName: НІ ТИ
+	Description: Здогадайся сам)))
+}
+
+PerditionBuff: {
+}
+
+Phantom: {
+	DisplayName: Фантом
+	Description: Фантом буде вас захищати
+}
+
+PlantationBuff: {
+}
+
+PoleWarperBuff: {
+}
+
+ProfanedSoulGuardians: {
+}
+
+PuffWarriorBuff: {
+}
+
+ResurrectionButterflyBuff: {
+}
+
+SageSpiritBuff: {
+	DisplayName: Дух мудреця
+	Description: Некомфортно близько
+}
+
+Sandnado: {
+	DisplayName: Піщнадо
+	Description: Піщнадо буде вас захищати
+}
+
+SandyHealingWaifu: {
+}
+
+SandyWaifu: {
+}
+
+SarosPossessionBuff: {
+}
+
+SeaSnailBuff: {
+}
+
+SepulcherMinionBuff: {
+}
+
+ShellfishBuff: {
+}
+
+SilvaCrystalBuff: {
+}
+
+SiriusBuff: {
+}
+
+SkeletalDragonsBuff: {
+}
+
+SmallSkeletonBuff: {
+}
+
+SnakeEyesBuff: {
+}
+
+SolarGodSpiritBuff: {
+}
+
+SolarSpirit: {
+	DisplayName: Сонячний дух
+	Description: Сонячний дух буде вас захищати
+}
+
+SoulSeekerBuff: {
+	DisplayName: Шукач душ
+	Description: Воно точно щось хоче від вас
+}
+
+StarSwallowerBuff: {
+}
+
+StellarTorusBuff: {
+}
+
+TacticalPlagueEngineBuff: {
+}
+
+TundraFlameBlossomsBuff: {
+}
+
+ValkyrieBuff: {
+}
+
+VileFeederBuff: {
+}
+
+ViridVanguardBuff: {
+}
+
+ViriliBuff: {
+}
+
+VoidConcentrationBuff: {
+}
+
+WaterWaifu: {
+}
+
+WitherBlossomsBuff: {
+}
+
+WulfrumDroidBuff: {
+}
+
+PinkJellyRegen: {
+}
+
+GreenJellyRegen: {
+}
+
+AbsorberRegen: {
+}
+
+AbsorberAffliction: {
+}
