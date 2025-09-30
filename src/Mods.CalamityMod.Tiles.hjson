@@ -1,0 +1,60 @@
+// Ambient Objects
+GiantBulb: Гігантська бульба Плантери
+Fossil: Викопний залишок
+Column: Колона
+Ribs: Ребра
+Stalagmite: Сталагміт
+Stalactite: Сталагніт
+PirateCrate: Покинутий ящик
+// Basic Calamity Furniture
+Basin: Таз
+LavaFountain: Лавовий фонтан
+PipeOrgan: Орган
+Sconce: Бра
+// Draedon Lab Furniture
+Console: Консоль
+ContainmentBox: Контейнер
+Display: Дисплей
+ElectricPanel: Електричний щиток
+ReinforcedCrate: Посилений ящик
+Screen: Екран
+Server: Сервер
+Terminal: Термінал
+// Individual entries
+// Sulphurous Sea & Abyss
+SteamGeyser.MapEntry: Гейзер
+AbyssVent.MapEntry: Паровий отвір
+ThermalVent.MapEntry: Термальний отвір
+// Brimstone Crag
+SpineSapling.MapEntry: Саджанець шипа
+SpineTree.MapEntry: Гігантський шип
+// Draedon
+InactivePowerCellFactory.MapEntry: Неактивний завод елементів живлення
+OnyxExcavatorTile.MapEntry: Оніксовий екскаватор
+CodebreakerTile.MapEntry: Кодобрейкер
+// Ores
+AerialiteOre.MapEntry: Аеріаліт
+AerialiteOreDisenchanted.MapEntry: Позбавлений чарів аеріаліт
+AstralOre.MapEntry: Астральна руда
+AuricOre.MapEntry: Аурична руда
+CryonicOre.MapEntry: Кріоніт
+ExodiumOre.MapEntry: Ексодіум
+HallowedOre.MapEntry: Священна руда
+InfernalSuevite.MapEntry: Пекельний сувіт
+PerennialOre.MapEntry: Переніал
+ScoriaOre.MapEntry: Скарія
+UelibloomOre.MapEntry: Уеліблум
+// Misc
+ArenaTile.MapEntry: Арена
+
+AshenChest: {
+    MapEntry0: "{$Mods.CalamityMod.Items.Placeables.AshenChest.DisplayName}"
+    MapEntry1: Заблоковано {$Mods.CalamityMod.Items.Placeables.AshenChest.DisplayName}
+}
+
+AstralChestLocked: {
+    MapEntry0: "{$Mods.CalamityMod.Items.Placeables.AstralChest.DisplayName}"
+    MapEntry1: Заблоковано {$Mods.CalamityMod.Items.Placeables.AstralChest.DisplayName}
+}
+
+PlaguedPlateBed.MapEntry: "'Ліжко'"
