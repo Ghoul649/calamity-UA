@@ -1,0 +1,169 @@
+AerialiteDye: {
+    DisplayName: Аералітовий барвник
+    Tooltip: ""
+}
+
+AstralBlueDye: {
+    DisplayName: Астрально-синій барвник
+    Tooltip: ""
+}
+
+AstralDye: {
+    DisplayName: Астральний м'ясний барвник
+    Tooltip: ""
+}
+
+AstralOrangeDye: {
+    DisplayName: Астрально-оранжевий барвник
+    Tooltip: ""
+}
+
+AstralSwirlDye: {
+    DisplayName: Астральний завихрений барвник
+    Tooltip: ""
+}
+
+AuricDye: {
+    DisplayName: Аурічний барвник
+    Tooltip: ""
+}
+
+BloodflareDye: {
+    DisplayName: Кривавоспалаховий барвник
+    Tooltip: ""
+}
+
+BlueCosmicFlameDye: {
+    DisplayName: Синій космічний вогняний барвник
+    Tooltip: ""
+}
+
+BlueStatigelDye: {
+    DisplayName: Синій статігельний барвник
+    Tooltip: ""
+}
+
+BrimflameDye: {
+    DisplayName: Сірчаний вогняний барвник
+    Tooltip: ""
+}
+
+CalamitousDye: {
+    DisplayName: Каламітний барвник
+    Tooltip: ""
+}
+
+CeaselessDye: {
+    DisplayName: Безкінечний барвник
+    Tooltip: ""
+}
+
+CosmiliteDye: {
+    DisplayName: Космілітовий барвник
+    Tooltip: ""
+}
+
+CryonicDye: {
+    DisplayName: Кріогенний барвник
+    Tooltip: ""
+}
+
+DefiledFlameDye: {
+    DisplayName: Осквернений вогняний барвник
+    Tooltip: ""
+}
+
+DragonSoulDye: {
+    DisplayName: Барвник душі дракона
+    Tooltip: ""
+}
+
+ElementalDye: {
+    DisplayName: Елементальний барвник
+    Tooltip: ""
+}
+
+EndothermicDye: {
+    DisplayName: Ендотермічний барвник
+    Tooltip: ""
+}
+
+ExoDye: {
+    DisplayName: Екзобарвник
+    Tooltip: ""
+}
+
+AdrenalineHairDye: {
+    DisplayName: Барвник для волосся "Адреналін"
+    Tooltip: ""
+}
+
+RageHairDye: {
+    DisplayName: Барвник для волосся "Лють"
+    Tooltip: ""
+}
+
+StealthHairDye: {
+    DisplayName: Барвник для волосся "Скритність"
+    Tooltip: ""
+}
+
+WingTimeHairDye: {
+    DisplayName: Барвник для волосся "Час крил"
+    Tooltip: ""
+}
+
+NecroplasmicDye: {
+    DisplayName: Некроплазмовий барвник
+    Tooltip: ""
+}
+
+NightmareDye: {
+    DisplayName: Кошмарний барвник
+    Tooltip: ""
+}
+
+PinkCosmicFlameDye: {
+    DisplayName: Рожевий космічний вогняний барвник
+    Tooltip: ""
+}
+
+PinkStatigelDye: {
+    DisplayName: Рожевий статігельний барвник
+    Tooltip: ""
+}
+
+ProfanedFlameDye: {
+    DisplayName: Осквернений вогняний барвник
+    Tooltip: ""
+}
+
+ProfanedMoonlightDye: {
+    DisplayName: Осквернений місячний барвник
+    Tooltip: ""
+}
+
+ReaverDye: {
+    DisplayName: Ріверський барвник
+    Tooltip: ""
+}
+
+ShadowspecDye: {
+    DisplayName: Тіньовий барвник
+    Tooltip: ""
+}
+
+SlimeGodDye: {
+    DisplayName: Барвник Бога Слизу
+    Tooltip: ""
+}
+
+StratusDye: {
+    DisplayName: Стратусний барвник
+    Tooltip: ""
+}
+
+SwirlingCosmicFlameDye: {
+    DisplayName: Завихрений космічний вогняний барвник
+    Tooltip: ""
+}

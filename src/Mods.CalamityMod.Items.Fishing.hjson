@@ -1,0 +1,353 @@
+// Quest fish tooltips
+CaughtInAstral: "'Спіймано в Астральному зараженні'"
+CaughtInBrimstoneCrag: "'Спіймано в Сірчаному урвищі'"
+CaughtInSunkenSea: "'Спіймано в Затонулому морі'"
+
+// Astral Infection Catches
+AldebaranAlewife: {
+    DisplayName: Альдебаранська алевіфа
+    Tooltip: Зіркова істота у формі риби
+}
+
+ArcturusAstroidean: {
+    DisplayName: Арктурський астроїдеан
+    Tooltip: Збільшує силу риболовлі при використанні в Астральному зараженні або Сірчаному морі
+}
+
+AstralCrate: {
+    DisplayName: Астральний ящик
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+AstrophageItem: {
+    DisplayName: Астрофаг
+    Tooltip: Викликає астрофага, який слідує за вами
+}
+
+MonolithCrate: {
+    DisplayName: Монолітний ящик
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+ProcyonidPrawn: {
+    DisplayName: Проціонідна креветка
+    Tooltip: ""
+}
+
+TwinklingPollox: {
+    DisplayName: Мерехтливий Поллокс
+    Tooltip: Луска блищить як кристали
+}
+
+UrsaSergeant: {
+    DisplayName: Сержант Урса
+    Tooltip:
+        '''
+        Швидкість руху зменшена на 15%
+        Імунітет до Астрального зараження та "Лютого укусу"
+        Підвищена регенерація при низькому здоров'ї
+        '''
+}
+
+// Brimstone Crag Catches
+Bloodfin: {
+    DisplayName: Кривавий плавник
+    Tooltip:
+        '''
+        Надає баф, що дає +2.5 ОЗ/с відновлення здоров'я
+        Цей баф напряму відновлює ОЗ, якщо здоров'я нижче 75%
+        Тривалість 10 секунд
+        'Дива ангіогенезу'
+        '''
+}
+
+Brimlish: {
+    DisplayName: Сірчаний лящ
+    QuestDescription: Коли ти переміг Елементаля Сірки, її діти впали в лаву після бою. Кажуть, вони мутували рибу, і я хотів би, щоб ти приніс одну для мого нового акваріума з лавою.
+}
+
+BrimstoneCrate: {
+    DisplayName: Сірчаний ящик
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CharredLasher: {
+    DisplayName: Обвуглений батіг
+    Tooltip: Ця невловима риба — цінний товар
+}
+
+CoastalDemonfish: {
+    DisplayName: Прибережна демон-риба
+    Tooltip: Роги накладають прокляття на тих, хто її торкається
+}
+
+CragBullhead: {
+    DisplayName: Урвищевий бичок
+    Tooltip: Його луска пекельно гаряча
+}
+
+DragoonDrizzlefish: {
+    DisplayName: Драконський дощовик
+    Tooltip: "[GFB]"
+    TooltipNormal:
+        '''
+        Стріляє різними вогняними кулями пекла та сірки
+        Іноді стріляє великою розщеплюючою кулею
+        Сірчаний мішок містить паливо
+        'Помста — страва, яку краще подавати гарячою'
+        '''
+    TooltipGFB:
+        '''
+        Стріляє різними вогняними кулями пекла та сірки
+        Іноді стріляє великою розщеплюючою кулею
+        Клацніть правою кнопкою, щоб нагодувати хлопчика смачним желе
+        'Він голодний хлопчик'
+        '''
+}
+
+Havocfish: {
+    DisplayName: Риба-хаос
+    Tooltip: Натисніть <right>, щоб витягти есенцію
+}
+
+Shadowfish: {
+    DisplayName: Тіньова риба
+    Tooltip: Темрява поширюється
+}
+
+SlagCrate: {
+    DisplayName: Шлаковий ящик
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+Slurpfish: {
+    DisplayName: Сльорп-риба
+    QuestDescription: Знаєш, це була б справжня катастрофа, якби я відправив тебе в стародавні руїни глибоко в пеклі ловити рибу. І я саме це й планую. Давай, риба сама себе не зловить.
+}
+
+// Sunken Sea Catches
+EutrophicCrate: {
+    DisplayName: Евтрофічний ящик
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+EutrophicSandfish: {
+    DisplayName: Евтрофічна піщана риба
+    QuestDescription: Ти коли-небудь бачив, що станеться, якщо ящірка з пустелі забереться занадто глибоко під землю? Я бачив, і це круто! Але вона надто слизька, щоб я міг її зловити. Принеси мені її, щоб я міг тримати як домашню тварину!
+}
+
+GreenwaveLoach: {
+    DisplayName: Зелена хвильова щука
+    Tooltip: Зникаючий вид, дуже цінний на ринку
+}
+
+PrismCrate: {
+    DisplayName: Призматичний ящик
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+PrismaticGuppy: {
+    DisplayName: Призматичний гуппі
+    Tooltip: Кидати їх в акваріум — це божевілля
+}
+
+RustedJingleBell: {
+    DisplayName: Іржавий дзвіночок
+    Tooltip:
+        '''
+        Викликає маленького світлячка-привида
+        Забезпечує помірне освітлення під водою
+        '''
+}
+
+SerpentsBite: {
+    DisplayName: Укус змія
+    Tooltip:
+        '''
+        Дальність: 28.125
+        Швидкість закидання: 18
+        Швидкість відкату: 14
+        Швидкість підтягування: 12
+        '''
+}
+
+Serpentuna: {
+    DisplayName: Серпентуна
+    QuestDescription: Морські змії гарні, але не такі гарні, як обличчя людини, яка знайде одну на своєму стільці. Мені потрібні реквізити для наступного великого розіграшу, а дедлайн — завтра.
+}
+
+SparklingEmpress: {
+    DisplayName: Іскриста імператриця
+    Tooltip:
+        '''
+        Стріляє концентрованим лазером для знищення ворогів
+        Переможені вороги вибухають на призматичні уламки
+        '''
+}
+
+SunkenSailfish: {
+    DisplayName: Затонулий парусник
+    Tooltip: Мчить зі швидкістю 60 миль на годину
+}
+
+SurfClam: {
+    DisplayName: Серф-мідія
+    QuestDescription: Чи знав ти, що мідії — делікатес? Кажуть, велика колонія живе під пустелею. Просто розповідь про них викликає в мене голод. Принеси мені одну, щоб я міг потренуватися у кулінарії та втамувати голод.
+}
+
+// Other Catches
+EnchantedStarfish: {
+    DisplayName: Зачарована морська зірка
+    Tooltip:
+        '''
+        {$ItemTooltip.ManaCrystal}
+        Використовується як альтернатива [i:ManaCrystal] {$ItemName.ManaCrystal}
+        '''
+}
+
+FishofEleum: {
+    DisplayName: Риба Елеуму
+    Tooltip: Натисніть <right>, щоб витягти есенцію
+}
+
+FishofFlight: {
+    DisplayName: Риба польоту
+    Tooltip: Натисніть <right>, щоб витягти душі
+}
+
+FishofLight: {
+    DisplayName: Риба світла
+    Tooltip: Натисніть <right>, щоб витягти душі
+}
+
+FishofNight: {
+    DisplayName: Риба ночі
+    Tooltip: Натисніть <right>, щоб витягти душі
+}
+
+GlimmeringGemfish: {
+    DisplayName: Мерехтлива самоцвітна риба
+    Tooltip: Натисніть <right>, щоб витягти самоцвіти
+}
+
+Gorecodile: {
+    DisplayName: Кровокодил
+    Tooltip: Натисніть <right>, щоб витягти криваві сфери
+}
+
+HydrothermalCrate: {
+    DisplayName: Гідротермальний ящик
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+Spadefish: {
+    DisplayName: Лопатна риба
+    Tooltip:
+        '''
+        'Як рибу можна використати для копання землі?
+        Деякі питання краще залишити без відповіді...'
+        '''
+}
+
+StuffedFish: {
+    DisplayName: Фарширована риба
+    Tooltip: Натисніть <right>, щоб витягти трави та насіння
+}
+
+SulphurousCrate: {
+    DisplayName: Сірчаний ящик
+    Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SunbeamFish: {
+    DisplayName: Сонячна риба
+    Tooltip: Натисніть <right>, щоб витягти есенцію
+}
+
+// Fishing Rods
+EarlyBloomRod: {
+    DisplayName: Вудка раннього цвітіння
+    Tooltip:
+        '''
+        Закидає шість жил одночасно. Жилка ніколи не рветься
+        'Хто рано встає, той рибу ловить'
+        '''
+}
+
+FeralDoubleRod: {
+    DisplayName: Дика подвійна вудка
+    Tooltip:
+        '''
+        Закидає дві жилки одночасно
+        Як ти приручив монстра джунглів, так можеш приручити і рибу в морі
+        '''
+}
+
+HeronRod: {
+    DisplayName: Вудка чаплі
+    Tooltip:
+        '''
+        Збільшує силу риболовлі в космосі
+        'Тихо голова і дзьоб опустилися вниз і схопили рибку за голову,
+        а дзьоб проковтнув рибку, поки хвіст метушився.'
+        '''
+}
+
+NavyFishingRod: {
+    DisplayName: Морська вудка
+    Tooltip:
+        '''
+        Поки тримаєш, повільно електризує навколишніх ворогів
+        'Море — це місто.
+        Під водою — шосе, бульвари, вулиці та кругові перехрестя, де кипить підводний рух.'
+        '''
+}
+
+RiftReeler: {
+    DisplayName: Рифтова вудка
+    Tooltip:
+        '''
+        Закидає від трьох до п'яти жилок одночасно
+        Може ловити рибу в лаві
+        'Поле бою — це сцена постійного хаосу.
+        Переможе той, хто контролює цей хаос, і вудку, і рибу.'
+        '''
+}
+
+SlurperPole: {
+    DisplayName: Вудка сльорпера
+    Tooltip:
+        '''
+        Може ловити рибу в лаві
+        'Палаюча лава душі має піч всередині — справжній вулкан горя і скорботи.'
+        '''
+}
+
+TheDevourerofCods: {
+    DisplayName: Пожирач тріски
+    Tooltip:
+        '''
+        Закидає десять жилок одночасно. Жилка ніколи не рветься і може ловити рибу з лави
+        'Пожирач колись був просто Пожирачем косяків'
+        '''
+}
+
+VerstaltiteFishingRod: {
+    DisplayName: Вудка з верстальтіту
+    Tooltip:
+        '''
+        Збільшує силу риболовлі в тундрі
+        Призматичні властивості стародавнього сплаву ідеально підходять для приманки риби
+        '''
+}
+
+WulfrumRod: {
+    DisplayName: Вульфрумова вудка
+    Tooltip: "'Працює ледве-ледве, але краще, ніж нічого...'"
+}
+
+// Bait
+GrandMarquisBait: {
+    DisplayName: Приманка Великого маркіза
+    Tooltip: ""
+}
