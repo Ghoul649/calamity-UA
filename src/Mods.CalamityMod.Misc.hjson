@@ -1,0 +1,59 @@
+// Recipe Groups
+RecipeGroup: {
+    HardmodeAnvil: Будь-яке Твердорежимне Ковадло
+    HardmodeForge: Будь-яка Твердорежимна Піч
+    AnyLargeGem: Будь-який Великий Самоцвіт
+    AnyFood: Будь-який Харчовий Предмет
+    AnyEvilBar: Будь-який Злий Злиток
+    AnyEvilPowder: Будь-який Злий Порошок
+    Boss2Material: Тіньова Луска або Зразок Тканини
+    CursedFlameIchor: Прокляте Полум'я або Іхор
+    AnyEvilWater: Будь-яка Зла Вода
+    AnyEvilFlask: Будь-яка Зла Колба
+    AnyEvilBlock: Будь-який Злий Блок
+    AnyGoodBlock: Будь-який Добрий Блок
+    LunarPickaxe: Будь-яка Місячна Кирка
+    LunarHamaxe: Будь-який Місячний Киркосокира
+    AnyQuiver: Будь-який Сагайдак
+    AnyWings: Будь-які Крила
+}
+
+// Status
+WikiStatus1: "[i:Book] [c/EE4939:Увага: Фандом вікі більше не підтримується Calamity.] [i:Book]"
+WikiStatus2: "[i:Book] [c/EE4939:Перегляньте Офіційну Calamity Mod Вікі за адресою ][c/3989FF:calamitymod.wiki.gg][c/EE4939:!] [i:Book]"
+GimmeSwagPlushieCampaign: "[i:GreenPresent] [c/3BE022:ТЕПЕР ДОСТУПНО! Плюшева іграшка Ярон!] [c/3989FF:calamitymod.com/plush] [i:GreenPresent]"
+// Recipe Conditions
+Tier1ArsenalRecipeCondition: Перегляньте незашифровану схему з лабораторії біля Затонулого Моря
+Tier2ArsenalRecipeCondition: Розшифруйте схему з лабораторії на великому планетоїді в небі
+Tier3ArsenalRecipeCondition: Розшифруйте схему з лабораторії глибоко в джунглях
+Tier4ArsenalRecipeCondition: Розшифруйте схему з лабораторії біля країв підземного світу
+Tier5ArsenalRecipeCondition: Розшифруйте схему з лабораторії глибоко в замерзлих печерах
+SunkenSeaSchematicRecipeCondition: Помістіть схему з лабораторії біля Затонулого Моря у свій інвентар хоча б один раз
+PlanetoidSchematicRecipeCondition: Помістіть схему з лабораторії на великому планетоїді у свій інвентар хоча б один раз
+JungleSchematicRecipeCondition: Помістіть схему з лабораторії глибоко в джунглях у свій інвентар хоча б один раз
+UnderworldSchematicRecipeCondition: Помістіть схему з лабораторії біля країв підземного світу у свій інвентар хоча б один раз
+IceSchematicRecipeCondition: Помістіть схему з лабораторії в замерзлих печерах у свій інвентар хоча б один раз
+// Other CombatText uses and Item Messages
+ShiftToExpand: Затисніть SHIFT, щоб побачити розширений опис
+LearnedSchematic: Ви навчилися створювати нові речі!
+CragmawVibeCheck: Перевірка вібрацій.
+AutocannonHot: ОЙ! ГАРЯЧЕ!
+NoComputer: Не встановлено комп'ютер для розшифровки
+ArkParry: Парірування!
+ClockworkTick: Тік
+ClockworkTock: Так
+SevensJackpot: Джекпот!!!
+SevensBust: Банкрутство!
+SevensDoubles: Дублі!
+SevensTriples: Триплі!
+StylishHammerHit: Стильно!
+GenericConsumedText: "[c/8A8A8A:Ви вже спожили цей предмет]"
+BloodOrangeText: Ви вже спожили Кривавий Апельсин. З'їжте ще, і ваша кров стане занадто густою, щоб текти.
+MiracleFruitText: Ви вже спожили Чудо-Плід. Знадобиться диво, щоб зібрати вас докупи, якщо з'їсте ще один.
+ElderberryText: Ви вже спожили Бузину. Ваше тіло перетвориться на пил, якщо з'їсте більше однієї.
+DragonfruitText: Ви вже спожили Драконовий Плід. Ще трохи драконячої сили — і вас відторгне.
+CometShardText: Ви вже використали Осколок Комети. Ваші нейрони помруть, якщо ви використаєте ще один.
+EtherealCoreText: Ви вже використали Ефірне Ядро. Ваш мозок вискочить із голови, якщо наважитеся використати його вдруге.
+PhantomHeartText: Ви вже використали Фантомне Серце. Голоси підказують, що використовувати його знову — погана ідея.
+SulphurSwitchLeft: Сірчане Море тепер знаходиться на лівому боці світу.
+SulphurSwitchRight: Сірчане Море тепер знаходиться на правому боці світу.
