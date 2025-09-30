@@ -1,0 +1,3579 @@
+FormattedBannerName: "{0} Банер"
+FormattedBannerTooltip: "{$CommonItemTooltip.BannerBonus}{0}"
+
+AstralPylon: {
+    DisplayName: Астральний пілон
+    Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+}
+
+CragsPylon: {
+    DisplayName: Пілон Скель
+    Tooltip:
+        '''
+        Телепортуйтеся до іншого пілона
+        Природа Скель дозволяє телепортуватися до цього пілона без присутності жителів поруч
+        Ви можете розмістити лише один кожного типу та лише у відповідному біомі
+        '''
+}
+
+SulphurPylon: {
+    DisplayName: Сірчаний пілон
+    Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+}
+
+SunkenPylon: {
+    DisplayName: Пілон Затонулого моря
+    Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+}
+
+AbyssGravel: {
+    DisplayName: Гравій Безодні
+    Tooltip: ""
+}
+
+Acidwood: {
+    DisplayName: Кислотна деревина
+    Tooltip: ""
+}
+
+AerialiteBrick: {
+    DisplayName: Аеріалітовий цегла
+    Tooltip: ""
+}
+
+AstralBrick: {
+    DisplayName: Астральний цегла
+    Tooltip: ""
+}
+
+AstralClay: {
+    DisplayName: Астральна глина
+    Tooltip: ""
+}
+
+AstralDirt: {
+    DisplayName: Астральний ґрунт
+    Tooltip: ""
+}
+
+AstralGrassSeeds: {
+    DisplayName: Насіння астральної трави
+    Tooltip: Засіває траву на астральному ґрунті
+}
+
+AstralIce: {
+    DisplayName: Астральний лід
+    Tooltip: ""
+}
+
+AstralMonolith: {
+    DisplayName: Астральний моноліт
+    Tooltip: ""
+}
+
+AstralSand: {
+    DisplayName: Астральний пісок
+    Tooltip: ""
+}
+
+AstralSandstone: {
+    DisplayName: Астральний пісковик
+    Tooltip: ""
+}
+
+AstralSnow: {
+    DisplayName: Астральний сніг
+    Tooltip: ""
+}
+
+AstralStone: {
+    DisplayName: Астральний камінь
+    Tooltip: ""
+}
+
+BrimstoneSlab: {
+    DisplayName: Плита з сірки
+    Tooltip: ""
+}
+
+BrimstoneSlag: {
+    DisplayName: Сірчаний шлак
+    Tooltip: ""
+}
+
+CelestialRemains: {
+    DisplayName: Небесні останки
+    Tooltip: ""
+}
+
+CinderBlossomSeeds: {
+    DisplayName: Насіння попелястого цвіту
+    Tooltip: Засіває попелясту траву на обвуглених рештках
+}
+
+CryonicBrick: {
+    DisplayName: Кріонітовий цегла
+    Tooltip: ""
+}
+
+AgedLaboratoryConsoleItem: {
+    DisplayName: Старий лабораторний пульт
+    Tooltip: ""
+}
+
+AgedLaboratoryContainmentBoxItem: {
+    DisplayName: Старий лабораторний контейнер
+    Tooltip: ""
+}
+
+AgedLaboratoryDisplayItem: {
+    DisplayName: Старий лабораторний дисплей
+    Tooltip: ""
+}
+
+AgedLaboratoryDoorItem: {
+    DisplayName: Старі лабораторні двері
+    Tooltip: ""
+}
+
+AgedLaboratoryElectricPanelItem: {
+    DisplayName: Старий лабораторний електропанель
+    Tooltip: ""
+}
+
+AgedLaboratoryScreenItem: {
+    DisplayName: Старий лабораторний екран
+    Tooltip: ""
+}
+
+AgedLaboratoryServerItem: {
+    DisplayName: Старий лабораторний сервер
+    Tooltip: ""
+}
+
+AgedLaboratoryTerminalItem: {
+    DisplayName: Старий лабораторний термінал
+    Tooltip: ""
+}
+
+AgedReinforcedCrateItem: {
+    DisplayName: Старий укріплений ящик
+    Tooltip: ""
+}
+
+AgedSecurityChest: {
+    DisplayName: Старий охоронний сундук
+    Tooltip: ""
+}
+
+ChargingStationItem: {
+    DisplayName: Зарядна станція
+    Tooltip:
+        '''
+        Заряджає предмети Арсеналу Драедона за допомогою енергетичних елементів
+        Покладіть предмет і елементи живлення у станцію для зарядки
+        '''
+}
+
+HazardChevronPanels: {
+    DisplayName: Панелі з небезпечним малюнком
+    Tooltip: ""
+}
+
+LabHologramProjectorItem: {
+    DisplayName: Лабораторний голографічний проектор
+    Tooltip: ""
+}
+
+LaboratoryConsoleItem: {
+    DisplayName: Лабораторний пульт
+    Tooltip: ""
+}
+
+LaboratoryContainmentBoxItem: {
+    DisplayName: Лабораторний контейнер
+    Tooltip: ""
+}
+
+LaboratoryDisplayItem: {
+    DisplayName: Лабораторний дисплей
+    Tooltip: ""
+}
+
+LaboratoryDoorItem: {
+    DisplayName: Лабораторні двері
+    Tooltip: ""
+}
+
+LaboratoryElectricPanelItem: {
+    DisplayName: Лабораторний електропанель
+    Tooltip: ""
+}
+
+LaboratoryPanels: {
+    DisplayName: Лабораторні панелі
+    Tooltip: ""
+}
+
+LaboratoryPipePlating: {
+    DisplayName: Лабораторна трубна обшивка
+    Tooltip: ""
+}
+
+LaboratoryPlating: {
+    DisplayName: Лабораторна обшивка
+    Tooltip: ""
+}
+
+LaboratoryScreenItem: {
+    DisplayName: Лабораторний екран
+    Tooltip: ""
+}
+
+LaboratoryServerItem: {
+    DisplayName: Лабораторний сервер
+    Tooltip: ""
+}
+
+LaboratoryShelf: {
+    DisplayName: Лабораторна полиця
+    Tooltip: ""
+}
+
+LaboratoryTerminalItem: {
+    DisplayName: Лабораторний термінал
+    Tooltip: ""
+}
+
+PowerCellFactoryItem: {
+    DisplayName: Фабрика енергетичних елементів
+    Tooltip:
+        '''
+        Виробляє елементи живлення Драедона з часом
+        Один елемент виробляється кожні 15 секунд
+        '''
+}
+
+ReinforcedCrateItem: {
+    DisplayName: Укріплений ящик
+    Tooltip: ""
+}
+
+RustedPipes: {
+    DisplayName: Іржаві труби
+    Tooltip: ""
+}
+
+RustedPlating: {
+    DisplayName: Іржава обшивка
+    Tooltip: ""
+}
+
+RustedShelf: {
+    DisplayName: Іржава полиця
+    Tooltip: ""
+}
+
+SecurityChest: {
+    DisplayName: Охоронний сундук
+    Tooltip: ""
+}
+
+EutrophicGlass: {
+    DisplayName: Евтрофічне скло
+    Tooltip: ""
+}
+
+EutrophicSand: {
+    DisplayName: Евтрофічний пісок
+    Tooltip: ""
+}
+
+HardenedEutrophicSand: {
+    DisplayName: Затверділий евтрофічний пісок
+    Tooltip: ""
+}
+
+AbyssTreasureChest: {
+    DisplayName: Древній скарбовий сундук
+    Tooltip: ""
+}
+
+AlgalPrismTorch: {
+    DisplayName: Водорослевий призматичний факел
+    Tooltip: Може бути розміщений у воді
+}
+
+AstralBeaconItem: {
+    DisplayName: Астральний маяк
+    Tooltip: Викликає Аструм Деус в обмін на особливі жертви
+}
+
+AstralChest: {
+    DisplayName: Астральний сундук
+    Tooltip: ""
+}
+
+AstralTorch: {
+    DisplayName: Астральний факел
+    Tooltip: ""
+}
+
+AuricToilet: {
+    DisplayName: Аурічний туалет
+    Tooltip:
+        '''
+        Цим користувалися боги
+        Сидіти на такому троні — ганьба для всіх
+        '''
+}
+
+BabyCannonballJellyfishBowl: {
+    DisplayName: Чаша з малим медузою-ядрометом
+    Tooltip: ""
+}
+
+BabyFlakCrabCage: {
+    DisplayName: Клітка з малим крабом-флак
+    Tooltip: ""
+}
+
+BabyGhostBellJar: {
+    DisplayName: Банка з малим привидом-дзвоном
+    Tooltip: ""
+}
+
+AquaticScourgeRelic: {
+    DisplayName: Реліквія Водяної Погибелі
+    Tooltip: Погляд на те, що могло бути...
+}
+
+AstrumAureusRelic: {
+    DisplayName: Реліквія Аструм Ауреус
+    Tooltip: ""
+}
+
+AstrumDeusRelic: {
+    DisplayName: Реліквія Аструм Деус
+    Tooltip: ""
+}
+
+BrimstoneElementalRelic: {
+    DisplayName: Реліквія Сірчаного Елементаля
+    Tooltip: Погляд на те, що могло бути...
+}
+
+CalamitasCloneRelic: {
+    DisplayName: Реліквія Клону Каламіти
+    Tooltip: ""
+}
+
+CalamitasRelic: {
+    DisplayName: Реліквія Каламіти
+    Tooltip: ""
+}
+
+CeaselessVoidRelic: {
+    DisplayName: Реліквія Безкінечної Порожнечі
+    Tooltip: Погляд на те, що могло бути...
+}
+
+CrabulonRelic: {
+    DisplayName: Реліквія Крабулона
+    Tooltip: ""
+}
+
+CragmawMireRelic: {
+    DisplayName: Реліквія Трясовини Кігтя
+    Tooltip: ""
+}
+
+CryogenRelic: {
+    DisplayName: Реліквія Кріогена
+    Tooltip: ""
+}
+
+DesertScourgeRelic: {
+    DisplayName: Реліквія Пустельної Погибелі
+    Tooltip: ""
+}
+
+DevourerOfGodsRelic: {
+    DisplayName: Реліквія Пожирача Богів
+    Tooltip: Погляд на те, що могло бути...
+}
+
+DraedonRelic: {
+    DisplayName: Реліквія Драедона
+    Tooltip: ""
+}
+
+DragonfollyRelic: {
+    DisplayName: Реліквія Драконфоллі
+    Tooltip: ""
+}
+
+GiantClamRelic: {
+    DisplayName: Реліквія Гігантської Мідії
+    Tooltip: ""
+}
+
+GreatSandSharkRelic: {
+    DisplayName: Реліквія Великої Піщаної Акули
+    Tooltip: ""
+}
+
+HiveMindRelic: {
+    DisplayName: Реліквія Розуму Вулика
+    Tooltip: ""
+}
+
+LeviathanAnahitaRelic: {
+    DisplayName: Реліквія Левіафана та Анахіти
+    Tooltip: ""
+}
+
+MaulerRelic: {
+    DisplayName: Реліквія Маулера
+    Tooltip: ""
+}
+
+NuclearTerrorRelic: {
+    DisplayName: Реліквія Ядерного Жаху
+    Tooltip: ""
+}
+
+OldDukeRelic: {
+    DisplayName: Реліквія Старого Герцога
+    Tooltip: ""
+}
+
+PerforatorsRelic: {
+    DisplayName: Реліквія Перфораторів
+    Tooltip: ""
+}
+
+PlaguebringerGoliathRelic: {
+    DisplayName: Реліквія Голіафа-Чумоноса
+    Tooltip: Погляд на те, що могло бути...
+}
+
+PolterghastRelic: {
+    DisplayName: Реліквія Полтергаста
+    Tooltip: Погляд на те, що могло бути...
+}
+
+ProfanedGuardiansRelic: {
+    DisplayName: Реліквія Осквернених Охоронців
+    Tooltip: ""
+}
+
+ProvidenceRelic: {
+    DisplayName: Реліквія Провіденції
+    Tooltip: ""
+}
+
+RavagerRelic: {
+    DisplayName: Реліквія Руйнівника
+    Tooltip: Погляд на те, що могло бути...
+}
+
+SignusRelic: {
+    DisplayName: Реліквія Сігнуса
+    Tooltip: Погляд на те, що буде...
+}
+
+SlimeGodRelic: {
+    DisplayName: Реліквія Бога Слизу
+    Tooltip: ""
+}
+
+StormWeaverRelic: {
+    DisplayName: Реліквія Ткачки Бурі
+    Tooltip: Погляд на те, що могло бути...
+}
+
+YharonRelic: {
+    DisplayName: Реліквія Ярона
+    Tooltip: Погляд на те, що буде...
+}
+
+ChaosCandle: {
+    DisplayName: Свічка Хаосу
+    Tooltip: Присутність цієї свічки сильно розлючує навколишніх ворогів
+}
+
+CorruptionEffigy: {
+    DisplayName: Ефігия Порчі
+    Tooltip:
+        '''
+        Коли розміщено, швидкість руху та шанс критичного удару гравців поруч збільшується на 10%
+        Гравці поруч також отримують зниження захисту на 5%
+        '''
+}
+
+AltarOfTheAccursedItem: {
+    DisplayName: Вівтар Проклятого
+    Tooltip:
+        '''
+        Принесіть Попіл Лиха на цей вівтар, щоб викликати Відьму
+        Це створить квадратну арену з блоків із вівтарем у центрі
+        Відьма лютує, якщо ви поза ареною
+        {$CommonItemTooltip.SpecialCrafting}
+        '''
+}
+
+AncientAltar: {
+    DisplayName: Древній вівтар
+    Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+AshenAltar: {
+    DisplayName: Попелястий вівтар
+    Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+BotanicPlanter: {
+    DisplayName: Ботанічний горщик
+    Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+CosmicAnvilItem: {
+    DisplayName: Космічна ковадла
+    Tooltip:
+        '''
+        Іншосвітня ковадла, здатна витримати тиск зоряного колапсу
+        Також працює як усі попередні рівні ковадл
+        '''
+}
+
+DraedonsForge: {
+    DisplayName: Кузня Драедона
+    Tooltip:
+        '''
+        Плазмова нанокузня, живиться безмежною енергією Екзо
+        Виконує функції всіх основних верстатів одночасно
+        '''
+}
+
+EffulgentManipulator: {
+    DisplayName: Сяючий маніпулятор
+    Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+EutrophicShelf: {
+    DisplayName: Евтрофічна полиця
+    Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+MonolithAmalgam: {
+    DisplayName: Амальгама моноліту
+    Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+PlagueInfuser: {
+    DisplayName: Чумний інфузор
+    Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+ProfanedCrucible: {
+    DisplayName: Осквернений тигель
+    Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+StaticRefiner: {
+    DisplayName: Статичний рафінер
+    Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+VoidCondenser: {
+    DisplayName: Конденсатор Порожнечі
+    Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+WulfrumLabstationItem: {
+    DisplayName: Вульфрумова лабораторія
+    Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+CrimsonEffigy: {
+    DisplayName: Ефігия Кривавої
+    Tooltip:
+        '''
+        Коли розміщено, гравці поруч отримують +15% до урону та +10 до захисту
+        Гравці поруч також отримують зниження максимального здоров'я на 10%
+        '''
+}
+
+ThankYouPainting: {
+    DisplayName: Дякую
+    Tooltip:
+        '''
+        Дякуємо всій команді, кожному, хто підтримував, і всім, хто грає в мод і підтримує його!
+        Розміри цієї картини недостатні, щоб вмістити всю команду
+        Утримуйте SHIFT, щоб побачити список минулих і поточних розробників
+        '''
+}
+
+EffigyOfDecay: {
+    DisplayName: Ефігия Розпаду
+    Tooltip:
+        '''
+        Коли розміщено, гравці поруч можуть дихати під водою
+        Цей ефект не працює в Безодні
+        Гравці поруч також імунні до сірчаного отруєння
+        '''
+}
+
+AbyssFountainItem: {
+    DisplayName: Фонтан Безодні
+    Tooltip: ""
+}
+
+AstralFountainItem: {
+    DisplayName: Астральний фонтан
+    Tooltip: ""
+}
+
+BrimstoneLavaFountainItem: {
+    DisplayName: Сірчаний лавовий фонтан
+    Tooltip: ""
+}
+
+SulphurousFountainItem: {
+    DisplayName: Сірчаний водяний фонтан
+    Tooltip: ""
+}
+
+SunkenSeaFountain: {
+    DisplayName: Фонтан Затонулого моря
+    Tooltip: ""
+}
+
+GloomTorch: {
+    DisplayName: Факел мороку
+    Tooltip: ""
+}
+
+LanternCenter: {
+    DisplayName: Центр ліхтарів
+    Tooltip: Освітлює нічне небо святковими ліхтарями
+}
+
+AstralProjector: {
+    DisplayName: Астральний проектор
+    Tooltip: "'Керуйте невеликою частиною впливу Астральної Інфекції.'"
+}
+
+BlueDistortedMonolith: {
+    DisplayName: Синій спотворений моноліт
+    Tooltip: "'Створює локалізований розрив у тканині реальності.'"
+}
+
+BossRushMonolith: {
+    DisplayName: Моноліт Боса-Рашу
+    Tooltip: "'Приведіть кінець.'"
+}
+
+DeepSeaAnchor: {
+    DisplayName: Якір глибокого моря
+    Tooltip: "'Насичує повітря великою кількістю солі.'"
+}
+
+DraconicIncense: {
+    DisplayName: Драконічний ладан
+    Tooltip: "'Запалює повітря драконячим полум'ям.'"
+}
+
+ExoObelisk: {
+    DisplayName: Екзо-обеліск
+    Tooltip: "'Насичує атмосферу екзо-енергією.'"
+}
+
+FrigidMonolith: {
+    DisplayName: Крижаний моноліт
+    Tooltip: "'Зачаровує небо морозними аврорами.'"
+}
+
+PlagueHumidifier: {
+    DisplayName: Чумний зволожувач
+    Tooltip: "'Поширює легкі сліди чуми у повітрі.'"
+}
+
+PurpleDistortedMonolith: {
+    DisplayName: Фіолетовий спотворений моноліт
+    Tooltip: "'Створює локалізований розрив у тканині реальності.'"
+}
+
+NavyPrismTorch: {
+    DisplayName: Синій призматичний факел
+    Tooltip: Може бути розміщений у воді
+}
+
+PiggyCage: {
+    DisplayName: Клітка для поросяти
+    Tooltip: ""
+}
+
+RefractivePrismTorch: {
+    DisplayName: Рефракційний призматичний факел
+    Tooltip: Може бути розміщений у воді
+}
+
+ResilientCandle: {
+    DisplayName: Стійка свічка
+    Tooltip:
+        '''
+        <right> при розміщенні дозволяє захисту блокувати на 10% більше урону
+        (60% у Класичному, 85% у Експертному, і 110% у Майстер-режимі)
+        Не може бути складено з іншими бафами свічок
+        'Ні дощ, ні вітер не загасить її невмирущого полум'я'
+        '''
+}
+
+RustyChest: {
+    DisplayName: Іржавий сундук
+    Tooltip: ""
+}
+
+SeaMinnowJar: {
+    DisplayName: Банка з морською міногою
+    Tooltip: ""
+}
+
+SpitefulCandle: {
+    DisplayName: Злопам'ятна свічка
+    Tooltip:
+        '''
+        <right> при розміщенні завдає 1.07x урону всім ворогам
+        Додатковий 0.07x урону ігнорує захист і зниження урону ворогів
+        Не може бути складено з іншими бафами свічок
+        'Її зловісне світло мерехтить злістю'
+        '''
+}
+
+SulphurousTorch: {
+    DisplayName: Сірчаний факел
+    Tooltip: Може бути розміщений у воді
+}
+
+ThaumaticChair: {
+    DisplayName: Тауматичний стілець
+    Tooltip: Одна з найкращих робіт Хлої
+}
+
+TranquilityCandle: {
+    DisplayName: Свічка спокою
+    Tooltip: Присутність цієї свічки сильно заспокоює навколишніх ворогів
+}
+
+AnahitaTrophy: {
+    DisplayName: Трофей Анахіти
+    Tooltip: ""
+}
+
+ApolloTrophy: {
+    DisplayName: Трофей Аполлона
+    Tooltip: ""
+}
+
+AquaticScourgeTrophy: {
+    DisplayName: Трофей Водяної Погибелі
+    Tooltip: ""
+}
+
+AresTrophy: {
+    DisplayName: Трофей Ареса
+    Tooltip: ""
+}
+
+ArtemisTrophy: {
+    DisplayName: Трофей Артеміди
+    Tooltip: ""
+}
+
+AstrumAureusTrophy: {
+    DisplayName: Трофей Аструм Ауреус
+    Tooltip: ""
+}
+
+AstrumDeusTrophy: {
+    DisplayName: Трофей Аструм Деус
+    Tooltip: ""
+}
+
+BrimstoneElementalTrophy: {
+    DisplayName: Трофей Сірчаного Елементаля
+    Tooltip: ""
+}
+
+CalamitasCloneTrophy: {
+    DisplayName: Трофей Клону Каламіти
+    Tooltip: ""
+}
+
+CataclysmTrophy: {
+    DisplayName: Трофей Катаклізмічного Конструкту
+    Tooltip: ""
+}
+
+CatastropheTrophy: {
+    DisplayName: Трофей Катастрофічного Конструкту
+    Tooltip: ""
+}
+
+CeaselessVoidTrophy: {
+    DisplayName: Трофей Безкінечної Порожнечі
+    Tooltip: ""
+}
+
+CrabulonTrophy: {
+    DisplayName: Трофей Крабулона
+    Tooltip: ""
+}
+
+CragmawMireTrophy: {
+    DisplayName: Трофей Трясовини Кігтя
+    Tooltip: ""
+}
+
+CryogenTrophy: {
+    DisplayName: Трофей Кріогена
+    Tooltip: ""
+}
+
+DesertScourgeTrophy: {
+    DisplayName: Трофей Пустельної Погибелі
+    Tooltip: ""
+}
+
+DevourerofGodsTrophy: {
+    DisplayName: Трофей Пожирача Богів
+    Tooltip: ""
+}
+
+DragonfollyTrophy: {
+    DisplayName: Трофей Драконфоллі
+    Tooltip: ""
+}
+
+GiantClamTrophy: {
+    DisplayName: Трофей Гігантської Мідії
+    Tooltip: ""
+}
+
+GreatSandSharkTrophy: {
+    DisplayName: Трофей Великої Піщаної Акули
+    Tooltip: ""
+}
+
+HiveMindTrophy: {
+    DisplayName: Трофей Розуму Вулика
+    Tooltip: ""
+}
+
+LeviathanTrophy: {
+    DisplayName: Трофей Левіафана
+    Tooltip: ""
+}
+
+MaulerTrophy: {
+    DisplayName: Трофей Маулера
+    Tooltip: ""
+}
+
+NuclearTerrorTrophy: {
+    DisplayName: Трофей Ядерного Жаху
+    Tooltip: ""
+}
+
+OldDukeTrophy: {
+    DisplayName: Трофей Старого Герцога
+    Tooltip: ""
+}
+
+PerforatorTrophy: {
+    DisplayName: Трофей Перфораторів
+    Tooltip: ""
+}
+
+PlaguebringerGoliathTrophy: {
+    DisplayName: Трофей Голіафа-Чумоноса
+    Tooltip: ""
+}
+
+PolterghastTrophy: {
+    DisplayName: Трофей Полтергаста
+    Tooltip: ""
+}
+
+ProfanedGuardianTrophy: {
+    DisplayName: Трофей Оскверненого Охоронця
+    Tooltip: ""
+}
+
+ProvidenceTrophy: {
+    DisplayName: Трофей Провіденції
+    Tooltip: ""
+}
+
+RavagerTrophy: {
+    DisplayName: Трофей Руйнівника
+    Tooltip: ""
+}
+
+SignusTrophy: {
+    DisplayName: Трофей Сігнуса
+    Tooltip: ""
+}
+
+SlimeGodTrophy: {
+    DisplayName: Трофей Бога Слизу
+    Tooltip: ""
+}
+
+SupremeCalamitasTrophy: {
+    DisplayName: Трофей Каламіти
+    Tooltip: ""
+}
+
+SupremeCataclysmTrophy: {
+    DisplayName: Трофей Верховного Катаклізму
+    Tooltip: ""
+}
+
+SupremeCatastropheTrophy: {
+    DisplayName: Трофей Верховної Катастрофи
+    Tooltip: ""
+}
+
+ThanatosTrophy: {
+    DisplayName: Трофей Танатоса
+    Tooltip: ""
+}
+
+WeaverTrophy: {
+    DisplayName: Трофей Ткачки Бурі
+    Tooltip: ""
+}
+
+YharonTrophy: {
+    DisplayName: Трофей Ярона
+    Tooltip: ""
+}
+
+TwinklerInABottle: {
+    DisplayName: Мерехтливе у пляшці
+    Tooltip: ""
+}
+
+VigorousCandle: {
+    DisplayName: Бадьора свічка
+    Tooltip:
+        '''
+        <right> при розміщенні відновлює 0.4% вашого максимального здоров'я за секунду
+        Це відновлення працює на повну навіть під час руху і ігнорує обмеження режиму Помсти
+        Не може бути складено з іншими бафами свічок
+        'Її яскраве світло наповнює надією всіх поруч'
+        '''
+}
+
+WeightlessCandle: {
+    DisplayName: Безвагова свічка
+    Tooltip:
+        '''
+        <right> при розміщенні дає 10% збільшення швидкості руху, часу польоту крил і прискорення
+        Не може бути складено з іншими бафами свічок
+        'Плаваюче полум'я ніби піднімає ваш дух'
+        '''
+}
+
+WulfrumLureItem: {
+    DisplayName: Вульфрумовий приманювач
+    Tooltip:
+        '''
+        Витрачає [i:CalamityMod/EnergyCore] енергетичні ядра для випромінювання сигналу, що приманює вульфрумових автоматонів
+        Сигнал триває 30 секунд
+        '''
+}
+
+AbyssBathtub: {
+    DisplayName: Ванна Безодні
+    Tooltip: ""
+}
+
+AbyssBed: {
+    DisplayName: Ліжко Безодні
+    Tooltip: ""
+}
+
+AbyssBookcase: {
+    DisplayName: Книжкова шафа Безодні
+    Tooltip: ""
+}
+
+AbyssCandelabra: {
+    DisplayName: Канделябр Безодні
+    Tooltip: ""
+}
+
+AbyssCandle: {
+    DisplayName: Свічка Безодні
+    Tooltip: ""
+}
+
+AbyssChair: {
+    DisplayName: Стілець Безодні
+    Tooltip: ""
+}
+
+AbyssChandelier: {
+    DisplayName: Люстра Безодні
+    Tooltip: ""
+}
+
+AbyssChest: {
+    DisplayName: Сундук Безодні
+    Tooltip: ""
+}
+
+AbyssClock: {
+    DisplayName: Годинник Безодні
+    Tooltip: ""
+}
+
+AbyssDoor: {
+    DisplayName: Двері Безодні
+    Tooltip: ""
+}
+
+AbyssDresser: {
+    DisplayName: Комод Безодні
+    Tooltip: ""
+}
+
+AbyssLamp: {
+    DisplayName: Лампа Безодні
+    Tooltip: ""
+}
+
+AbyssLantern: {
+    DisplayName: Ліхтар Безодні
+    Tooltip: ""
+}
+
+AbyssSink: {
+    DisplayName: Умивальник Безодні
+    Tooltip: Вважається джерелом води
+}
+
+AbyssSofa: {
+    DisplayName: Диван Безодні
+    Tooltip: ""
+}
+
+AbyssSynth: {
+    DisplayName: Синтезатор Безодні
+    Tooltip: ""
+}
+
+AbyssTable: {
+    DisplayName: Стіл Безодні
+    Tooltip: ""
+}
+
+AbyssTorch: {
+    DisplayName: Факел Безодні
+    Tooltip: Може бути розміщений у воді
+}
+
+AbyssWorkBench: {
+    DisplayName: Верстак Безодні
+    Tooltip: ""
+}
+
+SmoothAbyssGravel: {
+    DisplayName: Гладкий гравій Безодні
+    Tooltip: ""
+}
+
+SmoothAbyssGravelPlatform: {
+    DisplayName: Платформа з гладкого гравію Безодні
+    Tooltip: ""
+}
+
+AcidwoodBathtub: {
+    DisplayName: Ванна з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodBed: {
+    DisplayName: Ліжко з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodBench: {
+    DisplayName: Лавка з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodBookcase: {
+    DisplayName: Книжкова шафа з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodCandelabra: {
+    DisplayName: Канделябр з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodCandle: {
+    DisplayName: Свічка з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodChair: {
+    DisplayName: Стілець з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodChandelier: {
+    DisplayName: Люстра з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodChest: {
+    DisplayName: Сундук з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodClock: {
+    DisplayName: Годинник з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodDoor: {
+    DisplayName: Двері з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodDresser: {
+    DisplayName: Комод з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodLamp: {
+    DisplayName: Лампа з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodLantern: {
+    DisplayName: Ліхтар з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodPiano: {
+    DisplayName: Піаніно з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodPlatform: {
+    DisplayName: Платформа з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodSink: {
+    DisplayName: Умивальник з кислотної деревини
+    Tooltip: Вважається джерелом води
+}
+
+AcidwoodTable: {
+    DisplayName: Стіл з кислотної деревини
+    Tooltip: ""
+}
+
+AcidwoodWorkBench: {
+    DisplayName: Верстак з кислотної деревини
+    Tooltip: ""
+}
+
+AncientBasin: {
+    DisplayName: Древній таз
+    Tooltip: ""
+}
+
+AncientBathtub: {
+    DisplayName: Древня ванна
+    Tooltip: ""
+}
+
+AncientBed: {
+    DisplayName: Древнє ліжко
+    Tooltip: ""
+}
+
+AncientBookcase: {
+    DisplayName: Древня книжкова шафа
+    Tooltip: ""
+}
+
+AncientChair: {
+    DisplayName: Древній стілець
+    Tooltip: ""
+}
+
+AncientChandelier: {
+    DisplayName: Древня люстра
+    Tooltip: ""
+}
+
+AncientDoor: {
+    DisplayName: Древні двері
+    Tooltip: ""
+}
+
+AncientDresser: {
+    DisplayName: Древній комод
+    Tooltip: ""
+}
+
+AncientLamp: {
+    DisplayName: Древня лампа
+    Tooltip: ""
+}
+
+AncientLantern: {
+    DisplayName: Древній ліхтар
+    Tooltip: ""
+}
+
+AncientMonolith: {
+    DisplayName: Древній моноліт
+    Tooltip: ""
+}
+
+AncientPipeOrgan: {
+    DisplayName: Древній орган
+    Tooltip: ""
+}
+
+AncientSink: {
+    DisplayName: Древній умивальник
+    Tooltip: Вважається джерелом лави
+}
+
+AncientSofa: {
+    DisplayName: Древній диван
+    Tooltip: ""
+}
+
+AncientTable: {
+    DisplayName: Древній стіл
+    Tooltip: ""
+}
+
+AncientWorkBench: {
+    DisplayName: Древній верстак
+    Tooltip: ""
+}
+
+AshenAccentSlab: {
+    DisplayName: Попеляста акцентна плита
+    Tooltip:
+        '''
+        Варіант попелястої плити, який по-іншому з'єднується з сусідніми блоками
+        'Улюблений вибір досвідчених будівельників'
+        '''
+}
+
+AshenBasin: {
+    DisplayName: Попелястий таз
+    Tooltip: ""
+}
+
+AshenBathtub: {
+    DisplayName: Попеляста ванна
+    Tooltip: ""
+}
+
+AshenBed: {
+    DisplayName: Попелясте ліжко
+    Tooltip: ""
+}
+
+AshenBookcase: {
+    DisplayName: Попеляста книжкова шафа
+    Tooltip: ""
+}
+
+AshenCandelabra: {
+    DisplayName: Попелястий канделябр
+    Tooltip: ""
+}
+
+AshenCandle: {
+    DisplayName: Попеляста свічка
+    Tooltip: ""
+}
+
+AshenChair: {
+    DisplayName: Попелястий стілець
+    Tooltip: ""
+}
+
+AshenChandelier: {
+    DisplayName: Попеляста люстра
+    Tooltip: ""
+}
+
+AshenChest: {
+    DisplayName: Попелястий сундук
+    Tooltip: ""
+}
+
+AshenDoor: {
+    DisplayName: Попелясті двері
+    Tooltip: ""
+}
+
+AshenDresser: {
+    DisplayName: Попелястий комод
+    Tooltip: ""
+}
+
+AshenLamp: {
+    DisplayName: Попеляста лампа
+    Tooltip: ""
+}
+
+AshenLantern: {
+    DisplayName: Попелястий ліхтар
+    Tooltip: ""
+}
+
+AshenMonolith: {
+    DisplayName: Попелястий моноліт
+    Tooltip: ""
+}
+
+AshenPipeOrgan: {
+    DisplayName: Попелястий орган
+    Tooltip: ""
+}
+
+AshenPlatform: {
+    DisplayName: Попеляста платформа
+    Tooltip: ""
+}
+
+AshenSink: {
+    DisplayName: Попелястий умивальник
+    Tooltip: Вважається джерелом лави
+}
+
+AshenSlab: {
+    DisplayName: Попеляста плита
+    Tooltip: ""
+}
+
+AshenSofa: {
+    DisplayName: Попелястий диван
+    Tooltip: ""
+}
+
+AshenTable: {
+    DisplayName: Попелястий стіл
+    Tooltip: ""
+}
+
+AshenWorkBench: {
+    DisplayName: Попелястий верстак
+    Tooltip: ""
+}
+
+SmoothBrimstoneSlag: {
+    DisplayName: Гладкий сірчаний шлак
+    Tooltip: ""
+}
+
+ActivatedAuricPanel: {
+    DisplayName: Активована аурічна панель
+    Tooltip: ""
+}
+
+AuricAbsorber: {
+    DisplayName: Аурічний абсорбер
+    Tooltip: ""
+}
+
+AuricConsole: {
+    DisplayName: Аурічний пульт
+    Tooltip: ""
+}
+
+AuricDisplay: {
+    DisplayName: Аурічний дисплей
+    Tooltip: ""
+}
+
+AuricPanel: {
+    DisplayName: Аурічна панель
+    Tooltip: ""
+}
+
+AuricPlatform: {
+    DisplayName: Аурічна платформа
+    Tooltip: ""
+}
+
+AuricReinforcedCrate: {
+    DisplayName: Аурічний укріплений ящик
+    Tooltip: ""
+}
+
+AuricRepulserPanel: {
+    DisplayName: Аурічна відштовхуюча панель
+    Tooltip: Відштовхує гравців, які торкаються її
+}
+
+AuricScreen: {
+    DisplayName: Аурічний екран
+    Tooltip: ""
+}
+
+AuricServer: {
+    DisplayName: Аурічний сервер
+    Tooltip: ""
+}
+
+AuricTerminal: {
+    DisplayName: Аурічний термінал
+    Tooltip: ""
+}
+
+ExoAuricPanel: {
+    DisplayName: Екзо-аурічна панель
+    Tooltip: ""
+}
+
+BotanicBathtub: {
+    DisplayName: Ботанічна ванна
+    Tooltip: ""
+}
+
+BotanicBed: {
+    DisplayName: Ботанічне ліжко
+    Tooltip: ""
+}
+
+BotanicBench: {
+    DisplayName: Ботанічна лавка
+    Tooltip: ""
+}
+
+BotanicBookcase: {
+    DisplayName: Ботанічна книжкова шафа
+    Tooltip: ""
+}
+
+BotanicCandelabra: {
+    DisplayName: Ботанічний канделябр
+    Tooltip: ""
+}
+
+BotanicCandle: {
+    DisplayName: Ботанічна свічка
+    Tooltip: ""
+}
+
+BotanicChair: {
+    DisplayName: Ботанічний стілець
+    Tooltip: ""
+}
+
+BotanicChandelier: {
+    DisplayName: Ботанічна люстра
+    Tooltip: ""
+}
+
+BotanicChest: {
+    DisplayName: Ботанічний сундук
+    Tooltip: ""
+}
+
+BotanicClock: {
+    DisplayName: Ботанічний годинник
+    Tooltip: ""
+}
+
+BotanicDoor: {
+    DisplayName: Ботанічні двері
+    Tooltip: ""
+}
+
+BotanicDresser: {
+    DisplayName: Ботанічний комод
+    Tooltip: ""
+}
+
+BotanicLamp: {
+    DisplayName: Ботанічна лампа
+    Tooltip: ""
+}
+
+BotanicLantern: {
+    DisplayName: Ботанічний ліхтар
+    Tooltip: ""
+}
+
+BotanicPiano: {
+    DisplayName: Ботанічне піаніно
+    Tooltip: ""
+}
+
+BotanicPlatform: {
+    DisplayName: Ботанічна платформа
+    Tooltip: ""
+}
+
+BotanicSink: {
+    DisplayName: Ботанічний умивальник
+    Tooltip: Вважається джерелом меду
+}
+
+BotanicTable: {
+    DisplayName: Ботанічний стіл
+    Tooltip: ""
+}
+
+BotanicWorkBench: {
+    DisplayName: Ботанічний верстак
+    Tooltip: ""
+}
+
+CosmiliteBasin: {
+    DisplayName: Космілітовий таз
+    Tooltip: ""
+}
+
+CosmiliteBathtub: {
+    DisplayName: Космілітова ванна
+    Tooltip: ""
+}
+
+CosmiliteBed: {
+    DisplayName: Космілітове ліжко
+    Tooltip: ""
+}
+
+CosmiliteBookcase: {
+    DisplayName: Космілітова книжкова шафа
+    Tooltip: ""
+}
+
+CosmiliteBrick: {
+    DisplayName: Космілітовий цегла
+    Tooltip: ""
+}
+
+CosmiliteCandelabra: {
+    DisplayName: Космілітовий канделябр
+    Tooltip: ""
+}
+
+CosmiliteCandle: {
+    DisplayName: Космілітова свічка
+    Tooltip: ""
+}
+
+CosmiliteChair: {
+    DisplayName: Космілітовий стілець
+    Tooltip: ""
+}
+
+CosmiliteChandelier: {
+    DisplayName: Космілітова люстра
+    Tooltip: ""
+}
+
+CosmiliteChest: {
+    DisplayName: Космілітовий сундук
+    Tooltip: ""
+}
+
+CosmiliteClock: {
+    DisplayName: Космілітовий годинник
+    Tooltip: ""
+}
+
+CosmiliteDoor: {
+    DisplayName: Космілітові двері
+    Tooltip: ""
+}
+
+CosmiliteDresser: {
+    DisplayName: Космілітовий комод
+    Tooltip: ""
+}
+
+CosmiliteLamp: {
+    DisplayName: Космілітова лампа
+    Tooltip: ""
+}
+
+CosmiliteLantern: {
+    DisplayName: Космілітовий ліхтар
+    Tooltip: ""
+}
+
+CosmilitePiano: {
+    DisplayName: Космілітове піаніно
+    Tooltip: ""
+}
+
+CosmilitePlatform: {
+    DisplayName: Космілітова платформа
+    Tooltip: ""
+}
+
+CosmiliteSconce: {
+    DisplayName: Космілітовий бра
+    Tooltip: ""
+}
+
+CosmiliteSink: {
+    DisplayName: Космілітовий умивальник
+    Tooltip: Вважається джерелом води
+}
+
+CosmiliteSofa: {
+    DisplayName: Космілітовий диван
+    Tooltip: ""
+}
+
+CosmiliteTable: {
+    DisplayName: Космілітовий стіл
+    Tooltip: ""
+}
+
+CosmiliteWorkBench: {
+    DisplayName: Космілітовий верстак
+    Tooltip: ""
+}
+
+EutrophicBathtub: {
+    DisplayName: Евтрофічна ванна
+    Tooltip: ""
+}
+
+EutrophicBed: {
+    DisplayName: Евтрофічне ліжко
+    Tooltip: ""
+}
+
+EutrophicBench: {
+    DisplayName: Евтрофічна лавка
+    Tooltip: ""
+}
+
+EutrophicBookcase: {
+    DisplayName: Евтрофічна книжкова шафа
+    Tooltip: ""
+}
+
+EutrophicCandelabra: {
+    DisplayName: Евтрофічний канделябр
+    Tooltip: ""
+}
+
+EutrophicCandle: {
+    DisplayName: Евтрофічна свічка
+    Tooltip: ""
+}
+
+EutrophicChair: {
+    DisplayName: Евтрофічний стілець
+    Tooltip: ""
+}
+
+EutrophicChandelier: {
+    DisplayName: Евтрофічна люстра
+    Tooltip: ""
+}
+
+EutrophicChest: {
+    DisplayName: Евтрофічний сундук
+    Tooltip: ""
+}
+
+EutrophicClock: {
+    DisplayName: Евтрофічний годинник
+    Tooltip: ""
+}
+
+EutrophicDoor: {
+    DisplayName: Евтрофічні двері
+    Tooltip: ""
+}
+
+EutrophicDresser: {
+    DisplayName: Евтрофічний комод
+    Tooltip: ""
+}
+
+EutrophicLamp: {
+    DisplayName: Евтрофічна лампа
+    Tooltip: ""
+}
+
+EutrophicLantern: {
+    DisplayName: Евтрофічний ліхтар
+    Tooltip: ""
+}
+
+EutrophicPiano: {
+    DisplayName: Евтрофічне піаніно
+    Tooltip: ""
+}
+
+EutrophicPlatform: {
+    DisplayName: Евтрофічна платформа
+    Tooltip: ""
+}
+
+EutrophicSink: {
+    DisplayName: Евтрофічний умивальник
+    Tooltip: Вважається джерелом води
+}
+
+EutrophicTable: {
+    DisplayName: Евтрофічний стіл
+    Tooltip: ""
+}
+
+EutrophicWorkBench: {
+    DisplayName: Евтрофічний верстак
+    Tooltip: ""
+}
+
+SmoothNavystone: {
+    DisplayName: Гладкий навістоун
+    Tooltip: ""
+}
+
+ExoBathtub: {
+    DisplayName: Екзо-ванна
+    Tooltip: ""
+}
+
+ExoBed: {
+    DisplayName: Екзо-ліжко
+    Tooltip: ""
+}
+
+ExoBookcase: {
+    DisplayName: Екзо-книжкова шафа
+    Tooltip: ""
+}
+
+ExoCandelabra: {
+    DisplayName: Екзо-канделябр
+    Tooltip: ""
+}
+
+ExoCandle: {
+    DisplayName: Екзо-свічка
+    Tooltip: ""
+}
+
+ExoChair: {
+    DisplayName: Екзо-стілець
+    Tooltip: ""
+}
+
+ExoChandelier: {
+    DisplayName: Екзо-люстра
+    Tooltip: ""
+}
+
+ExoChest: {
+    DisplayName: Екзо-скриня
+    Tooltip: ""
+}
+
+ExoClock: {
+    DisplayName: Екзо-годинник
+    Tooltip: ""
+}
+
+ExoConsole: {
+    DisplayName: Екзо-пульт
+    Tooltip: ""
+}
+
+ExoDisplay: {
+    DisplayName: Екзо-дисплей
+    Tooltip: ""
+}
+
+ExoDoor: {
+    DisplayName: Екзо-двері
+    Tooltip: ""
+}
+
+ExoDresser: {
+    DisplayName: Екзо-комод
+    Tooltip: ""
+}
+
+ExoKeyboard: {
+    DisplayName: Екзо-клавіатура
+    Tooltip: ""
+}
+
+ExoLamp: {
+    DisplayName: Екзо-лампа
+    Tooltip: ""
+}
+
+ExoLantern: {
+    DisplayName: Екзо-ліхтар
+    Tooltip: ""
+}
+
+ExoPlatform: {
+    DisplayName: Екзо-платформа
+    Tooltip: ""
+}
+
+ExoPlating: {
+    DisplayName: Екзо-обшивка
+    Tooltip: ""
+}
+
+ExoPrismPanel: {
+    DisplayName: Екзо-призматична панель
+    Tooltip: ""
+}
+
+ExoPrismPlatform: {
+    DisplayName: Екзо-призматична платформа
+    Tooltip: ""
+}
+
+ExoScreen: {
+    DisplayName: Екзо-екран
+    Tooltip: ""
+}
+
+ExoServer: {
+    DisplayName: Екзо-сервер
+    Tooltip: ""
+}
+
+ExoSink: {
+    DisplayName: Екзо-умивальник
+    Tooltip: Вважається джерелом води, меду та лави
+}
+
+ExoSofa: {
+    DisplayName: Екзо-диван
+    Tooltip: ""
+}
+
+ExoTable: {
+    DisplayName: Екзо-стіл
+    Tooltip: ""
+}
+
+ExoTerminal: {
+    DisplayName: Екзо-термінал
+    Tooltip: ""
+}
+
+ExoToilet: {
+    DisplayName: Екзо-туалет
+    Tooltip: ""
+}
+
+ExoWorkBench: {
+    DisplayName: Екзо-верстак
+    Tooltip: ""
+}
+
+MonolithBathtub: {
+    DisplayName: Монолітна ванна
+    Tooltip: ""
+}
+
+MonolithBed: {
+    DisplayName: Монолітне ліжко
+    Tooltip: ""
+}
+
+MonolithBench: {
+    DisplayName: Монолітна лавка
+    Tooltip: ""
+}
+
+MonolithBookcase: {
+    DisplayName: Монолітна книжкова шафа
+    Tooltip: ""
+}
+
+MonolithCandelabra: {
+    DisplayName: Монолітний канделябр
+    Tooltip: ""
+}
+
+MonolithCandle: {
+    DisplayName: Монолітна свічка
+    Tooltip: ""
+}
+
+MonolithChair: {
+    DisplayName: Монолітний стілець
+    Tooltip: ""
+}
+
+MonolithChandelier: {
+    DisplayName: Монолітна люстра
+    Tooltip: ""
+}
+
+MonolithChest: {
+    DisplayName: Монолітна скриня
+    Tooltip: ""
+}
+
+MonolithClock: {
+    DisplayName: Монолітний годинник
+    Tooltip: ""
+}
+
+MonolithDoor: {
+    DisplayName: Монолітні двері
+    Tooltip: ""
+}
+
+MonolithDresser: {
+    DisplayName: Монолітний комод
+    Tooltip: ""
+}
+
+MonolithLamp: {
+    DisplayName: Монолітна лампа
+    Tooltip: ""
+}
+
+MonolithLantern: {
+    DisplayName: Монолітний ліхтар
+    Tooltip: ""
+}
+
+MonolithPiano: {
+    DisplayName: Монолітне піаніно
+    Tooltip: ""
+}
+
+MonolithPlatform: {
+    DisplayName: Монолітна платформа
+    Tooltip: ""
+}
+
+MonolithSink: {
+    DisplayName: Монолітний умивальник
+    Tooltip: Вважається джерелом води
+}
+
+MonolithTable: {
+    DisplayName: Монолітний стіл
+    Tooltip: ""
+}
+
+MonolithWorkBench: {
+    DisplayName: Монолітний верстак
+    Tooltip: ""
+}
+
+OtherworldlyBathtub: {
+    DisplayName: Потойбічна ванна
+    Tooltip: ""
+}
+
+OtherworldlyBed: {
+    DisplayName: Потойбічне ліжко
+    Tooltip: ""
+}
+
+OtherworldlyBookcase: {
+    DisplayName: Потойбічна книжкова шафа
+    Tooltip: ""
+}
+
+OtherworldlyCandelabra: {
+    DisplayName: Потойбічний канделябр
+    Tooltip: ""
+}
+
+OtherworldlyCandle: {
+    DisplayName: Потойбічна свічка
+    Tooltip: ""
+}
+
+OtherworldlyChair: {
+    DisplayName: Потойбічний стілець
+    Tooltip: ""
+}
+
+OtherworldlyChandelier: {
+    DisplayName: Потойбічна люстра
+    Tooltip: ""
+}
+
+OtherworldlyChest: {
+    DisplayName: Потойбічна скриня
+    Tooltip: ""
+}
+
+OtherworldlyClock: {
+    DisplayName: Потойбічний годинник
+    Tooltip: ""
+}
+
+OtherworldlyDoor: {
+    DisplayName: Потойбічні двері
+    Tooltip: ""
+}
+
+OtherworldlyDresser: {
+    DisplayName: Потойбічний комод
+    Tooltip: ""
+}
+
+OtherworldlyLamp: {
+    DisplayName: Потойбічна лампа
+    Tooltip: ""
+}
+
+OtherworldlyLantern: {
+    DisplayName: Потойбічний ліхтар
+    Tooltip: ""
+}
+
+OtherworldlyPiano: {
+    DisplayName: Потойбічне піаніно
+    Tooltip: ""
+}
+
+OtherworldlyPlatform: {
+    DisplayName: Потойбічна платформа
+    Tooltip: ""
+}
+
+OtherworldlySink: {
+    DisplayName: Потойбічний умивальник
+    Tooltip: Вважається джерелом води
+}
+
+OtherworldlySofa: {
+    DisplayName: Потойбічний диван
+    Tooltip: ""
+}
+
+OtherworldlyStone: {
+    DisplayName: Потойбічний камінь
+    Tooltip: ""
+}
+
+OtherworldlyTable: {
+    DisplayName: Потойбічний стіл
+    Tooltip: ""
+}
+
+OtherworldlyWorkBench: {
+    DisplayName: Потойбічний верстак
+    Tooltip: ""
+}
+
+BrokenPlaguedBed: {
+    DisplayName: Зламане заражене "ліжко"
+    Tooltip: ""
+}
+
+PlaguedContainmentBrick: {
+    DisplayName: Цегла зараженого контейнера
+    Tooltip: ""
+}
+
+PlaguedPlateBathtub: {
+    DisplayName: Заражена ванна
+    Tooltip: ""
+}
+
+PlaguedPlateBed: {
+    DisplayName: Заражене "ліжко"
+    Tooltip: Вважається ліжком
+}
+
+PlaguedPlateBookcase: {
+    DisplayName: Заражена книжкова шафа
+    Tooltip: ""
+}
+
+PlaguedPlateCandelabra: {
+    DisplayName: Заражений канделябр
+    Tooltip: ""
+}
+
+PlaguedPlateCandle: {
+    DisplayName: Заражена свічка
+    Tooltip: ""
+}
+
+PlaguedPlateChair: {
+    DisplayName: Заражений стілець
+    Tooltip: ""
+}
+
+PlaguedPlateChandelier: {
+    DisplayName: Заражена люстра
+    Tooltip: ""
+}
+
+PlaguedPlateChest: {
+    DisplayName: Заражена скриня
+    Tooltip: ""
+}
+
+PlaguedPlateClock: {
+    DisplayName: Заражений годинник
+    Tooltip: ""
+}
+
+PlaguedPlateDoor: {
+    DisplayName: Заражені двері
+    Tooltip: ""
+}
+
+PlaguedPlateDresser: {
+    DisplayName: Заражений комод
+    Tooltip: ""
+}
+
+PlaguedPlateLamp: {
+    DisplayName: Заражена лампа
+    Tooltip: ""
+}
+
+PlaguedPlateLantern: {
+    DisplayName: Заражений ліхтар
+    Tooltip: ""
+}
+
+PlaguedPlatePiano: {
+    DisplayName: Заражене піаніно
+    Tooltip: ""
+}
+
+PlaguedPlatePlatform: {
+    DisplayName: Заражена полиця
+    Tooltip: ""
+}
+
+PlaguedPlateSink: {
+    DisplayName: Заражений умивальник
+    Tooltip: Вважається джерелом води
+}
+
+PlaguedPlateSofa: {
+    DisplayName: Заражений диван
+    Tooltip: ""
+}
+
+PlaguedPlateTable: {
+    DisplayName: Заражений стіл
+    Tooltip: ""
+}
+
+PlaguedWorkBench: {
+    DisplayName: Заражений верстак
+    Tooltip: ""
+}
+
+ProfanedBathtub: {
+    DisplayName: Осквернена ванна
+    Tooltip: ""
+}
+
+ProfanedBed: {
+    DisplayName: Осквернене ліжко
+    Tooltip: ""
+}
+
+ProfanedBench: {
+    DisplayName: Осквернена лавка
+    Tooltip: ""
+}
+
+ProfanedBookcase: {
+    DisplayName: Осквернена книжкова шафа
+    Tooltip: ""
+}
+
+ProfanedCandelabra: {
+    DisplayName: Осквернений канделябр
+    Tooltip: ""
+}
+
+ProfanedCandle: {
+    DisplayName: Осквернена свічка
+    Tooltip: ""
+}
+
+ProfanedChair: {
+    DisplayName: Осквернений стілець
+    Tooltip: ""
+}
+
+ProfanedChandelier: {
+    DisplayName: Осквернена люстра
+    Tooltip: ""
+}
+
+ProfanedChest: {
+    DisplayName: Осквернена скриня
+    Tooltip: ""
+}
+
+ProfanedClock: {
+    DisplayName: Осквернений годинник
+    Tooltip: ""
+}
+
+ProfanedCrystal: {
+    DisplayName: Осквернений кристал
+    Tooltip: ""
+}
+
+ProfanedDoor: {
+    DisplayName: Осквернені двері
+    Tooltip: ""
+}
+
+ProfanedDresser: {
+    DisplayName: Осквернений комод
+    Tooltip: ""
+}
+
+ProfanedLamp: {
+    DisplayName: Осквернена лампа
+    Tooltip: ""
+}
+
+ProfanedLantern: {
+    DisplayName: Осквернений ліхтар
+    Tooltip: ""
+}
+
+ProfanedPiano: {
+    DisplayName: Осквернене піаніно
+    Tooltip: ""
+}
+
+ProfanedPlatform: {
+    DisplayName: Осквернена платформа
+    Tooltip: ""
+}
+
+ProfanedRock: {
+    DisplayName: Осквернений камінь
+    Tooltip: ""
+}
+
+ProfanedSink: {
+    DisplayName: Осквернений умивальник
+    Tooltip: Вважається джерелом лави
+}
+
+ProfanedSlab: {
+    DisplayName: Осквернена плита
+    Tooltip: ""
+}
+
+ProfanedTable: {
+    DisplayName: Осквернений стіл
+    Tooltip: ""
+}
+
+ProfanedWorkBench: {
+    DisplayName: Осквернений верстак
+    Tooltip: ""
+}
+
+RunicProfanedBrick: {
+    DisplayName: Рунична осквернена цегла
+    Tooltip: ""
+}
+
+EyeOfTheAccursedBanner: {
+    DisplayName: Банер Ока Проклятого
+    Tooltip: ""
+}
+
+LargeRitualCandle: {
+    DisplayName: Велика ритуальна свічка
+    Tooltip: Натисніть <right>, щоб розмістити в іншому стилі
+}
+
+MonolithOfTheAccursed: {
+    DisplayName: Моноліт Проклятого
+    Tooltip:
+        '''
+        Нехай небо палає яскраво-червоним
+        Моноліт має два різних режими
+        '''
+}
+
+OccultBrickItem: {
+    DisplayName: Окультна цегла
+    Tooltip: ""
+}
+
+OccultLegionnaireBanner: {
+    DisplayName: Банер окультного легіонера
+    Tooltip: ""
+}
+
+OccultPlatformItem: {
+    DisplayName: Окультна платформа
+    Tooltip: ""
+}
+
+RitualCandle: {
+    DisplayName: Ритуальна свічка
+    Tooltip: Натисніть <right>, щоб розмістити в іншому стилі
+}
+
+SacrilegiousBathtub: {
+    DisplayName: Богохульна ванна
+    Tooltip: ""
+}
+
+SacrilegiousBed: {
+    DisplayName: Богохульне ліжко
+    Tooltip: ""
+}
+
+SacrilegiousBench: {
+    DisplayName: Богохульна лавка
+    Tooltip: ""
+}
+
+SacrilegiousBookcase: {
+    DisplayName: Богохульна книжкова шафа
+    Tooltip: ""
+}
+
+SacrilegiousCandelabra: {
+    DisplayName: Богохульний канделябр
+    Tooltip: ""
+}
+
+SacrilegiousCandle: {
+    DisplayName: Богохульна свічка
+    Tooltip: ""
+}
+
+SacrilegiousChair: {
+    DisplayName: Богохульний стілець
+    Tooltip: ""
+}
+
+SacrilegiousChandelier: {
+    DisplayName: Богохульна люстра
+    Tooltip: ""
+}
+
+SacrilegiousChest: {
+    DisplayName: Богохульна скриня
+    Tooltip: ""
+}
+
+SacrilegiousClock: {
+    DisplayName: Богохульний годинник
+    Tooltip: ""
+}
+
+SacrilegiousDoor: {
+    DisplayName: Богохульні двері
+    Tooltip: ""
+}
+
+SacrilegiousDresser: {
+    DisplayName: Богохульний комод
+    Tooltip: ""
+}
+
+SacrilegiousLamp: {
+    DisplayName: Богохульна лампа
+    Tooltip: ""
+}
+
+SacrilegiousLantern: {
+    DisplayName: Богохульний ліхтар
+    Tooltip: ""
+}
+
+SacrilegiousOrgan: {
+    DisplayName: Богохульний орган
+    Tooltip: ""
+}
+
+SacrilegiousSink: {
+    DisplayName: Богохульний умивальник
+    Tooltip: Вважається джерелом води, меду та лави
+}
+
+SacrilegiousTable: {
+    DisplayName: Богохульний стіл
+    Tooltip: ""
+}
+
+SacrilegiousWorkBench: {
+    DisplayName: Богохульний верстак
+    Tooltip: ""
+}
+
+SilvaBathtub: {
+    DisplayName: Сільва ванна
+    Tooltip: ""
+}
+
+SilvaBed: {
+    DisplayName: Сільва ліжко
+    Tooltip: ""
+}
+
+SilvaBench: {
+    DisplayName: Сільва лавка
+    Tooltip: ""
+}
+
+SilvaBookcase: {
+    DisplayName: Сільва книжкова шафа
+    Tooltip: ""
+}
+
+SilvaCandelabra: {
+    DisplayName: Сільва канделябр
+    Tooltip: ""
+}
+
+SilvaCandle: {
+    DisplayName: Сільва свічка
+    Tooltip: ""
+}
+
+SilvaChair: {
+    DisplayName: Сільва стілець
+    Tooltip: ""
+}
+
+SilvaChandelier: {
+    DisplayName: Сільва люстра
+    Tooltip: ""
+}
+
+SilvaChest: {
+    DisplayName: Сільва скриня
+    Tooltip: ""
+}
+
+SilvaClock: {
+    DisplayName: Сільва годинник
+    Tooltip: ""
+}
+
+SilvaCrystal: {
+    DisplayName: Сільва кристал
+    Tooltip: ""
+}
+
+SilvaDoor: {
+    DisplayName: Сільва двері
+    Tooltip: ""
+}
+
+SilvaDresser: {
+    DisplayName: Сільва комод
+    Tooltip: ""
+}
+
+SilvaLamp: {
+    DisplayName: Сільва лампа
+    Tooltip: ""
+}
+
+SilvaLantern: {
+    DisplayName: Сільва ліхтар
+    Tooltip: ""
+}
+
+SilvaPiano: {
+    DisplayName: Сільва піаніно
+    Tooltip: ""
+}
+
+SilvaPlatform: {
+    DisplayName: Сільва платформа
+    Tooltip: ""
+}
+
+SilvaSink: {
+    DisplayName: Сільва умивальник
+    Tooltip: Вважається джерелом води
+}
+
+SilvaTable: {
+    DisplayName: Сільва стіл
+    Tooltip: ""
+}
+
+SilvaWorkBench: {
+    DisplayName: Сільва верстак
+    Tooltip: ""
+}
+
+StatigelBathtub: {
+    DisplayName: Статигел ванна
+    Tooltip: ""
+}
+
+StatigelBed: {
+    DisplayName: Статигел ліжко
+    Tooltip: ""
+}
+
+StatigelBlock: {
+    DisplayName: Статигел блок
+    Tooltip: ""
+}
+
+StatigelBookcase: {
+    DisplayName: Статигел книжкова шафа
+    Tooltip: ""
+}
+
+StatigelCandelabra: {
+    DisplayName: Статигел канделябр
+    Tooltip: ""
+}
+
+StatigelCandle: {
+    DisplayName: Статигел свічка
+    Tooltip: ""
+}
+
+StatigelChair: {
+    DisplayName: Статигел стілець
+    Tooltip: ""
+}
+
+StatigelChandelier: {
+    DisplayName: Статигел люстра
+    Tooltip: ""
+}
+
+StatigelChest: {
+    DisplayName: Статигел скриня
+    Tooltip: ""
+}
+
+StatigelClock: {
+    DisplayName: Статигел годинник
+    Tooltip: ""
+}
+
+StatigelDoor: {
+    DisplayName: Статигел двері
+    Tooltip: ""
+}
+
+StatigelDresser: {
+    DisplayName: Статигел комод
+    Tooltip: ""
+}
+
+StatigelLamp: {
+    DisplayName: Статигел лампа
+    Tooltip: ""
+}
+
+StatigelLantern: {
+    DisplayName: Статигел ліхтар
+    Tooltip: ""
+}
+
+StatigelPiano: {
+    DisplayName: Статигел піаніно
+    Tooltip: ""
+}
+
+StatigelPlatform: {
+    DisplayName: Статигел платформа
+    Tooltip: ""
+}
+
+StatigelSink: {
+    DisplayName: Статигел умивальник
+    Tooltip: Вважається джерелом води
+}
+
+StatigelSofa: {
+    DisplayName: Статигел диван
+    Tooltip: ""
+}
+
+StatigelTable: {
+    DisplayName: Статигел стіл
+    Tooltip: ""
+}
+
+StatigelWorkBench: {
+    DisplayName: Статигел верстак
+    Tooltip: ""
+}
+
+StratusBathtub: {
+    DisplayName: Стратус ванна
+    Tooltip: ""
+}
+
+StratusBed: {
+    DisplayName: Стратус ліжко
+    Tooltip: ""
+}
+
+StratusBookcase: {
+    DisplayName: Стратус книжкова шафа
+    Tooltip: ""
+}
+
+StratusBricks: {
+    DisplayName: Стратус цегла
+    Tooltip: ""
+}
+
+StratusCandelabra: {
+    DisplayName: Стратус канделябр
+    Tooltip: ""
+}
+
+StratusCandle: {
+    DisplayName: Стратус свічка
+    Tooltip: ""
+}
+
+StratusChair: {
+    DisplayName: Стратус стілець
+    Tooltip: ""
+}
+
+StratusChandelier: {
+    DisplayName: Стратус люстра
+    Tooltip: ""
+}
+
+StratusChest: {
+    DisplayName: Стратус скриня
+    Tooltip: ""
+}
+
+StratusClock: {
+    DisplayName: Стратус годинник
+    Tooltip: ""
+}
+
+StratusDoor: {
+    DisplayName: Стратус двері
+    Tooltip: ""
+}
+
+StratusDresser: {
+    DisplayName: Стратус комод
+    Tooltip: ""
+}
+
+StratusLamp: {
+    DisplayName: Стратус лампа
+    Tooltip: ""
+}
+
+StratusLantern: {
+    DisplayName: Стратус ліхтар
+    Tooltip: ""
+}
+
+StratusPiano: {
+    DisplayName: Стратус піаніно
+    Tooltip: ""
+}
+
+StratusPlatform: {
+    DisplayName: Стратус платформа
+    Tooltip: ""
+}
+
+StratusSink: {
+    DisplayName: Стратус умивальник
+    Tooltip: Вважається джерелом води
+}
+
+StratusSofa: {
+    DisplayName: Стратус диван
+    Tooltip: ""
+}
+
+StratusStarPlatformItem: {
+    DisplayName: Стратус зоряна платформа
+    Tooltip: ""
+}
+
+StratusTable: {
+    DisplayName: Стратус стіл
+    Tooltip: ""
+}
+
+StratusWorkBench: {
+    DisplayName: Стратус верстак
+    Tooltip: ""
+}
+
+SmoothVoidstone: {
+    DisplayName: Гладкий войдстоун
+    Tooltip: ""
+}
+
+SmoothVoidstonePlatform: {
+    DisplayName: Платформа з гладкого войдстоуну
+    Tooltip: ""
+}
+
+VoidBathtub: {
+    DisplayName: Войдова ванна
+    Tooltip: ""
+}
+
+VoidBed: {
+    DisplayName: Войдове ліжко
+    Tooltip: ""
+}
+
+VoidBookcase: {
+    DisplayName: Войдова книжкова шафа
+    Tooltip: ""
+}
+
+VoidCandelabra: {
+    DisplayName: Войдовий канделябр
+    Tooltip: ""
+}
+
+VoidCandle: {
+    DisplayName: Войдова свічка
+    Tooltip: ""
+}
+
+VoidChair: {
+    DisplayName: Войдовий стілець
+    Tooltip: ""
+}
+
+VoidChandelier: {
+    DisplayName: Войдова люстра
+    Tooltip: ""
+}
+
+VoidChest: {
+    DisplayName: Войдова скриня
+    Tooltip: ""
+}
+
+VoidDoor: {
+    DisplayName: Войдові двері
+    Tooltip: ""
+}
+
+VoidDresser: {
+    DisplayName: Войдовий комод
+    Tooltip: ""
+}
+
+VoidLamp: {
+    DisplayName: Войдова лампа
+    Tooltip: ""
+}
+
+VoidLantern: {
+    DisplayName: Войдовий ліхтар
+    Tooltip: ""
+}
+
+VoidObelisk: {
+    DisplayName: Войдовий обеліск
+    Tooltip: ""
+}
+
+VoidPiano: {
+    DisplayName: Войдове піаніно
+    Tooltip: ""
+}
+
+VoidSink: {
+    DisplayName: Войдовий умивальник
+    Tooltip: Вважається джерелом води
+}
+
+VoidSofa: {
+    DisplayName: Войдовий диван
+    Tooltip: ""
+}
+
+VoidstoneSlab: {
+    DisplayName: Плита з войдстоуну
+    Tooltip: ""
+}
+
+VoidTable: {
+    DisplayName: Войдовий стіл
+    Tooltip: ""
+}
+
+VoidWorkBench: {
+    DisplayName: Войдовий верстак
+    Tooltip: ""
+}
+
+WulfrumBathtub: {
+    DisplayName: Вульфрумова ванна
+    Tooltip: ""
+}
+
+WulfrumBed: {
+    DisplayName: Вульфрумове ліжко
+    Tooltip: ""
+}
+
+WulfrumBookcase: {
+    DisplayName: Вульфрумова книжкова шафа
+    Tooltip: ""
+}
+
+WulfrumCandelabra: {
+    DisplayName: Вульфрумовий канделябр
+    Tooltip: ""
+}
+
+WulfrumCandle: {
+    DisplayName: Вульфрумова свічка
+    Tooltip: ""
+}
+
+WulfrumChair: {
+    DisplayName: Вульфрумовий стілець
+    Tooltip: ""
+}
+
+WulfrumChandelier: {
+    DisplayName: Вульфрумова люстра
+    Tooltip: ""
+}
+
+WulfrumClock: {
+    DisplayName: Вульфрумовий годинник
+    Tooltip: ""
+}
+
+WulfrumDresser: {
+    DisplayName: Вульфрумовий комод
+    Tooltip: ""
+}
+
+WulfrumLamp: {
+    DisplayName: Вульфрумова лампа
+    Tooltip: ""
+}
+
+WulfrumLantern: {
+    DisplayName: Вульфрумовий ліхтар
+    Tooltip: ""
+}
+
+WulfrumPiano: {
+    DisplayName: Вульфрумове піаніно
+    Tooltip: ""
+}
+
+WulfrumPlating: {
+    DisplayName: Вульфрумова обшивка
+    Tooltip: ""
+}
+
+WulfrumSink: {
+    DisplayName: Вульфрумовий умивальник
+    Tooltip: ""
+}
+
+WulfrumSofa: {
+    DisplayName: Вульфрумовий диван
+    Tooltip: ""
+}
+
+WulfrumTable: {
+    DisplayName: Вульфрумовий стіл
+    Tooltip: ""
+}
+
+WulfrumToilet: {
+    DisplayName: Вульфрумовий туалет
+    Tooltip: ""
+}
+
+WulfrumWorkBench: {
+    DisplayName: Вульфрумовий верстак
+    Tooltip: ""
+}
+
+HardenedAstralSand: {
+    DisplayName: Затверділий астральний пісок
+    Tooltip: ""
+}
+
+HardenedSulphurousSandstone: {
+    DisplayName: Затверділий сірчаний пісковик
+    Tooltip: ""
+}
+
+LivingBrimstoneFireBlock: {
+    DisplayName: Живий сірчаний вогняний блок
+    Tooltip: ""
+}
+
+LivingGodSlayerFireBlock: {
+    DisplayName: Живий вогняний блок Бога-Вбивці
+    Tooltip: ""
+}
+
+LivingHolyFireBlock: {
+    DisplayName: Живий святий вогняний блок
+    Tooltip: ""
+}
+
+DraedonExoSelectMusicBox: {
+    DisplayName: Музична скринька (Вибір Екзо-Меха)
+    Tooltip: Відтворює 'Signal Received' від CDMusic
+}
+
+DraedonTalkMusicBox: {
+    DisplayName: Музична скринька (Кодоруйнівник)
+    Tooltip: Відтворює варіант 'Signal Received' від CDMusic
+}
+
+Navystone: {
+    DisplayName: Навістоун
+    Tooltip: ""
+}
+
+NovaeSlag: {
+    DisplayName: Нове шлак
+    Tooltip: ""
+}
+
+AerialiteOre: {
+    DisplayName: Аеріалітовий рудник
+    Tooltip: ""
+}
+
+AerialiteOreDisenchanted: {
+    DisplayName: Розчаклований аеріалітовий рудник
+    Tooltip: ""
+}
+
+AstralOre: {
+    DisplayName: Астральний рудник
+    Tooltip: ""
+}
+
+AuricOre: {
+    DisplayName: Аурічний рудник
+    Tooltip: Наповнений давно втраченими драконічними енергіями
+}
+
+CryonicOre: {
+    DisplayName: Кріонітовий рудник
+    Tooltip: ""
+}
+
+ExodiumCluster: {
+    DisplayName: Ексодіумний кластер
+    Tooltip: Холодний кластер з великого невідомого
+}
+
+HallowedOre: {
+    DisplayName: Освячений рудник
+    Tooltip: ""
+}
+
+InfernalSuevite: {
+    DisplayName: Пекельний сувіт
+    Tooltip: ""
+}
+
+PerennialOre: {
+    DisplayName: Перенніальний рудник
+    Tooltip: ""
+}
+
+ScoriaOre: {
+    DisplayName: Скарієвий рудник
+    Tooltip: ""
+}
+
+UelibloomOre: {
+    DisplayName: Юеліблумовий рудник
+    Tooltip: ""
+}
+
+PerennialBrick: {
+    DisplayName: Перенніальна цегла
+    Tooltip: ""
+}
+
+PlantyMush: {
+    DisplayName: Рослинний гриб
+    Tooltip: ""
+}
+
+Cinderplate: {
+    DisplayName: Сіндерплейт
+    Tooltip: Він резонує з потойбічною енергією
+}
+
+Elumplate: {
+    DisplayName: Елюмплейт
+    Tooltip: Він резонує з потойбічною енергією
+}
+
+Havocplate: {
+    DisplayName: Хавокплейт
+    Tooltip: Він резонує з потойбічною енергією
+}
+
+Navyplate: {
+    DisplayName: Нейвіплейт
+    Tooltip: Він резонує з потойбічною енергією
+}
+
+Onyxplate: {
+    DisplayName: Оніксова плита
+    Tooltip: Він резонує з потойбічною енергією
+}
+
+Plagueplate: {
+    DisplayName: Чумна плита
+    Tooltip: Він резонує з потойбічною енергією
+}
+
+PrismShard: {
+    DisplayName: Призматичний уламок
+    Tooltip: Світиться яскравіше під водою
+}
+
+PyreMantle: {
+    DisplayName: Плащ багаття
+    Tooltip: ""
+}
+
+PyreMantleMolten: {
+    DisplayName: Розплавлений плащ багаття
+    Tooltip: ""
+}
+
+ScorchedBone: {
+    DisplayName: Обпалена кістка
+    Tooltip: ""
+}
+
+ScorchedRemains: {
+    DisplayName: Обпалені останки
+    Tooltip: ""
+}
+
+ScoriaBrick: {
+    DisplayName: Скарієва цегла
+    Tooltip: ""
+}
+
+SeaPrism: {
+    DisplayName: Морський призмат
+    Tooltip: ""
+}
+
+SeaPrismBrick: {
+    DisplayName: Морська призматична цегла
+    Tooltip: ""
+}
+
+SpineSapling: {
+    DisplayName: Малий хребет
+    Tooltip: Садить саджанці Гігантського Хребта на сірчаний шлак
+}
+
+SulphurousSand: {
+    DisplayName: Сірчаний пісок
+    Tooltip: ""
+}
+
+SulphurousSandstone: {
+    DisplayName: Сірчаний пісковик
+    Tooltip: ""
+}
+
+SulphurousShale: {
+    DisplayName: Сірчаний сланець
+    Tooltip: ""
+}
+
+UelibloomBrick: {
+    DisplayName: Юеліблумова цегла
+    Tooltip: ""
+}
+
+VernalSoil: {
+    DisplayName: Весняний ґрунт
+    Tooltip: ""
+}
+
+Voidstone: {
+    DisplayName: Ігор лох
+    Tooltip: ""
+}
+
+AbyssGravelWallItem: {
+    DisplayName: Гравієва стіна Безодні
+    Tooltip: ""
+}
+
+AcidwoodWallItem: {
+    DisplayName: Кислотнодеревна стіна
+    Tooltip: ""
+}
+
+AerialiteBrickWall: {
+    DisplayName: Цегляна стіна Аеріаліту
+    Tooltip: ""
+}
+
+AshenSlabWall: {
+    DisplayName: Попеляста плиткова стіна
+    Tooltip: ""
+}
+
+AstralBrickWall: {
+    DisplayName: Астральна цегляна стіна
+    Tooltip: ""
+}
+
+AstralDirtWall: {
+    DisplayName: Астральна земляна стіна
+    Tooltip: ""
+}
+
+AstralGrassWall: {
+    DisplayName: Астральна трав'яна стіна
+    Tooltip: ""
+}
+
+AstralIceWall: {
+    DisplayName: Астральна крижана стіна
+    Tooltip: ""
+}
+
+AstralMonolithWall: {
+    DisplayName: Астральна монолітна стіна
+    Tooltip: ""
+}
+
+AstralSandstoneWall: {
+    DisplayName: Астральна пісковикова стіна
+    Tooltip: ""
+}
+
+AstralSnowWall: {
+    DisplayName: Астральна снігова стіна
+    Tooltip: ""
+}
+
+AstralStoneWall: {
+    DisplayName: Астральна кам'яна стіна
+    Tooltip: ""
+}
+
+BrimstoneSlabWall: {
+    DisplayName: Плиткова стіна сірки
+    Tooltip: ""
+}
+
+BrimstoneSlagWall: {
+    DisplayName: Шлакова стіна сірки
+    Tooltip: ""
+}
+
+CelestialRemainsWall: {
+    DisplayName: Стінка небесних останків
+    Tooltip: ""
+}
+
+CinderplateWall: {
+    DisplayName: Стінка зола-плити
+    Tooltip: ""
+}
+
+CosmiliteBrickWall: {
+    DisplayName: Космілітова цегляна стіна
+    Tooltip: ""
+}
+
+CryonicBrickWall: {
+    DisplayName: Кріонітова цегляна стіна
+    Tooltip: ""
+}
+
+HazardChevronWall: {
+    DisplayName: Стіна з небезпечним шевроном
+    Tooltip: ""
+}
+
+LaboratoryPanelWall: {
+    DisplayName: Панельна стіна лабораторії
+    Tooltip: ""
+}
+
+LaboratoryPlateBeam: {
+    DisplayName: Балкова плита лабораторії
+    Tooltip: ""
+}
+
+LaboratoryPlatePillar: {
+    DisplayName: Колонна плита лабораторії
+    Tooltip: ""
+}
+
+LaboratoryPlatingWall: {
+    DisplayName: Стінка лабораторного покриття
+    Tooltip: ""
+}
+
+RustedPlateBeam: {
+    DisplayName: Іржава балкова плита
+    Tooltip: ""
+}
+
+RustedPlatePillar: {
+    DisplayName: Іржава колонна плита
+    Tooltip: ""
+}
+
+RustedPlatingWall: {
+    DisplayName: Іржаве покриття стіни
+    Tooltip: ""
+}
+
+ElumplateWall: {
+    DisplayName: Елюмова плиткова стіна
+    Tooltip: ""
+}
+
+EutrophicSandWall: {
+    DisplayName: Небезпечна евтрофічна піщана стіна
+    Tooltip: ""
+}
+
+EutrophicSandWallSafe: {
+    DisplayName: Евтрофічна піщана стіна
+    Tooltip: ""
+}
+
+ExoPlatingWallItem: {
+    DisplayName: Екзопокривна стіна
+    Tooltip: ""
+}
+
+ExoPrismPanelWallItem: {
+    DisplayName: Екзопризматична панельна стіна
+    Tooltip: ""
+}
+
+FloralWall: {
+    DisplayName: Квіткова стіна
+    Tooltip: ""
+}
+
+HardenedAstralSandWall: {
+    DisplayName: Затверділа астральна піщана стіна
+    Tooltip: ""
+}
+
+HardenedSulphurousSandstoneWall: {
+    DisplayName: Затверділа сірчана пісковикова стіна
+    Tooltip: ""
+}
+
+HavocplateWall: {
+    DisplayName: Стінка хаос-плити
+    Tooltip: ""
+}
+
+NavyplateWall: {
+    DisplayName: Стінка морської плити
+    Tooltip: ""
+}
+
+NavystoneWall: {
+    DisplayName: Небезпечна морська кам'яна стіна
+    Tooltip: ""
+}
+
+NavystoneWallSafe: {
+    DisplayName: Морська кам'яна стіна
+    Tooltip: ""
+}
+
+OccultBrickWallItem: {
+    DisplayName: Окультна цегляна стіна
+    Tooltip: ""
+}
+
+OnyxplateWall: {
+    DisplayName: Оніксова плиткова стіна
+    Tooltip: ""
+}
+
+OtherworldlyStoneWall: {
+    DisplayName: Стінка потойбічного каменю
+    Tooltip: ""
+}
+
+PerennialBrickWall: {
+    DisplayName: Перенна цегляна стіна
+    Tooltip: ""
+}
+
+PlagueContainmentCellsWall: {
+    DisplayName: Стінка чумної плити
+    Tooltip: ""
+}
+
+PlaguedPlateWall: {
+    DisplayName: Стінка зараженого контейнера
+    Tooltip: ""
+}
+
+ProfanedCrystalWall: {
+    DisplayName: Осквернена кристалічна стіна
+    Tooltip: ""
+}
+
+ProfanedRockWall: {
+    DisplayName: Осквернена кам'яна стіна
+    Tooltip: ""
+}
+
+ProfanedSlabWall: {
+    DisplayName: Осквернена плиткова стіна
+    Tooltip: ""
+}
+
+RunicProfanedBrickWall: {
+    DisplayName: Рунічна осквернена цегляна стіна
+    Tooltip: ""
+}
+
+ScorchedBoneWall: {
+    DisplayName: Обпалена кісткова стіна
+    Tooltip: ""
+}
+
+ScoriaBrickWall: {
+    DisplayName: Скораїтова цегляна стіна
+    Tooltip: ""
+}
+
+SilvaWall: {
+    DisplayName: Стіна Сільви
+    Tooltip: ""
+}
+
+SmoothAbyssGravelWall: {
+    DisplayName: Гладка гравієва стіна Безодні
+    Tooltip: ""
+}
+
+SmoothBrimstoneSlagWall: {
+    DisplayName: Гладка шлакова стіна сірки
+    Tooltip: ""
+}
+
+SmoothNavystoneWall: {
+    DisplayName: Гладка морська кам'яна стіна
+    Tooltip: ""
+}
+
+SmoothVoidstoneWall: {
+    DisplayName: Гладка стіна каменю Порожнечі
+    Tooltip: ""
+}
+
+StatigelWall: {
+    DisplayName: Стінка статигелю
+    Tooltip: ""
+}
+
+StratusWall: {
+    DisplayName: Стінка стратусу
+    Tooltip: ""
+}
+
+SulphurousSandstoneWall: {
+    DisplayName: Сірчана пісковикова стіна
+    Tooltip: ""
+}
+
+SulphurousSandWall: {
+    DisplayName: Сірчана піщана стіна
+    Tooltip: ""
+}
+
+SulphurousShaleWall: {
+    DisplayName: Сірчана сланцева стіна
+    Tooltip: ""
+}
+
+UelibloomBrickWall: {
+    DisplayName: Цегляна стіна Юеліблуму
+    Tooltip: ""
+}
+
+VoidstoneSlabWall: {
+    DisplayName: Плиткова стіна каменю Порожнечі
+    Tooltip: ""
+}
+
+VoidstoneWall: {
+    DisplayName: Стінка каменю Порожнечі
+    Tooltip: ""
+}
+
+WulfrumPlatingWall: {
+    DisplayName: Стінка вульфрумового покриття
+    Tooltip: ""
+}
+
+FireTurret: {
+    DisplayName: Вогняна турель
+    Tooltip:
+        '''
+        Підсмажує навколишніх ворогів полум'ям з вогнемета на повну потужність
+        Не може атакувати, поки живий бос
+        '''
+}
+
+HostileFireTurret: {
+    DisplayName: Ворожа вогняна турель
+    Tooltip: Підсмажує гравців поруч полум'ям з вогнемета на повну потужність
+}
+
+HostileIceTurret: {
+    DisplayName: Ворожа крижана турель
+    Tooltip: Кидає крихкі бомби з крижаним туманом у гравців поруч
+}
+
+HostileLabTurret: {
+    DisplayName: Ворожа лабораторна турель
+    Tooltip: Стріляє лазерними променями у гравців поруч
+}
+
+HostileLaserTurret: {
+    DisplayName: Ворожа лазерна турель
+    Tooltip: Вражає гравців поруч блискавично швидкими лазерними променями
+}
+
+HostileOnyxTurret: {
+    DisplayName: Ворожа оніксова турель
+    Tooltip: Стріляє дробовим залпом куль у гравців поруч
+}
+
+HostilePlagueTurret: {
+    DisplayName: Ворожа чумна турель
+    Tooltip: Випускає самонавідні чумні ракети у гравців поруч
+}
+
+HostileWaterTurret: {
+    DisplayName: Ворожа водяна турель
+    Tooltip: Стріляє швидкісними водяними залпами у гравців поруч
+}
+
+IceTurret: {
+    DisplayName: Крижана турель
+    Tooltip:
+        '''
+        Кидає крихкі бомби з крижаним туманом у ворогів поруч
+        Не може атакувати, поки живий бос
+        '''
+}
+
+LabTurret: {
+    DisplayName: Лабораторна турель
+    Tooltip:
+        '''
+        Стріляє лазерними променями у ворогів поруч
+        Не може атакувати, поки живий бос
+        '''
+}
+
+LaserTurret: {
+    DisplayName: Лазерна турель
+    Tooltip:
+        '''
+        Вражає ворогів поруч блискавично швидкими лазерними променями
+        Не може атакувати, поки живий бос
+        '''
+}
+
+OnyxTurret: {
+    DisplayName: Оніксова турель
+    Tooltip:
+        '''
+        Стріляє дробовим залпом куль у ворогів поруч
+        Не може атакувати, поки живий бос
+        '''
+}
+
+PlagueTurret: {
+    DisplayName: Чумна турель
+    Tooltip:
+        '''
+        Випускає самонавідні чумні ракети у ворогів поруч
+        Не може атакувати, поки живий бос
+        '''
+}
+
+WaterTurret: {
+    DisplayName: Водяна турель
+    Tooltip:
+        '''
+        Стріляє швидкісними водяними залпами у ворогів поруч
+        Не може атакувати, поки живий бос
+        '''
+}
