@@ -1,0 +1,27 @@
+Accessory: {
+Cloaked.DisplayName: Замаскований
+Silent.DisplayName: Тихий
+// New modifier effects (this is only positive)
+StealthGenTooltip: +{0}% приросту скритності
+}
+
+Weapon: {
+Atrocious.DisplayName: Жахливий
+Blunt.DisplayName: Тупий
+Feathered.DisplayName: Пернатий
+Flawless.DisplayName: Бездоганний
+Flimsy.DisplayName: Кволий
+Glorious.DisplayName: Славний
+Hefty.DisplayName: Важкий
+Lethal.DisplayName: Смертельний
+Mighty.DisplayName: Могутній
+Pointy.DisplayName: Колючий
+Radical.DisplayName: Радикальний
+Serrated.DisplayName: Зубчастий
+Sharp.DisplayName: Гострий
+Sleek.DisplayName: Стрункий
+Unbalanced.DisplayName: Неврівноважений
+Vicious.DisplayName: Лютий
+// New modifier effects (plus sign added in-code)
+StealthDamageTooltip: "{0}% шкоди від скритних ударів"
+}
