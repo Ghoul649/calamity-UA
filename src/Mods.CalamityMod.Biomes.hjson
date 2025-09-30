@@ -1,50 +1,82 @@
 // For general uses
-// Abyss: Abyss
-// AstralInfection: Astral Infection
-// AstralDesert: Astral Desert
-// AstralSnow: Astral Snow
-// BrimstoneCrags: Brimstone Crags
-// SulphurousSea: Sulphurous Sea
-// SunkenSea: Sunken Sea
+Abyss: Безодня
+AstralInfection: Астральне зараження
+AstralSnow: Астральний сніг
+BrimstoneCrags: Сірчані скелі
+SulphurousSea: Сірчане море
+SunkenSea: Затонуле море
 
-AbovegroundAstralBiome: {
+AstralDesert: {
+    DisplayName: Поверхня астральної пустелі
+    TownNPCDialogueName: Астральна пустеля
 }
 
-AbovegroundAstralBiomeSurface: {
+AstralBiome: {
+    DisplayName: Астральне зараження
+    TownNPCDialogueName: Астральне зараження
 }
 
-AbovegroundAstralDesertBiome: {
+AstralInfectionBiome: {
+    DisplayName: Астральне зараження
+    TownNPCDialogueName: Астральне зараження
 }
 
-AbovegroundAstralSnowBiome: {
+AstralIce: {
+    DisplayName: Астральний лід
+    TownNPCDialogueName: Астральний сніг
 }
 
 AbyssLayer1Biome: {
+    DisplayName: Сірчані глибини
+    TownNPCDialogueName: Сірчані глибини
 }
 
 AbyssLayer2Biome: {
+    DisplayName: Каламутні води
+    TownNPCDialogueName: Каламутні води
 }
 
 AbyssLayer3Biome: {
+    DisplayName: Термальні жерла
+    TownNPCDialogueName: Термальні жерла
 }
 
 AbyssLayer4Biome: {
+    DisplayName: Порожнеча
+    TownNPCDialogueName: Порожнеча
 }
 
 AcidRainBiome: {
+    DisplayName: Кислотний дощ
+    TownNPCDialogueName: Кислотний дощ
 }
 
 ArsenalLabBiome: {
+    DisplayName: Лабораторії Арсеналу
+    TownNPCDialogueName: Лабораторія Арсеналу
 }
 
 BrimstoneCragsBiome: {
+    DisplayName: Сірчані скелі
+    TownNPCDialogueName: Сірчані скелі
 }
 
 SulphurousSeaBiome: {
+    DisplayName: Сірчане море
+    TownNPCDialogueName: Сірчане море
 }
 
 SunkenSeaBiome: {
+    DisplayName: Затонуле море
+    TownNPCDialogueName: Затонуле море
 }
 
-UndergroundAstralBiome: {
+AstralUnderground: {
+    DisplayName: Астральний підземелля
+    TownNPCDialogueName: Підземне астральне зараження
+}
+
+AstralCaveDesert: {
+    DisplayName: Астральна печерна пустеля
+    TownNPCDialogueName: астральна печерна пустеля
 }

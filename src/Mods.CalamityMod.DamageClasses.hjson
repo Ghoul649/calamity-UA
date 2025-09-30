@@ -1,4 +1,6 @@
-AverageDamageClass.DisplayName: нейтральна шкода
-RogueDamageClass.DisplayName: розбійна шкода
-TrueMeleeDamageClass.DisplayName: справжня ближня шкода
-TrueMeleeNoSpeedDamageClass.DisplayName: справжня ближня шкода
+AverageDamageClass.DisplayName: середній урон
+MeleeRangedHybridDamageClass.DisplayName: урон ближнього/дальнього бою
+RogueDamageClass.DisplayName: урон розбійника
+StealthDamageClass.DisplayName: урон скритності
+TrueMeleeDamageClass.DisplayName: справжній урон ближнього бою
+TrueMeleeNoSpeedDamageClass.DisplayName: справжній урон ближнього бою
