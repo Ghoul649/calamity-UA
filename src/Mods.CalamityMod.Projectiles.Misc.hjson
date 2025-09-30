@@ -1,0 +1,70 @@
+// Damageable
+MarniteRepulsionHitbox.DisplayName: Матриця відштовхування
+ArtifactOfResilienceBulwark.DisplayName: Артефакт стійкості
+// Draedon's Arsenal
+AnomalysNanogunHoldout.DisplayName: Наногармата Аномалії
+AnomalysNanogunMPFBBoom.DisplayName: Вибух MPFB
+AnomalysNanogunMPFBDevastator.DisplayName: Спустошувач MPFB
+AnomalysNanogunPlasmaBeam.DisplayName: Плазмовий промінь
+FrequencyManipulatorEnergy.DisplayName: Імпульсна енергія
+FrequencyManipulatorProjectile.DisplayName: Маніпулятор частоти
+GatlingLaserShot.DisplayName: Гатлінг-лазер
+GaussEnergy.DisplayName: Енергія Гауса
+GaussFlux.DisplayName: Потік Гауса
+GaussPistolShot.DisplayName: Постріл Гауса
+GaussRifleBlast.DisplayName: Вибух Гауса
+GaussRifleExplosion.DisplayName: Вибух Гауса
+LaserRifleShot.DisplayName: Лазерна гвинтівка
+MassivePlasmaExplosion.DisplayName: Плазмовий вибух
+MountedScannerLaser.DisplayName: Променем смерті
+MountedScannerSummon.DisplayName: Сканер на кріпленні
+PhaseslayerBeam.DisplayName: Лезо світла
+PlasmaCasterShot.DisplayName: Плазмовий болт
+PlasmaGrenadeProjectile.DisplayName: Плазмова граната
+PlasmaGrenadeSmallExplosion.DisplayName: Плазмовий вибух
+PoleWarperSummon.DisplayName: Вирівнювач полюсів
+PulseDragonProjectile.DisplayName: Імпульсний дракон
+PulsePistolShot.DisplayName: Імпульсний болт
+PulseRifleShot.DisplayName: Імпульсний болт
+PulseTurret.DisplayName: Імпульсна турель
+PulseTurretShot.DisplayName: Імпульсний болт
+SnakeEyesSummon.DisplayName: Зміїні очі
+SnakeEyesProjectile.DisplayName: Невідворотний болт
+StarSwallowerAcid.DisplayName: Кислота
+StarSwallowerSummon.DisplayName: Питомий жаб
+SystemBaneLightning.DisplayName: Блискавка
+SystemBaneProjectile.DisplayName: Система погибелі
+TaserHook.DisplayName: Електрошокер
+TeslaCannonShot.DisplayName: Тесла-промінь
+TrackingDiskLaser.DisplayName: Лазер
+TrackingDiskProjectile.DisplayName: Відстежувальний диск
+UnstableMatter.DisplayName: Нестабільна матерія
+VoltageStream.DisplayName: Потік напруги
+WavePounderBoom.DisplayName: Вибух
+WavePounderProjectile.DisplayName: Хвильовий удар
+// Environmental
+AcidDrop.DisplayName: Кислота
+BrimstoneGeyser.DisplayName: Дим
+GeyserTelegraph.DisplayName: Гейзер
+HotSteam.DisplayName: Пар
+LavaChunk.DisplayName: Лавовий шматок
+MurkySteam.DisplayName: Пар
+SmokeTelegraph.DisplayName: Дим
+ThermalSteam.DisplayName: Пар
+// Turrets
+DraedonLaser.DisplayName: Лазер Драедона
+DraedonLaserBuffer.DisplayName: Лазер Драедона
+FireShot.DisplayName: Вогняний постріл
+FireShotBuffer.DisplayName: Вогняний постріл
+IceExplosion.DisplayName: Газ льоду
+IceShot.DisplayName: Льодовий постріл
+IceShotBuffer.DisplayName: Льодовий постріл
+LaserShot.DisplayName: Лазерний постріл
+LaserShotBuffer.DisplayName: Лазерний постріл
+OnyxShot.DisplayName: Оніксовий постріл
+OnyxShotBuffer.DisplayName: Оніксовий постріл
+PlagueExplosionGas.DisplayName: Газ чуми
+PlagueShot.DisplayName: Постріл чуми
+PlagueShotBuffer.DisplayName: Постріл чуми
+WaterShot.DisplayName: Водяний постріл
+WaterShotBuffer.DisplayName: Водяний постріл
